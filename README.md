@@ -4,7 +4,8 @@ List of awesome hosting
 
 ## Support
 
-[![Beerpay](https://beerpay.io/dalisoft/awesome-hosting/badge.svg?style=beer-square)](https://beerpay.io/dalisoft/awesome-hosting) [![Beerpay](https://beerpay.io/dalisoft/awesome-hosting/make-wish.svg?style=flat-square)](https://beerpay.io/dalisoft/awesome-hosting?focus=wish)
+[![Beerpay](https://beerpay.io/dalisoft/awesome-hosting/badge.svg?style=beer-square)](https://beerpay.io/dalisoft/awesome-hosting)
+[![Beerpay](https://beerpay.io/dalisoft/awesome-hosting/make-wish.svg?style=flat-square)](https://beerpay.io/dalisoft/awesome-hosting?focus=wish)
 
 You can support me by
 
@@ -55,12 +56,14 @@ List of all Virtual Private Server
 | -------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------- | --------------- | --------------------------------------------------------------- |
 | [Kamatera](https://www.kamatera.com)         | [See pricing](https://www.kamatera.com/Products/250/Pricing) (4 \$/m) | [30-day](https://www.kamatera.com/Products/258/How_it_Works) |                                       |                 | [Affiliate Program](https://www.kamatera.com/Affiliate_Program) |
 | [Hetzner](https://www.hetzner.com)           | [See pricing](https://www.hetzner.com/cloud-ru) (2.99 €/m)            | No                                                           | No                                    |                 | No Referral system                                              |
-| [DigitalOcean](https://www.digitalocean.com) | [Standard 1GB](https://www.digitalocean.com/pricing)                  | 60-day                                                       | Trial, 10\$ Credit                    |                 | [My referral link](https://m.do.co/c/2f2fa68beccd)              |
-| [Vultr](https://www.vultr.com)               | [Skylake 10GB](https://www.vultr.com/pricing/)                        | 60-day                                                       | Trial, 10$ or 50$ Credit with &raquo; |                 | I'm requested referral link                                     |
+| [DigitalOcean](https://www.digitalocean.com) | [Standard 1GB](https://www.digitalocean.com/pricing) (5 \$/m)         | 60-day                                                       | Trial, 10\$ Credit                    |                 | [My referral link](https://m.do.co/c/2f2fa68beccd)              |
+| [Vultr](https://www.vultr.com)               | [Skylake 10GB](https://www.vultr.com/pricing/) (2.5 \$/m)             | 60-day                                                       | Trial, 10$ or 25$ Credit with &raquo; |                 | [My referral link](https://www.vultr.com/?ref=7912855-4F)       |
 | [LastBackend](https://lastbackend.com/)      | [See plans](https://lastbackend.com/pricing/) (10 \$/m)               | No                                                           | Open-source                           | Unlimited cloud | No Referral system                                              |
 | [EngineYard](https://www.engineyard.com)     | [Solo](https://www.engineyard.com/pricing-aws-paas) (25 \$/m)         | Yes                                                          | Free trial, 500 AWS Hours             |                 | No Referral system                                              |
-| [SupremeVPS](https://www.supremevps.com/)    | [VPS 1GB](https://www.supremevps.com/ssd-vps-hosting/)                | No                                                           | No                                    |                 | Not works as expected                                           |
+| [SupremeVPS](https://www.supremevps.com/)    | [VPS 1GB](https://www.supremevps.com/ssd-vps-hosting/) (5 \$/m)       | No                                                           | No                                    |                 | Not works as expected                                           |
 | [Yandex.Cloud](https://cloud.yandex.ru)      | [See pricing](https://cloud.yandex.ru/prices) (3.50 \$/m)             | Credit-only                                                  | ~60\$ credit                          |                 | Not able to register                                            |
+| [Linode](https://www.linode.com)             | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                 | 7-day                                                        | No                                    |                 | No Referral system                                              |
+| [f(x){data}](https://fxdata.cloud)           | [fx.galileo](https://fxdata.cloud) (1.99 \$/m)                        | No                                                           | No                                    |                 | No Referral system                                              |
 
 ## License
 
