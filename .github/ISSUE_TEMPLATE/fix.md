@@ -1,6 +1,6 @@
 ---
-name: Fix
-about: Template for typo-fixing
+name: Bug
+about: Select when wrong info, typo error or license violation
 title: "[BUG]: "
 labels: bug
 assignees: dalisoft
