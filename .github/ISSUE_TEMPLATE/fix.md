@@ -20,3 +20,9 @@ assignees: dalisoft
 - [ ] Static hosting
 
 ## Description
+
+_Please describe your issue_
+
+## Link
+
+_Please link here to verify about bug_
