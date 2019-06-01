@@ -1,8 +1,4 @@
----
-name: PR
-title: "[PR]: "
-assignees: dalisoft
----
+# PR: Thank you!
 
 ## Reason
 
@@ -24,3 +20,7 @@ _Name of new item_
 ## Link
 
 _Requires for verify_
+
+## Thank you for improving project
+
+**This helps others find VPS or hosting of their choise**
