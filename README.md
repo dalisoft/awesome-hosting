@@ -64,6 +64,7 @@ List of all Virtual Private Server
 | [Yandex.Cloud](https://cloud.yandex.ru)      | [See pricing](https://cloud.yandex.ru/prices) (3.50 \$/m)             | Credit-only                                                  | ~60\$ credit                          |                 | Not able to register                                            |
 | [Linode](https://www.linode.com)             | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                 | 7-day                                                        | No                                    |                 | No Referral system                                              |
 | [f(x){data}](https://fxdata.cloud)           | [fx.galileo](https://fxdata.cloud) (1.99 \$/m)                        | No                                                           | No                                    |                 | No Referral system                                              |
+| [CloudSigma](https://cloudsigma.com)         | [Small-2](https://cloudsigma.com/pricing) (14 \$/m)                   | 7-day                                                        | No                                    |                 | No Referral system                                              |
 
 ## License
 
