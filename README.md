@@ -46,7 +46,7 @@ List of all static site hosting platform
 | [Netlify](https://www.netlify.com)       | [Pro](https://www.netlify.com/pricing) (45 \$/m)         | No    | Yes (1 Concurrent build)                                           |                   | Static | Yes    | No Referral system |
 | [Github Pages](https://pages.github.com) |                                                          | No    | [Public](https://help.github.com/en/articles/what-is-github-pages) |                   | Static | No     | No Referral system |
 | [Surge](https://surge.sh)                | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No    | Yes                                                                |                   | Static | No     | No Referral system |
-|                                          |
+| [Forestry](https://forestry.io/pricing/) | [STARTER](https://forestry.io/pricing/) (9 \$/user/m)    | No    | Yes                                                                |                   | Static | No     | No Referral system |
 
 ## VPS
 
