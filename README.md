@@ -65,6 +65,7 @@ List of all Virtual Private Server
 | [Linode](https://www.linode.com)             | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                 | 7-day                                                        | No                                    |                 | No Referral system                                              |
 | [f(x){data}](https://fxdata.cloud)           | [fx.galileo](https://fxdata.cloud) (1.99 \$/m)                        | No                                                           | No                                    |                 | No Referral system                                              |
 | [CloudSigma](https://cloudsigma.com)         | [Small-2](https://cloudsigma.com/pricing) (14 \$/m)                   | 7-day                                                        | No                                    |                 | No Referral system                                              |
+| [RuVDS](https://ruvds.com/en-usd)            | [See pricing](https://ruvds.com/en-usd#order) (2.6 \$/m)              | 3-day                                                        | No                                    |                 | [My referral link](https://ruvds.com/pr3299)                    |
 
 ## License
 
