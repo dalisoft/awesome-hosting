@@ -2,18 +2,6 @@
 
 List of awesome hosting
 
-## Support
-
-[![Beerpay](https://beerpay.io/dalisoft/awesome-hosting/badge.svg?style=beer-square)](https://beerpay.io/dalisoft/awesome-hosting)
-[![Beerpay](https://beerpay.io/dalisoft/awesome-hosting/make-wish.svg?style=flat-square)](https://beerpay.io/dalisoft/awesome-hosting?focus=wish)
-
-You can support me by
-
-- Star project
-- Add hosting to list (PR)
-- Typo fix
-- Click to my referral link (if available)
-
 ## Node.js
 
 List of all Node.js hosting platform
