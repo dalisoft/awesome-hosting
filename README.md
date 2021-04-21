@@ -81,6 +81,12 @@ List of all Virtual Private Server
 | [SSD Nodes](https://www.ssdnodes.com) <sup>untrusted</sup> | [KVM / Small](https://www.ssdnodes.com/pricing/) (4.99 \$/m)            | 14-day refund only                                           | No                                    |                  | No Referral system                                                       |
 | [FirstVDS](https://firstvds.ru)                            | [See pricing](https://firstvds.ru/products/vds_vps_hosting) (2.21 \$/m) | No                                                           | No                                    |                  | [My referral link](https://firstvds.ru/?from=1025225), Promo: 6481025225 |
 
+---
+
+## Resources
+
+- <https://free-for.dev/#/?id=web-hosting>
+
 ## License
 
 MIT
