@@ -87,6 +87,8 @@ List of all Virtual Private Server
 
 - <https://free-for.dev/#/?id=web-hosting>
 
+---
+
 ## License
 
 MIT
