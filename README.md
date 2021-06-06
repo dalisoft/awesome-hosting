@@ -11,7 +11,7 @@ List of all Web services platform
 | [Amazon Web Services](https://aws.amazon.com)           | [See plans](https://aws.amazon.com/pricing/)              | Yes, 1-year | Yes (1 App) / Free tier                                                              |             | All  | Yes    | No Referral system   |
 | [Azure Web Services](https://azure.microsoft.com/en-us) | [See plans](https://azure.microsoft.com/en-us/pricing/)   | Yes, 1-year | Yes (1 App) / [Free tier](https://azure.microsoft.com/en-us/free/) / 200\$ Credit    |             | All  | Yes    | No Referral system   |
 | [Google Cloud Platform](https://cloud.google.com)       | [See plans](https://cloud.google.com/pricing/)            | Yes, 1-year | Yes (1 App) / [Free tier](https://console.cloud.google.com/freetrial) / 300\$ Credit |             | All  | Yes    | No Referral system   |
-| [Oracle Cloud](https://www.oracle.com/cloud)            | [See plans](https://www.oracle.com/cloud/pricing.html)    | Yes, 1-year | Yes (1 App) / [Free tier](https://www.oracle.com/cloud/free/) / 300\$ Credit         |             | All  | Yes    | No Referral system   |
+| [Oracle Cloud](https://www.oracle.com/cloud)            | [See plans](https://www.oracle.com/cloud/pricing.html)    | Yes, 1-year | Yes (2 App) / [Free tier](https://www.oracle.com/cloud/free/) / 300\$ Credit         |             | All  | Yes    | No Referral system   |
 | [Yandex.Cloud](https://cloud.yandex.ru)                 | [See pricing](https://cloud.yandex.ru/prices) (3.50 \$/m) | Credit-only | ~60\$ credit                                                                         |             | All  | ?      | Not able to register |
 
 ---
