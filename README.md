@@ -82,6 +82,7 @@ List of all Virtual Private Server
 | [RuVDS](https://ruvds.com/en-usd)                          | [See pricing](https://ruvds.com/en-usd#order) (2.6 \$/m)                | 3-day                                                        | No                                    |                  | [My referral link](https://ruvds.com/pr3299)                             |
 | [SSD Nodes](https://www.ssdnodes.com) <sup>untrusted</sup> | [KVM / Small](https://www.ssdnodes.com/pricing/) (4.99 \$/m)            | 14-day refund only                                           | No                                    |                  | No Referral system                                                       |
 | [FirstVDS](https://firstvds.ru)                            | [See pricing](https://firstvds.ru/products/vds_vps_hosting) (2.21 \$/m) | No                                                           | No                                    |                  | [My referral link](https://firstvds.ru/?from=1025225), Promo: 6481025225 |
+| [Hostworld](https://hostworld.uk)                            | [See pricing](https://hostworld.uk/ssd-vps) (1.99 \£/m) | No                                                           | No                                    |                  | No Referral system   |
 
 ---
 
