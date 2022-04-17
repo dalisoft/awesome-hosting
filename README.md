@@ -86,6 +86,8 @@ List of all Virtual Private Server
 | [Hostworld](https://hostworld.uk)                          | [See pricing](https://hostworld.uk/ssd-vps) (1.99 \£/m)                 | No                                                           | No                                    |                  | No Referral system                                                                                                          |
 | [TimeWeb Cloud](https://cloud.timeweb.com/)                | [Danny](https://cloud.timeweb.com/vds-vps) (3.54 \$/m)                  | No                                                           | No                                    |                  | [My referral link](https://cloud.timeweb.com/vds?utm_source=cp40962&utm_medium=timeweb&utm_campaign=timeweb-bring-a-friend) |
 
+---
+
 ## Database
 
 | Name                                            | Minimal plan  | Trial                                                  | Free             | Open Source |
