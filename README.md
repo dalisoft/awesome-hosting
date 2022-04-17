@@ -101,10 +101,11 @@ List of all Virtual Private Server
 
 List of all managed databases
 
-| Name                                            | Minimal plan  | Trial                                                  | Free             | Open Source |
-| ----------------------------------------------- | ------------- | ------------------------------------------------------ | ---------------- | ----------- |
-| [Upstash](https://upstash.com/)                 | Pas-as-you-Go | No                                                     | 10K commands/day |             |
-| [Atlas](https://www.mongodb.com/atlas/database) |               | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m) | No               | Shared plan |
+| Name                                            | Type        | Minimal plan                                                     | Trial | Free                          | Open Source |
+| ----------------------------------------------- | ----------- | ---------------------------------------------------------------- | ----- | ----------------------------- | ----------- |
+| [Upstash](https://upstash.com/)                 | Redis+Kafka | Pas-as-you-Go                                                    | No    | 10K commands/day              |             |
+| [Atlas](https://www.mongodb.com/atlas/database) | MongoDB     | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)           | No    | Shared plan                   |             |
+| [ElephantSQL](https://www.elephantsql.com/)     | PostgreSQL  | [Simple spider](https://www.elephantsql.com/plans.html) (5 \$/m) |       | Tiny turtle plan |
 
 ---
 
