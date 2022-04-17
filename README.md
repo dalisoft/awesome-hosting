@@ -8,7 +8,7 @@ List of awesome hosting
 
 ## Support
 
-You can support project by **Clicking to name of service**, not **Pricing** or **Plans** link as **service name links** includes affiliates (not all only a few of those)
+You can support project by **Clicking to name of service**, with 💲 badge, not **Pricing** or **Plans** link as **service name links** includes affiliates (only those which with 💲 badge)
 
 ## Web Services Platform
 
@@ -21,7 +21,7 @@ List of all Web services platform
 | [Google Cloud Platform](https://cloud.google.com)                       | [See plans](https://cloud.google.com/pricing/)                                                                          | Yes, 1-year                                                                    | Yes (1 App) / [Free tier](https://console.cloud.google.com/freetrial) / 300\$ Credit |             | All  | Yes    |
 | [Oracle Cloud](https://www.oracle.com/cloud) <sup>not recommended</sup> | [See plans](https://www.oracle.com/cloud/pricing.html)                                                                  | Yes (30 days) / [Free tier](https://www.oracle.com/cloud/free/) / 300\$ Credit |                                                                                      | All         | Yes  |
 | [Yandex.Cloud](https://cloud.yandex.ru) 🇷🇺                              | [See pricing](https://cloud.yandex.ru/prices)                                                                           | Credit-only                                                                    | ~60\$ credit                                                                         |             | All  | ?      |
-| [Sber.Cloud](https://cloud.sbercloud.ru) 🇷🇺                             | [See pricing](https://cdn.sbercloud.ru/backend/docs/sbercloud_advanced/tariffs/7.6.H_tariff_CLOUD_CONTAINER_ENGINE.pdf) | Credit-only                                                                    | -                                                                                    |             | All  | ?      |
+| [Sber.Cloud](https://cloud.sbercloud.ru) 🇷🇺                             | [See pricing](https://cdn.sbercloud.ru/backend/docs/sbercloud_advanced/tariffs/7.6.H_tariff_CLOUD_CONTAINER_ENGINE.pdf) | Credit-only                                                                    |                                                                                      |             | All  | ?      |
 
 ---
 
@@ -78,10 +78,10 @@ List of all Virtual Private Server
 | [Kamatera](https://www.kamatera.com) <sup>untrusted</sup>                                                                   | 4 \$/m                                                             | [30-day](https://www.kamatera.com/Products/258/How_it_Works) |
 | [VScale](https://www.vscale.io)                                                                                             | [See pricing](https://vscale.io/ru/pricing.html) (~3.15 \$/m)      | No                                                           |
 | [Hetzner](https://www.hetzner.com)                                                                                          | [See pricing](https://www.hetzner.com/cloud-ru) (2.99 €/m)         | No                                                           | No                                    |
-| [Scaleway](https://www.digitalocean.com)                                                                                    | [See pricing](https://www.scaleway.com/en/pricing/) (€0.0025/hour) | No                                                           | No                                    |
-| [DigitalOcean](https://m.do.co/c/030da2341a70)                                                                              | Standard 1GB (6 \$/m)                                              | 60-day                                                       | Trial, 10\$ Credit                    |
-| [UpCloud](https://upcloud.com/signup/?promo=D5VUZ2) <sup>verified</sup>                                                     | [See plans](https://www.upcloud.com/pricing/) (5 \$/m)             | ?                                                            | Trial or 25\$ Credit with &raquo;     |
-| [Vultr](https://www.vultr.com/?ref=7912854)                                                                                 | [Skylake 10GB](https://www.vultr.com/pricing/) (2.5 \$/m)          | 60-day                                                       | Trial, 10$ or 25$ Credit with &raquo; |
+| [Scaleway](https://www.scaleway.com)                                                                                    | [See pricing](https://www.scaleway.com/en/pricing/) (€0.0025/hour) | No                                                           | No                                    |
+| [DigitalOcean](https://m.do.co/c/030da2341a70) 💲                                                                              | Standard 1GB (6 \$/m)                                              | 60-day                                                       | Trial, 10\$ Credit                    |
+| [UpCloud](https://upcloud.com/signup/?promo=D5VUZ2) 💲 <sup>verified</sup>                                                     | [See plans](https://www.upcloud.com/pricing/) (5 \$/m)             | ?                                                            | Trial or 25\$ Credit with &raquo;     |
+| [Vultr](https://www.vultr.com/?ref=7912854) 💲                                                                                 | [Skylake 10GB](https://www.vultr.com/pricing/) (2.5 \$/m)          | 60-day                                                       | Trial, 10$ or 25$ Credit with &raquo; |
 | [LastBackend](https://lastbackend.com/)                                                                                     | [See plans](https://lastbackend.com/pricing/) (10 \$/m)            | No                                                           | Open-source                           | Unlimited cloud? |
 | [LightSail](https://aws.amazon.com/lightsail/)                                                                              | [See plans](https://aws.amazon.com/lightsail/pricing/) (3.5 \$/m)  | 1 Month                                                      | No                                    | Unlimited cloud? |
 | [EngineYard](https://www.engineyard.com)                                                                                    | [Solo](https://www.engineyard.com/pricing-aws-paas) (25 \$/m)      | Yes                                                          | Free trial, 500 AWS Hours             |
@@ -89,11 +89,11 @@ List of all Virtual Private Server
 | [Linode](https://www.linode.com) <sup>verified</sup>                                                                        | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)              | 7-day                                                        | No                                    |
 | [f(x){data}](https://fxdata.cloud)                                                                                          | [fx.galileo](https://fxdata.cloud) (1.99 \$/m)                     | No                                                           | No                                    |
 | [CloudSigma](https://cloudsigma.com)                                                                                        | [Small-2](https://cloudsigma.com/pricing) (14 \$/m)                | 7-day                                                        | No                                    |
-| [RuVDS](https://ruvds.com/pr3299) 🇷🇺                                                                                        | Start->Start (2.6 \$/m)                                            | 3-day                                                        | No                                    |
+| [RuVDS](https://ruvds.com/pr3299) 🇷🇺💲                                                                                        | Start->Start (2.6 \$/m)                                            | 3-day                                                        | No                                    |
 | [SSD Nodes](https://www.ssdnodes.com) <sup>untrusted</sup>                                                                  | [KVM / Small](https://www.ssdnodes.com/pricing/) (4.99 \$/m)       | 14-day refund only                                           | No                                    |
-| [FirstVDS](https://firstvds.ru/?from=1025225) 🇷🇺                                                                            | Прогрев (3.67 \$/m)                                                | No                                                           | No                                    |
+| [FirstVDS](https://firstvds.ru/?from=1025225) 🇷🇺💲                                                                            | Прогрев (3.67 \$/m)                                                | No                                                           | No                                    |
 | [Hostworld](https://hostworld.uk)                                                                                           | [See pricing](https://hostworld.uk/ssd-vps) (1.99 \£/m)            | No                                                           | No                                    |
-| [TimeWeb Cloud](https://cloud.timeweb.com/vds?utm_source=cp40962&utm_medium=timeweb&utm_campaign=timeweb-bring-a-friend) 🇷🇺 | Danny (3.54 \$/m)                                                  | No                                                           | No                                    |
+| [TimeWeb Cloud](https://cloud.timeweb.com/vds?utm_source=cp40962&utm_medium=timeweb&utm_campaign=timeweb-bring-a-friend) 🇷🇺💲 | Danny (3.54 \$/m)                                                  | No                                                           | No                                    |
 
 ---
 
@@ -101,10 +101,10 @@ List of all Virtual Private Server
 
 List of all managed databases
 
-| Name                                            | Type        | Minimal plan                                                     | Trial | Free                          | Open Source |
-| ----------------------------------------------- | ----------- | ---------------------------------------------------------------- | ----- | ----------------------------- | ----------- |
-| [Upstash](https://upstash.com/)                 | Redis+Kafka | Pas-as-you-Go                                                    | No    | 10K commands/day              |             |
-| [Atlas](https://www.mongodb.com/atlas/database) | MongoDB     | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)           | No    | Shared plan                   |             |
+| Name                                            | Type        | Minimal plan                                                     | Trial | Free             | Open Source |
+| ----------------------------------------------- | ----------- | ---------------------------------------------------------------- | ----- | ---------------- | ----------- |
+| [Upstash](https://upstash.com/)                 | Redis+Kafka | Pas-as-you-Go                                                    | No    | 10K commands/day |             |
+| [Atlas](https://www.mongodb.com/atlas/database) | MongoDB     | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)           | No    | Shared plan      |             |
 | [ElephantSQL](https://www.elephantsql.com/)     | PostgreSQL  | [Simple spider](https://www.elephantsql.com/plans.html) (5 \$/m) |       | Tiny turtle plan |
 
 ---
