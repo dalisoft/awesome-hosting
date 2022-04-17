@@ -90,6 +90,8 @@ List of all Virtual Private Server
 
 ## Database
 
+List of all managed databases
+
 | Name                                            | Minimal plan  | Trial                                                  | Free             | Open Source |
 | ----------------------------------------------- | ------------- | ------------------------------------------------------ | ---------------- | ----------- |
 | [Upstash](https://upstash.com/)                 | Pas-as-you-Go | No                                                     | 10K commands/day |             |
