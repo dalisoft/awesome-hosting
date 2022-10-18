@@ -16,7 +16,7 @@ List of all Web services platform
 
 | Name                                                                    | Minimal plan                                                                                                            | Trial                                                                          | Free                                                                                 | Open Source | Type | Lambda |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------- | ---- | ------ |
-| [Amazon Web Services](https://aws.amazon.com)                           | [See plans](https://aws.amazon.com/pricing/)                                                                            | Yes, 1-year                                                                    | Yes, only AWS Lambda                                                              |             | All  | Yes    |
+| [Amazon Web Services](https://aws.amazon.com)                           | [See plans](https://aws.amazon.com/pricing/)                                                                            | Yes, 1-year                                                                    | Yes, only AWS Lambda                                                                 |             | All  | Yes    |
 | [Azure Web Services](https://azure.microsoft.com/en-us)                 | [See plans](https://azure.microsoft.com/en-us/pricing/)                                                                 | Yes, 1-year                                                                    | Yes (1 App) / [Free tier](https://azure.microsoft.com/en-us/free/) / 200\$ Credit    |             | All  | Yes    |
 | [Google Cloud Platform](https://cloud.google.com)                       | [See plans](https://cloud.google.com/pricing/)                                                                          | Yes, 1-year                                                                    | Yes (1 App) / [Free tier](https://console.cloud.google.com/freetrial) / 300\$ Credit |             | All  | Yes    |
 | [Oracle Cloud](https://www.oracle.com/cloud) <sup>not recommended</sup> | [See plans](https://www.oracle.com/cloud/pricing.html)                                                                  | Yes (30 days) / [Free tier](https://www.oracle.com/cloud/free/) / 300\$ Credit |                                                                                      | All         | Yes  |
@@ -38,6 +38,23 @@ List of all Backend-as-a-Service platform
 | [appwrite Cloud](https://appwrite.io/cloud)     | N/A                                                      | No    | Yes (Self-hosted)                                  |             | -           | -      |
 | [PocketBase](https://pocketbase.io)             | Your infrastructure                                      | -     | Self-Hosted                                        |             | Dynamic     | -      |
 | [directus](https://directus.io/)                | [Standard Cloud](https://directus.io/pricing/) (25 \$/m) | No    | [Community Cloud](https://directus.io/pricing/)    | Yes         | Dynamic     | ?      |
+
+---
+
+### Lambda
+
+List of all Lambda(Serverless)-as-a-Service platform
+
+| Name                                                              | Minimal plan                                                                                         | Trial | Free                   | Open Source |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- | ---------------------- | ----------- |
+| [Vercel Edge](https://vercel.com/features/edge-functions)         | [Pro](https://vercel.com/pricing) (20 \$/m)                                                          | No    | 1M invocations / month |             |
+| [Cloudflare Workers](https://workers.cloudflare.com/)             | [Pay-as-you-Go](https://workers.cloudflare.com/) (5 \$/m)                                            | No    | 1M request / month     |             |
+| [Netlify Functions](https://www.netlify.com/products/functions/)  | [Level 1](https://www.netlify.com/products/functions/) (25 \$/site/m)                                | No    | 100K request / day     |             |
+| [Serverless Cloud](https://www.serverless.com/cloud)              | [Startup](https://www.serverless.com/cloud/pricing) (19 \$/user/m)                                   | No    | 100K request / day     |             |
+| [AWS Lambda](https://aws.amazon.com/lambda)                       | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing/) (0.2 \$/m req)                               | No    | 100K request / day     |             |
+| [Google Functions](https://cloud.google.com/functions)            | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No    | 2M invocations / month |             |
+| [Google Run](https://cloud.google.com/run) \[container\]          | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)                                 | No    | 2M invocations / month |             |
+| [Azure Functions](https://azure.microsoft.com/products/functions) | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No    | 1M invocations / month |             |
 
 ---
 
@@ -127,6 +144,7 @@ List of all managed databases
 ## Resources
 
 - <https://free-for.dev/#/?id=web-hosting>
+- <https://github.com/anaibol/awesome-serverless#hosting-and-code-execution-in-the-cloud>
 
 ---
 
