@@ -105,7 +105,7 @@ List of all Virtual Private Server
 
 | Name                                                                                                                          | Minimal plan                                                       | Trial                                                        | Free                                  | Open Source      |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------- | ---------------- |
-| [fly.io](https://fly.io)                                                                                                      | [Pay-as-you-Grow](https://fly.io/docs/about/pricing/)              | No                                                           | Yes (3 shared-cpu VM)                 |
+| [fly.io](https://fly.io)                                                                                                      | [Launch](https://fly.io/plans)                                     | No                                                           | Yes (3 shared-cpu VM)                 |
 | [Kamatera](https://www.kamatera.com) <sup>untrusted</sup>                                                                     | 4 \$/m                                                             | [30-day](https://www.kamatera.com/Products/258/How_it_Works) |
 | [VScale](https://www.vscale.io)                                                                                               | [See pricing](https://vscale.io/ru/pricing.html) (~3.15 \$/m)      | No                                                           |
 | [Hetzner](https://www.hetzner.com)                                                                                            | [See pricing](https://www.hetzner.com/cloud-ru) (2.99 €/m)         | No                                                           | No                                    |
@@ -125,6 +125,7 @@ List of all Virtual Private Server
 | [FirstVDS](https://firstvds.ru/?from=1025225) 🇷🇺💲                                                                            | Прогрев (3.67 \$/m)                                                | No                                                           | No                                    |
 | [Hostworld](https://hostworld.uk)                                                                                             | [See pricing](https://hostworld.uk/ssd-vps) (1.99 \£/m)            | No                                                           | No                                    |
 | [TimeWeb Cloud](https://cloud.timeweb.com/vds?utm_source=cp40962&utm_medium=timeweb&utm_campaign=timeweb-bring-a-friend) 🇷🇺💲 | Danny (3.54 \$/m)                                                  | No                                                           | No                                    |
+| [Adaptable](https://adaptable.io)                                                                                             | Hobby (7 \$/m)                                                     | No                                                           | Public-repos only                     |
 
 ---
 
@@ -132,18 +133,31 @@ List of all Virtual Private Server
 
 List of all managed databases
 
-| Name                                            | Type        | Minimal plan                                                                                     | Trial | Free             | Open Source |
-| ----------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------ | ----- | ---------------- | ----------- |
-| [Upstash](https://upstash.com/)                 | Redis+Kafka | Pas-as-you-Go                                                                                    | No    | 10K commands/day |             |
-| [Atlas](https://www.mongodb.com/atlas/database) | MongoDB     | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)                                           | No    | Shared plan      |             |
-| [ElephantSQL](https://www.elephantsql.com/)     | PostgreSQL  | [Simple spider](https://www.elephantsql.com/plans.html) (5 \$/m)                                 |       | Tiny turtle plan |
-| [realm](https://realm.io/)                      | SQLite      | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) |       | 1M req or 500 hr |             |
+| Name                                                             | Type        | Minimal plan                                                                                     | Trial | Free              | Open Source |
+| ---------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------ | ----- | ----------------- | ----------- |
+| [Upstash](https://upstash.com/)                                  | Redis+Kafka | Pas-as-you-Go                                                                                    | No    | 10K commands/day  |             |
+| [Atlas](https://www.mongodb.com/atlas/database)                  | MongoDB     | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)                                           | No    | Shared plan       |             |
+| [ElephantSQL](https://www.elephantsql.com/)                      | PostgreSQL  | [Simple spider](https://www.elephantsql.com/plans.html) (5 \$/m)                                 | No    | Tiny turtle plan  |
+| [realm](https://realm.io/)                                       | SQLite      | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) | No    | 1M req or 500 hr  |             |
+| [neon](https://neon.tech/)                                       | PostgreSQL  | Preview                                                                                          | No    | Yes               |             |
+| [xata](https://xata.io/)                                         | API DB      | [Pro](https://xata.io/pricing) ($8 \$/m)                                                         | No    | 75req/s limit     |             |
+| [Railway](https://railway.app/)                                  | Any         | [Usage](https://railway.app/pricing) ($5 \$/m)                                                   | No    | 500 hours/m       |             |
+| [PlanetScale](https://planetscale.com/)                          | MySQL?      | [Scaler](https://planetscale.com/pricing) ($29 \$/m)                                             | No    | 1B/10B Read/Write |             |
+| [PlanetScale](https://planetscale.com/)                          | Any         | [Basic](https://filess.io/#pricing) (€0.99/m)                                                    | No    | 10Mb Storage      |             |
+| [bit.io](https://bit.io)                                         | PostgreSQL  | [Pay-as-you-Go](https://bit.io/pricing)                                                          | No    | 1B/rows queried   |             |
+| [clever cloud](https://www.clever-cloud.com/postgresql-hosting/) | PostgreSQL  | [XXS Small Space](https://www.clever-cloud.com/postgresql-hosting/) (€5.25/m)                    | No    |                   |             |
+| [Scalingo](https://scalingo.com/databases)                       | Any         | [Starter 512M](https://scalingo.com/databases) (€7.20/m)                                         | No    | Yes               |             |
+| [Supabase Database](https://supabase.com/database)               | PostgreSQL  | [Pro](https://supabase.io/pricing) (25 \$/m)                                                     | No    | 500Mb storage     |             |
+| [Redis Cloud](https://redislabs.com/get-started/)                | Redis       | [Fixed](https://redis.com/redis-enterprise-cloud/pricing/) ($7 \$/m)                             | No    | 30Mb storage      |             |
+| [ElephantSQL](https://www.elephantsql.com/)                      | PostgreSQL  | [Simple Spider](https://www.elephantsql.com/plans.html) ($5 \$/m)                                | No    | 20Mb storage      |             |
+| [fly Postgres](https://fly.io/docs/postgres/)                    | PostgreSQL  | [Launch](https://fly.io/plans) ($29 \$/m)                                                        | No    | Hobby plan        |
 
 ---
 
 ## Resources
 
 - <https://free-for.dev/#/?id=web-hosting>
+- <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
 - <https://github.com/anaibol/awesome-serverless#hosting-and-code-execution-in-the-cloud>
 
 ---
