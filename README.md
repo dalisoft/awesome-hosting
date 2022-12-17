@@ -79,6 +79,8 @@ List of all Node.js hosting platform
 | [Render](https://render.com)                                                | [Services](https://render.com/pricing) (5 \$/m)                       | No                                                               | Yes (static sites only)                                                   |             | Premium plan | No     |
 | [OpenShift](https://www.openshift.com)                                      | [PRO](https://www.openshift.com/products/pricing/) (50 \$/m)          | [30-day](https://manage.openshift.com/register/plan)             | [Yes](https://manage.openshift.com/register/confirm) (1 App/public)       |             | Dynamic      | No     |
 | [Cyclic](https://www.cyclic.sh)                                             | -                                                                     | No                                                               | Yes (100k invokes/month)                                                  |             | Lambda-only  | Yes    |
+| [Railway](https://railway.app/)                                             | [Usage](https://railway.app/pricing) (5 \$/m)                         | No                                                               | 500 hours/m                                                               |             | Lambda-only  | Yes    |
+| [qodi](https://qoddi.com/)                                                  | [Starter](https://qoddi.com/#pricing) (6 \$/m)                        | No                                                               | 3-apps                                                                    |             | Dynamic      | No     |
 
 ---
 
@@ -157,6 +159,7 @@ List of all managed databases
 
 - <https://free-for.dev/#/?id=web-hosting>
 - <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
+- <https://gist.github.com/bmaupin/d2d243218863320b01b0c1e1ca0cf5f3>
 - <https://github.com/anaibol/awesome-serverless#hosting-and-code-execution-in-the-cloud>
 
 ---
