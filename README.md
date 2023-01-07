@@ -33,7 +33,7 @@ List of all Backend-as-a-Service platform
 | ----------------------------------------------- | -------------------------------------------------------- | ----- | -------------------------------------------------- | ----------- | ------- | ------ |
 | [Firebase Console](https://firebase.google.com) | [Flame](https://firebase.google.com/pricing/) (25 \$/m)  | No    | Yes                                                |             | Dynamic | No     |
 | [Supabase](https://supabase.io)                 | [Pro](https://supabase.io/pricing) (25 \$/m)             | No    | Yes                                                |             | Dynamic | No     |
-| [Nhost](https://nhost.io/)                      | [Pro](https://nhost.io/pricing) (25 \$/m)                | No    | Yes)                                               | Yes         | Dynamic | Yes    |
+| [Nhost](https://nhost.io/)                      | [Pro](https://nhost.io/pricing) (25 \$/m)                | No    | Yes                                                | Yes         | Dynamic | Yes    |
 | [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)         | No    | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
 | [appwrite Cloud](https://appwrite.io/cloud)     | N/A                                                      | No    | Yes (Self-hosted)                                  |             | -       | -      |
 | [PocketBase](https://pocketbase.io)             | Your infrastructure                                      | -     | Self-Hosted                                        |             | Dynamic | -      |
