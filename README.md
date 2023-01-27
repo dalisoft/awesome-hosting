@@ -55,6 +55,7 @@ List of all Lambda(Serverless)-as-a-Service platform
 | [Google Functions](https://cloud.google.com/functions)            | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No    | 2M invocations / month |             |
 | [Google Run](https://cloud.google.com/run) \[container\]          | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)                                 | No    | 2M invocations / month |             |
 | [Azure Functions](https://azure.microsoft.com/products/functions) | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No    | 1M invocations / month |             |
+| [Deno Deploy](https://deno.com/deploy)                            | [Pro](https://deno.com/deploy/pricing) (10 \$/m)                                                      | No   | 100K requests / day    |
 
 ---
 
