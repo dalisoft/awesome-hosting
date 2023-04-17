@@ -29,16 +29,16 @@ List of all Web services platform
 
 List of all Backend-as-a-Service platform
 
-| Name                                            | Minimal plan                                             | Trial | Free                                               | Open Source | Type         | Lambda |
-| ----------------------------------------------- | -------------------------------------------------------- | ----- | -------------------------------------------------- | ----------- | ------------ | ------ |
-| [Firebase Console](https://firebase.google.com) | [Flame](https://firebase.google.com/pricing/) (25 \$/m)  | No    | Yes                                                |             | Dynamic      | No     |
-| [Supabase](https://supabase.io)                 | [Pro](https://supabase.io/pricing) (25 \$/m)             | No    | Yes                                                |             | Dynamic      | No     |
-| [Nhost](https://nhost.io/)                      | [Pro](https://nhost.io/pricing) (25 \$/m)                | No    | Yes                                                | Yes         | Dynamic      | Yes    |
-| [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)         | No    | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic      | No     |
-| [appwrite Cloud](https://appwrite.io/cloud)     | N/A                                                      | No    | Yes (Self-hosted)                                  |             | -            | -      |
-| [PocketBase](https://pocketbase.io)             | Your infrastructure                                      | -     | Self-Hosted                                        |             | Dynamic      | -      |
-| [directus](https://directus.io/)                | [Standard Cloud](https://directus.io/pricing/) (25 \$/m) | No    | [Community Cloud](https://directus.io/pricing/)    | Yes         | Dynamic      | ?      |
-| [Render](https://render.com)                    | [Services](https://render.com/pricing) (7 \$/m)          | No    | Yes (with few limits)                              |             | Premium plan | No     |
+| Name                                            | Minimal plan                                             | Trial | Free                                               | Open Source | Type    | Lambda |
+| ----------------------------------------------- | -------------------------------------------------------- | ----- | -------------------------------------------------- | ----------- | ------- | ------ |
+| [Firebase Console](https://firebase.google.com) | [Flame](https://firebase.google.com/pricing/) (25 \$/m)  | No    | Yes                                                |             | Dynamic | No     |
+| [Supabase](https://supabase.io)                 | [Pro](https://supabase.io/pricing) (25 \$/m)             | No    | Yes                                                |             | Dynamic | No     |
+| [Nhost](https://nhost.io/)                      | [Pro](https://nhost.io/pricing) (25 \$/m)                | No    | Yes                                                | Yes         | Dynamic | Yes    |
+| [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)         | No    | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
+| [appwrite Cloud](https://appwrite.io/cloud)     | N/A                                                      | No    | Yes (Self-hosted)                                  |             | -       | -      |
+| [PocketBase](https://pocketbase.io)             | Your infrastructure                                      | -     | Self-Hosted                                        |             | Dynamic | -      |
+| [directus](https://directus.io/)                | [Standard Cloud](https://directus.io/pricing/) (25 \$/m) | No    | [Community Cloud](https://directus.io/pricing/)    | Yes         | Dynamic | ?      |
+| [Render](https://render.com)                    | [Services](https://render.com/pricing) (7 \$/m)          | No    | Yes (with few limits)                              |             | Dynamic | No     |
 
 ---
 
