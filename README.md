@@ -131,7 +131,7 @@ List of all Virtual Private Server
 | [Adaptable](https://adaptable.io)                                                                                             | Hobby (7 \$/m)                                                      | No                                                           | Public-repos only                     |                  |
 | [BuyVM](https://buyvm.net)                                                                                                    | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices/) (2 $/m) | No                                                           | No                                    |                  |
 | [RackNerd](https://racknerd.com)                                                                                              | [See pricing](https://www.racknerd.com/kvm-vps) (23 $/yr)           | No                                                           | No                                    |                  |
-| [RuVPS](https://ruvps.net) 🇷🇺                                                                                                 | [VPS-1](https://ruvps.net/en/vps)                                   | No                                                           | No                                    |                  |
+| [RuVPS](https://ruvps.net) 🇷🇺                                                                                                 | [VPS-1](https://ruvps.net/en/vps) (5 $/m)                           | No                                                           | No                                    |                  |
 
 ---
 
