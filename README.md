@@ -132,6 +132,8 @@ List of all Virtual Private Server
 | [BuyVM](https://buyvm.net)                                                                                                    | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices/) (2 $/m) | No                                                           | No                                    |                  |
 | [RackNerd](https://racknerd.com)                                                                                              | [See pricing](https://www.racknerd.com/kvm-vps) (23 $/yr)           | No                                                           | No                                    |                  |
 | [RuVPS](https://ruvps.net) 🇷🇺                                                                                                 | [VPS-1](https://ruvps.net/en/vps) (5 $/m)                           | No                                                           | No                                    |                  |
+| [Luxvps](https://luxvps.xyz)                                                                                                  | [Ryzen Starter](https://luxvps.xyz/amdvps) (9.95 €/m)               | No                                                           | No                                    |                  |
+| [Liga Hosting](https://ligahosting.ro)                                                                                        | [KVM SSD 2](https://ligahosting.ro/index.php/store/vps) (1,99 €/m)  | No                                                           | No                                    |                  |
 
 ---
 
