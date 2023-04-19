@@ -48,15 +48,15 @@ List of all Lambda(Serverless)-as-a-Service platform
 
 | Name                                                              | Minimal plan                                                                                         | Trial | Free                   | Open Source |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- | ---------------------- | ----------- |
+| [Azure Functions](https://azure.microsoft.com/products/functions) | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No    | 1M invocations / month |             |
+| [AWS Lambda](https://aws.amazon.com/lambda)                       | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing/) (0.2 \$/m req)                               | No    | 100K request / day     |             |
+| [Google Functions](https://cloud.google.com/functions)            | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No    | 2M invocations / month |             |
+| [Google Run](https://cloud.google.com/run) \[container\]          | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)                                 | No    | 2M invocations / month |             |
 | [Cloudflare Workers](https://workers.cloudflare.com/)             | [Pay-as-you-Go](https://workers.cloudflare.com/) (5 \$/m)                                            | No    | 1M request / month     |             |
 | [Deno Deploy](https://deno.com/deploy)                            | [Pro](https://deno.com/deploy/pricing) (10 \$/m)                                                     | No    | 100K requests / day    |             |
 | [Serverless Cloud](https://www.serverless.com/cloud)              | [Startup](https://www.serverless.com/cloud/pricing) (19 \$/user/m)                                   | No    | 100K request / day     |             |
 | [Vercel Edge](https://vercel.com/features/edge-functions)         | [Pro](https://vercel.com/pricing) (20 \$/m)                                                          | No    | 1M invocations / month |             |
 | [Netlify Functions](https://www.netlify.com/products/functions/)  | [Level 1](https://www.netlify.com/products/functions/) (25 \$/site/m)                                | No    | 100K request / day     |             |
-| [Azure Functions](https://azure.microsoft.com/products/functions) | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No    | 1M invocations / month |             |
-| [AWS Lambda](https://aws.amazon.com/lambda)                       | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing/) (0.2 \$/m req)                               | No    | 100K request / day     |             |
-| [Google Functions](https://cloud.google.com/functions)            | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No    | 2M invocations / month |             |
-| [Google Run](https://cloud.google.com/run) \[container\]          | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)                                 | No    | 2M invocations / month |             |
 
 ---
 
@@ -131,8 +131,8 @@ List of all Virtual Private Server
 | [Luxvps](https://luxvps.xyz)                                                                                                  | [Ryzen Starter](https://luxvps.xyz/amdvps) (9.95 €/m)               | No                                                           | No                                    |                  |
 | [LastBackend](https://lastbackend.com/)                                                                                       | [See plans](https://lastbackend.com/pricing/) (10 \$/m)             | No                                                           | Open-source                           | Unlimited cloud? |
 | [CloudSigma](https://cloudsigma.com)                                                                                          | [Small-2](https://cloudsigma.com/pricing) (14 \$/m)                 | 7-day                                                        | No                                    |                  |
-| [EngineYard](https://www.engineyard.com)                                                                                      | [Solo](https://www.engineyard.com/pricing-aws-paas) (25 \$/m)       | Yes                                                          | Free trial, 500 AWS Hours             |                  |
 | [RackNerd](https://racknerd.com)                                                                                              | [See pricing](https://www.racknerd.com/kvm-vps) (23 $/yr)           | No                                                           | No                                    |                  |
+| [EngineYard](https://www.engineyard.com)                                                                                      | [Solo](https://www.engineyard.com/pricing-aws-paas) (25 \$/m)       | Yes                                                          | Free trial, 500 AWS Hours             |                  |
 | [fly.io](https://fly.io)                                                                                                      | [Launch](https://fly.io/plans)                                      | No                                                           | Yes (3 shared-cpu VM)                 |                  |
 
 ---
