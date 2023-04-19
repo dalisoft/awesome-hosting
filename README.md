@@ -92,11 +92,11 @@ List of all static site hosting platform
 | Name                                          | Minimal plan                                             | Trial | Free                                                               | Open Source       | Type   | Lambda |
 | --------------------------------------------- | -------------------------------------------------------- | ----- | ------------------------------------------------------------------ | ----------------- | ------ | ------ |
 | [Forestry](https://forestry.io/pricing/)      | [STARTER](https://forestry.io/pricing/) (9 \$/user/m)    | No    | Yes                                                                |                   | Static | No     |
-| [Vercel](https://vercel.com)                  | [Pay-as-you-Grow](https://vercel.com/pricing)            | No    | Yes (3 App)                                                        | Increase resource | Static | Yes    |
 | [begin](https://begin.com)                    | [Team](https://begin.com) (25 \$/m) + AWS Fee            | No    | Yes (5 App)                                                        |                   | Static | Yes    |
 | [Surge](https://surge.sh)                     | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No    | Yes                                                                |                   | Static | No     |
 | [fleek](https://fleek.co)                     | [Pro](https://fleek.co/pricing/) (40 \$/m)               | No    | Yes (3Gb Storage)                                                  |                   | Static | No     |
 | [Netlify](https://www.netlify.com)            | [Pro](https://www.netlify.com/pricing) (45 \$/m)         | No    | Yes (1 Concurrent build)                                           |                   | Static | Yes    |
+| [Vercel](https://vercel.com)                  | [Pay-as-you-Grow](https://vercel.com/pricing)            | No    | Yes (3 App)                                                        | Increase resource | Static | Yes    |
 | [AWS Amplify](https://aws.amazon.com/amplify) | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No    | Yes (5Gb)                                                          |                   | Static | ?      |
 | [Github Pages](https://pages.github.com)      |                                                          | No    | [Public](https://help.github.com/en/articles/what-is-github-pages) |                   | Static | No     |
 
