@@ -6,6 +6,10 @@ List of awesome hosting sorted by minimal plan price
 
 > All Russian services are marked by flags so i do not recommend using any of them
 
+## Other my awesome lists
+
+- [awesome-storage](https://github.com/dalisoft/awesome-storage)
+
 ## Support
 
 You can support project by **Clicking to name of service**, with 💲 badge, not **Pricing** or **Plans** link as **service name links** includes affiliates (only those which with 💲 badge)
