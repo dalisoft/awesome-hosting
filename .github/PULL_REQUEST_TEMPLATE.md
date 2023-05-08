@@ -21,6 +21,6 @@ _Name of new item_
 
 _Requires for verify_
 
-## Thank you for improving project
+## Thank you for improving the project
 
-**This helps others find VPS or hosting of their choise**
+**This helps others find VPS or hosting of their choice**
