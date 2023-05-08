@@ -162,6 +162,7 @@ List of all managed databases
 | [bit.io](https://bit.io)                                         | PostgreSQL  | [Pay-as-you-Go](https://bit.io/pricing)                                                          | No    | 1B/rows queried   |             |
 | [Upstash](https://upstash.com/)                                  | Redis+Kafka | Pas-as-you-Go                                                                                    | No    | 10K commands/day  |             |
 | [realm](https://realm.io/)                                       | SQLite      | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) | No    | 1M req or 500 hr  |             |
+| [DBHub.io](https://dbhub.io)                                     | SQLite      | Free (tiered pricing eventually)                                                                 | No    | Free tier         |             |
 
 ---
 
