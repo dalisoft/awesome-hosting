@@ -166,6 +166,16 @@ List of all managed databases
 
 ---
 
+## WordPress
+
+| Name                               | Minimal Plan                                    | Trial | Free | Open Source |
+| ---------------------------------- | ----------------------------------------------- | ----- | ---- | ----------- |
+| [Zabhost](https://zabhost.com/) | [Starter](https://zabhost.com/pricing) ($20/m)                     | No    |      |             |
+| [WP Engine](https://wpengine.com/) | [Startup](https://wpengine.com/plans/) ($20/m)                     | No    |      |             |
+| [Kinsta](https://kinsta.com/)      | [Starter](https://kinsta.com/wordpress-hosting/pricing/) ($24/m) | No    |      |             |
+
+---
+
 ## Resources
 
 - <https://free-for.dev/#/?id=web-hosting>
