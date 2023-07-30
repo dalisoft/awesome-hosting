@@ -170,6 +170,8 @@ List of all managed databases
 
 | Name                               | Minimal Plan                                    | Trial | Free | Open Source |
 | ---------------------------------- | ----------------------------------------------- | ----- | ---- | ----------- |
+| [EasyWP](https://www.easywp.com/)      | [Starter](https://www.easywp.com/pricing/) ($6.88/m) | No    |      |             |
+| [Flywheel](https://getflywheel.com/)      | [Tiny](https://getflywheel.com/pricing/) ($15/m) | No    |      |             |
 | [Zabhost](https://zabhost.com/) | [Starter](https://zabhost.com/pricing) ($20/m)                     | No    |      |             |
 | [WP Engine](https://wpengine.com/) | [Startup](https://wpengine.com/plans/) ($20/m)                     | No    |      |             |
 | [Kinsta](https://kinsta.com/)      | [Starter](https://kinsta.com/wordpress-hosting/pricing/) ($24/m) | No    |      |             |
