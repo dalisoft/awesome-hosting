@@ -106,6 +106,19 @@ List of all static site hosting platform
 
 ---
 
+
+## WordPress
+
+| Name                                       | Minimal Plan                                                     | Trial | Free | Open Source |
+| ------------------------------------------ | ---------------------------------------------------------------- | ----- | ---- | ----------- |
+| [EasyWP](https://www.easywp.com/)          | [Starter](https://www.easywp.com/pricing/) ($6.88/m)             | No    |      |             |
+| [Flywheel](https://getflywheel.com/)       | [Tiny](https://getflywheel.com/pricing/) ($15/m)                 | No    |      |             |
+| [Zabhost](https://zabhost.com/)            | [Starter](https://zabhost.com/pricing) ($20/m)                   | No    |      |             |
+| [WP Engine](https://wpengine.com/)         | [Startup](https://wpengine.com/plans/) ($20/m)                   | No    |      |             |
+| [Kinsta](https://kinsta.com/)              | [Starter](https://kinsta.com/wordpress-hosting/pricing/) ($24/m) | No    |      |             |
+
+---
+
 ## VPS
 
 List of all Virtual Private Server
@@ -163,18 +176,6 @@ List of all managed databases
 | [TiDB Serverless](https://www.pingcap.com/tidb-serverless)       | MySQL              | [Pay-as-you-Go](https://www.pingcap.com/tidb-serverless-pricing-details/)                        | No    | 5GB & 50M req/m   |
 | [realm](https://realm.io/)                                       | SQLite alternative | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) | No    | 1M req or 500 hr  |             |
 | [DBHub.io](https://dbhub.io)                                     | SQLite             | Free (tiered pricing eventually)                                                                 | No    | Free tier         |             |
-
----
-
-## WordPress
-
-| Name                               | Minimal Plan                                    | Trial | Free | Open Source |
-| ---------------------------------- | ----------------------------------------------- | ----- | ---- | ----------- |
-| [EasyWP](https://www.easywp.com/)      | [Starter](https://www.easywp.com/pricing/) ($6.88/m) | No    |      |             |
-| [Flywheel](https://getflywheel.com/)      | [Tiny](https://getflywheel.com/pricing/) ($15/m) | No    |      |             |
-| [Zabhost](https://zabhost.com/) | [Starter](https://zabhost.com/pricing) ($20/m)                     | No    |      |             |
-| [WP Engine](https://wpengine.com/) | [Startup](https://wpengine.com/plans/) ($20/m)                     | No    |      |             |
-| [Kinsta](https://kinsta.com/)      | [Starter](https://kinsta.com/wordpress-hosting/pricing/) ($24/m) | No    |      |             |
 
 ---
 
