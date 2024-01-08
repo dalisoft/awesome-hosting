@@ -37,11 +37,12 @@ List of all Backend-as-a-Service platform
 | ----------------------------------------------- | -------------------------------------------------------- | ----- | -------------------------------------------------- | ----------- | ------- | ------ |
 | [Render](https://render.com)                    | [Services](https://render.com/pricing) (7 \$/m)          | No    | Yes (with few limits)                              |             | Dynamic | No     |
 | [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)         | No    | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
+| [appwrite Cloud](https://appwrite.io/cloud)     | [Pro Plan](https://appwrite.io/pricing) (15 \$/m)        | No    | Yes (Self-hosted)                                  |             | Dynamic | ?      |
 | [Firebase Console](https://firebase.google.com) | [Flame](https://firebase.google.com/pricing/) (25 \$/m)  | No    | Yes                                                |             | Dynamic | No     |
 | [Supabase](https://supabase.io)                 | [Pro](https://supabase.io/pricing) (25 \$/m)             | No    | Yes                                                |             | Dynamic | No     |
 | [Nhost](https://nhost.io/)                      | [Pro](https://nhost.io/pricing) (25 \$/m)                | No    | Yes                                                | Yes         | Dynamic | Yes    |
 | [directus](https://directus.io/)                | [Standard Cloud](https://directus.io/pricing/) (25 \$/m) | No    | [Community Cloud](https://directus.io/pricing/)    | Yes         | Dynamic | ?      |
-| [appwrite Cloud](https://appwrite.io/cloud)     | [Pro Plan](https://appwrite.io/pricing) (15 \$/m)        | No    | Yes (Self-hosted)                                  |             | Dynamic | ?      |
+| [Koyeb](https://koyeb.com)                      | [Startup](https://koyeb.com/pricing) (79 \$/m)           | No    | Yes                                                |             | Dynamic | No     |
 | [PocketBase](https://pocketbase.io)             | Your infrastructure                                      | -     | Self-Hosted                                        |             | Dynamic | -      |
 
 ---
@@ -168,7 +169,9 @@ List of all managed databases
 | [Supabase Database](https://supabase.com/database)               | PostgreSQL             | [Pro](https://supabase.io/pricing) (25 \$/m)                                                     | No     | 500Mb storage     |             |
 | [fly Postgres](https://fly.io/docs/postgres/)                    | PostgreSQL             | [Launch](https://fly.io/plans) (29 \$/m)                                                         | No     | Hobby plan        |             |
 | [PlanetScale](https://planetscale.com/)                          | MySQL?                 | [Scaler](https://planetscale.com/pricing) (29 \$/m)                                              | No     | 1B/10B Read/Write |             |
+| [Turso](https://turso.tech)                                      | SQLite                 | [Scaler](https://turso.tech/pricing) (29 \$/m)                                                   | No     | 9Gb total storage |             |
 | [Atlas](https://www.mongodb.com/atlas/database)                  | MongoDB                | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)                                           | No     | Shared plan       |             |
+| [Koyeb Database](https://www.koyeb.com/docs/databases)           | PostgreSQL             | [Startup](https://koyeb.com/pricing) (79 \$/m)                                                   | No     | 1Gb storage       |             |
 | [neon](https://neon.tech/)                                       | PostgreSQL             | [Pay-as-you-Go](https://neon.tech/pricing)                                                       | No     | Free tier         |             |
 | [Upstash](https://upstash.com/)                                  | Redis+Kafka            | Pay-as-you-Go                                                                                    | No     | 10K commands/day  |             |
 | [TiDB Serverless](https://www.pingcap.com/tidb-serverless)       | MySQL                  | [Pay-as-you-Go](https://www.pingcap.com/tidb-serverless-pricing-details/)                        | No     | 5GB & 50M req/m   |
