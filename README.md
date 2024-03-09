@@ -178,6 +178,10 @@ List of all managed databases
 
 ---
 
+## Note
+
+- **Open Source** column means is hosting provides free tier or discounts for **Open Source** projects
+
 ## Resources
 
 - <https://free-for.dev/#/?id=web-hosting>
