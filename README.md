@@ -174,6 +174,7 @@ List of all managed databases
 | [realm](https://realm.io/)                                                     | SQLite alternative     | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) | No     | 1M req or 500 hr  |             |
 | [DBHub.io](https://dbhub.io)                                                   | SQLite                 | Free (tiered pricing eventually)                                                                 | No     | Free tier         |             |
 | [CockroachDB](https://www.cockroachlabs.com)                                   | PostgreSQL alternative | [Dedicated](https://www.cockroachlabs.com/pricing) (295 \$/m)                                    | 30-Day | 1M req & 10 GiB   |             |
+| [PocketBase](https://pocketbase.io)                                            | ?                      | Self-hosted                                                                                      | No     | Self-hosted       |             |
 
 ---
 
