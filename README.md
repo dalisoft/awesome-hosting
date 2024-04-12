@@ -5,6 +5,7 @@ List of awesome hosting sorted by minimal plan price
 ## Other my awesome lists
 
 - [awesome-storage](https://github.com/dalisoft/awesome-storage)
+- [awesome-chatbot](https://github.com/dalisoft/awesome-chatbot)
 
 ## Support
 
