@@ -181,6 +181,23 @@ List of all managed databases
 
 ---
 
+## GPU
+
+List of all GPU renting/hosting providers
+
+> Minimal plan and/or price is referred for single (1x) GPU per hour and GPU should be RTX 3090 or similar performance
+
+| Name                                   | Minimal plan                                                         | Trial | Free | Open Source |
+| -------------------------------------- | -------------------------------------------------------------------- | ----- | ---- | ----------- |
+| [TensorDock](https://tensordock.com)   | [Pricing](https://tensordock.com/cloud-gpus) (0.2 \$/h)              | No    |      |             |
+| [RunPod](https://runpod.io)            | [Pricing](https://runpod.io/gpu-instance/pricing) (0.26 \$/h)        | No    |      |             |
+| [VastAI](https://vast.ai)              | [Pricing](https://vast.ai/pricing) (0.3 \$/h)                        | No    |      |             |
+| [Valdi](https://valdi.ai)              | [Pricing](https://valdi.ai) (0.45 \$/h)                              | No    |      |             |
+| [Seimaxim](https://www.seimaxim.com)   | [Pricing](https://www.seimaxim.com/dedicated-servers/gpu) (480 \$/m) | No    |      |             |
+| [LeaderGPU](https://www.leadergpu.com) | [Pricing](https://www.leadergpu.com/#chose-best) (523.38 €/m)        | No    |      |             |
+
+---
+
 ## Note
 
 - **Open Source** column means is hosting provides free tier or discounts for **Open Source** projects
@@ -193,6 +210,7 @@ List of all managed databases
 - <https://github.com/anaibol/awesome-serverless#hosting-and-code-execution-in-the-cloud>
 - <https://lowendbox.com/category/virtual-servers>
 - <https://hostinghub.ru/top/vds/desheviy>
+- <https://cloud-gpus.com>
 
 ---
 
