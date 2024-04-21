@@ -190,6 +190,7 @@ List of all GPU renting/hosting providers
 | Name                                   | Minimal plan                                                         | Trial | Free | Open Source |
 | -------------------------------------- | -------------------------------------------------------------------- | ----- | ---- | ----------- |
 | [TensorDock](https://tensordock.com)   | [Pricing](https://tensordock.com/cloud-gpus) (0.2 \$/h)              | No    |      |             |
+| [Salad](https://salad.com)             | [Pricing](https://salad.com/pricing) (0.25 \$/h)                     | No    |      |             |
 | [RunPod](https://runpod.io)            | [Pricing](https://runpod.io/gpu-instance/pricing) (0.26 \$/h)        | No    |      |             |
 | [VastAI](https://vast.ai)              | [Pricing](https://vast.ai/pricing) (0.3 \$/h)                        | No    |      |             |
 | [Valdi](https://valdi.ai)              | [Pricing](https://valdi.ai) (0.45 \$/h)                              | No    |      |             |
