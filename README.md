@@ -195,7 +195,11 @@ List of all GPU renting/hosting providers
 | [RunPod](https://runpod.io)            | [Pricing](https://runpod.io/gpu-instance/pricing) (0.26 \$/h)        | No    |      |             |
 | [VastAI](https://vast.ai)              | [Pricing](https://vast.ai/pricing) (0.3 \$/h)                        | No    |      |             |
 | [Valdi](https://valdi.ai)              | [Pricing](https://valdi.ai) (0.45 \$/h)                              | No    |      |             |
+| [AIME](https://www.aime.info)          | [Pricing](https://www.aime.info/en/gpucloud) (0.49 \$/h)             |       |      |             |
 | [Seimaxim](https://www.seimaxim.com)   | [Pricing](https://www.seimaxim.com/dedicated-servers/gpu) (480 \$/m) | No    |      |             |
+| [Modal](https://modal.com)             | [Pricing](https://modal.com/pricing) (0.59 \$/h)                     | No    |      |             |
+| [Cloud4U](https://www.cloud4u.com)     | [Pricing](https://www.cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)     | No    |      |             |
+| [TitanGPU](https://titangpu.com)       | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)                  | No    |      |             |
 | [LeaderGPU](https://www.leadergpu.com) | [Pricing](https://www.leadergpu.com/#chose-best) (523.38 €/m)        | No    |      |             |
 
 ---
