@@ -188,19 +188,22 @@ List of all GPU renting/hosting providers
 
 > Minimal plan and/or price is referred for single (1x) GPU per hour and GPU should be RTX 3090 or similar performance
 
-| Name                                   | Minimal plan                                                         | Trial | Free | Open Source |
-| -------------------------------------- | -------------------------------------------------------------------- | ----- | ---- | ----------- |
-| [TensorDock](https://tensordock.com)   | [Pricing](https://tensordock.com/cloud-gpus) (0.2 \$/h)              | No    |      |             |
-| [Salad](https://salad.com)             | [Pricing](https://salad.com/pricing) (0.25 \$/h)                     | No    |      |             |
-| [RunPod](https://runpod.io)            | [Pricing](https://runpod.io/gpu-instance/pricing) (0.26 \$/h)        | No    |      |             |
-| [VastAI](https://vast.ai)              | [Pricing](https://vast.ai/pricing) (0.3 \$/h)                        | No    |      |             |
-| [Valdi](https://valdi.ai)              | [Pricing](https://valdi.ai) (0.45 \$/h)                              | No    |      |             |
-| [AIME](https://www.aime.info)          | [Pricing](https://www.aime.info/en/gpucloud) (0.49 \$/h)             |       |      |             |
-| [Seimaxim](https://www.seimaxim.com)   | [Pricing](https://www.seimaxim.com/dedicated-servers/gpu) (480 \$/m) | No    |      |             |
-| [Modal](https://modal.com)             | [Pricing](https://modal.com/pricing) (0.59 \$/h)                     | No    |      |             |
-| [Cloud4U](https://www.cloud4u.com)     | [Pricing](https://www.cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)     | No    |      |             |
-| [TitanGPU](https://titangpu.com)       | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)                  | No    |      |             |
-| [LeaderGPU](https://www.leadergpu.com) | [Pricing](https://www.leadergpu.com/#chose-best) (523.38 €/m)        | No    |      |             |
+
+---
+
+## LLM/Inference API
+
+> Minimal plan and/or price is referred for price per million token (input/output) for LLAMA 3 70B models
+
+| Name                                          | Minimal plan                                                            | Trial      | Free | Open Source |
+| --------------------------------------------- | ----------------------------------------------------------------------- | ---------- | ---- | ----------- |
+| [Groq](https://groq.com)                      | -                                                                       |            | Yes  |             |
+| [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.59/0.79 \$/M token)         |            |      |             |
+| [Gradient AI](https://gradient.ai)            | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/M token)             | $5 credit  |      |             |
+| [together.ai](https://together.a)             | [Pricing](https://together.a/pricing) (0.9/0.9 \$/M token)              | $5 credit  |      |             |
+| [anyscale](https://anyscale.com)              | [Pricing](https://anyscale.com/pricing) (1/1 $/M token)                 | $50 credit |      |             |
+| [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing) (0.65/2.75 $/M token)          |            |      |             |
+| [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.95/2.56 $/M token) |            |      |             |
 
 ---
 
