@@ -188,6 +188,24 @@ List of all GPU renting/hosting providers
 
 > Minimal plan and/or price is referred for single (1x) GPU per hour and GPU should be RTX 3090 or similar performance
 
+| Name                                 | Minimal plan                                                     | Trial | Free | Open Source |
+| ------------------------------------ | ---------------------------------------------------------------- | ----- | ---- | ----------- |
+| [TensorDock](https://tensordock.com) | [Pricing](https://tensordock.com/cloud-gpus) (0.2 \$/h)          | No    |      |             |
+| [Salad](https://salad.com)           | [Pricing](https://salad.com/pricing) (0.25 \$/h)                 | No    |      |             |
+| [RunPod](https://runpod.io)          | [Pricing](https://runpod.io/gpu-instance/pricing) (0.26 \$/h)    | No    |      |             |
+| [VastAI](https://vast.ai)            | [Pricing](https://vast.ai/pricing) (0.3 \$/h)                    | No    |      |             |
+| [Jarvislabs](https://jarvislabs.ai)  | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)             | No    |      |             |
+| [Valdi](https://valdi.ai)            | [Pricing](https://valdi.ai) (0.45 \$/h)                          | No    |      |             |
+| [AIME](https://aime.info)            | [Pricing](https://aime.info/en/gpucloud) (0.49 \$/h)             | No    |      |             |
+| [LambdaLabs](https://lambdalabs.com) | [Pricing](https://lambdalabs.com/service/gpu-cloud) (0.5 \$/h)   | No    |      |             |
+| [Modal](https://modal.com)           | [Pricing](https://modal.com/pricing) (0.59 \$/h)                 | No    |      |             |
+| [FluidStack](https://fluidstack.io)  | [Pricing](https://fluidstack.io/pricing) (0.59 \$/h)             | No    |      |             |
+| [Shadeform](https://shadeform.ai)    | [Pricing](https://shadeform.ai) (0.6 \$/h)                       | No    |      |             |
+| [Seimaxim](https://seimaxim.com)     | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (480 \$/m) | No    |      |             |
+| [Cloud4U](https://cloud4u.com)       | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)     | No    |      |             |
+| [TitanGPU](https://titangpu.com)     | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)              | No    |      |             |
+| [CoreWeave](https://coreweave.com)   | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/m)   | No    |      |             |
+| [LeaderGPU](https://leadergpu.com)   | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)        | No    |      |             |
 
 ---
 
