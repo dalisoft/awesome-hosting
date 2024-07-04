@@ -32,6 +32,7 @@ List of all Backend-as-a-Service platform
 
 | Name                                            | Minimal plan                                             | Trial | Free                                               | Open Source | Type    | Lambda |
 | ----------------------------------------------- | -------------------------------------------------------- | ----- | -------------------------------------------------- | ----------- | ------- | ------ |
+| [litegix](https://litegix.com)                  | [Hobby](https://litegix.com/pricing) (7 \$/m)            | No    | Up-to 5 apps?                                      |             | ?       | ?      |
 | [Render](https://render.com)                    | [Services](https://render.com/pricing) (7 \$/m)          | No    | Yes (with few limits)                              |             | Dynamic | No     |
 | [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)         | No    | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
 | [appwrite Cloud](https://appwrite.io/cloud)     | [Pro Plan](https://appwrite.io/pricing) (15 \$/m)        | No    | Yes (Self-hosted)                                  |             | Dynamic | ?      |
@@ -169,7 +170,7 @@ List of all managed databases
 | [Convex](https://convex.dev)                                                   | ?                      | [Professional](https://convex.dev/plans) (25 \$/m)                                               | No     | Starter plan      |             |
 | [fly Postgres](https://fly.io/docs/postgres/)                                  | PostgreSQL             | [Launch](https://fly.io/plans) (29 \$/m)                                                         | No     | Hobby plan        |             |
 | [PlanetScale](https://planetscale.com/)                                        | MySQL?                 | [Scaler](https://planetscale.com/pricing) (29 \$/m)                                              | No     | No                |             |
-| [Turso](https://turso.tech)                                                    | SQLite                 | [Scaler](https://turso.tech/pricing) (29 \$/m)                                                   | No     | 9Gb total storage |             |
+| [Turso](https://turso.tech)                                                    | SQLite                 | [Hobby](https://turso.tech/pricing) (9 \$/m)                                                     | No     | 9Gb total storage |             |
 | [Atlas](https://www.mongodb.com/atlas/database)                                | MongoDB                | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)                                           | No     | Shared plan       |             |
 | [Koyeb Database](https://www.koyeb.com/docs/databases)                         | PostgreSQL             | [Startup](https://koyeb.com/pricing) (79 \$/m)                                                   | No     | 1Gb storage       |             |
 | [neon](https://neon.tech/)                                                     | PostgreSQL             | [Launch](https://neon.tech/pricing) (19 \$/m)                                                    | No     | Free tier         |             |
