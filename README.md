@@ -242,7 +242,7 @@ List of all GPU renting/hosting providers
 | [OctoAI](https://octo.ai)                     | [Pricing](https://octo.ai/pricing/text-gen-solution/) (0.9/0.9 \$/M token) | $10 credit  |      |             |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/M token)               | $1 credit   |      |             |
 | [Gradient AI](https://gradient.ai)            | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/M token)                | $5 credit   |      |             |
-| [together.ai](https://together.a)             | [Pricing](https://together.a/pricing) (0.9/0.9 \$/M token)                 | $5 credit   |      |             |
+| [together.ai](https://together.ai)             | [Pricing](https://together.ai/pricing) (0.9/0.9 \$/M token)                 | $5 credit   |      |             |
 | [anyscale](https://anyscale.com)              | [Pricing](https://anyscale.com/pricing) (1/1 $/M token)                    | $50 credit  |      |             |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing) (0.65/2.75 $/M token)             |             |      |             |
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.95/2.56 $/M token)    |             |      |             |
