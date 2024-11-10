@@ -10,5 +10,8 @@
   },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "editor.wordWrap": "off",
+  "editor.wordWrapColumn": 80,
+  "editor.rulers": [80, 120]
 }
