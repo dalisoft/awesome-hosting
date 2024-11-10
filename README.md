@@ -139,7 +139,6 @@ List of all Virtual Private Server
 | Name                                                                       | Minimal plan                                                           | Trial                                                        | Free                                   | Open Source      |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ---------------- |
 | [MrVM](https://mrvm.net)                                                   | [LXC-256](https://mrvm.net/lxc) (0.5 €/m)                              | No                                                           | No                                     |                  |
-| [VDSina](https://www.vdsina.com/?partner=8e5e1gf48t) 💲                    | [Standard](https://www.vdsina.com/pricing/standard) (9.9 \$/m)         | No                                                           | No                                     |                  |
 | [OVHCloud](https://www.ovhcloud.com)                                       | [Starter](https://www.ovhcloud.com/en/vps) (0.97 \$/m)                 | No                                                           |                                        |                  |
 | [4VPS](https://4vps.su/r/9vcdaY54bGZ8) 💲                                  | [See pricing](https://4vps.su) (1.77 \$/m)                             | No                                                           | No                                     |                  |
 | [CloudCone](https://app.cloudcone.com/?ref=11853) 💲                       | [VPS Plan 1](https://cloudcone.com/vps) (1.80 \$/m)                    | No                                                           | No                                     |                  |
@@ -243,7 +242,7 @@ List of all GPU renting/hosting providers
 | [OctoAI](https://octo.ai)                     | [Pricing](https://octo.ai/pricing/text-gen-solution/) (0.9/0.9 \$/M token) | $10 credit  |      |             |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/M token)               | $1 credit   |      |             |
 | [Gradient AI](https://gradient.ai)            | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/M token)                | $5 credit   |      |             |
-| [together.ai](https://together.ai)             | [Pricing](https://together.ai/pricing) (0.9/0.9 \$/M token)                 | $5 credit   |      |             |
+| [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.9/0.9 \$/M token)                | $5 credit   |      |             |
 | [anyscale](https://anyscale.com)              | [Pricing](https://anyscale.com/pricing) (1/1 $/M token)                    | $50 credit  |      |             |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing) (0.65/2.75 $/M token)             |             |      |             |
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.95/2.56 $/M token)    |             |      |             |
