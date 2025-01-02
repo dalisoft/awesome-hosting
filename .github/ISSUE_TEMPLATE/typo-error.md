@@ -1,7 +1,7 @@
 ---
 name: Typo error
 about: Select when there typo error
-title: "[Typo]: "
+title: '[Typo]: '
 labels: bug
 assignees: dalisoft
 ---

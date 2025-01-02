@@ -1,7 +1,7 @@
 ---
 name: Wrong info
 about: Select when there wrong info
-title: "[WRONG INFO]: "
+title: '[WRONG INFO]: '
 labels: bug
 assignees: dalisoft
 ---

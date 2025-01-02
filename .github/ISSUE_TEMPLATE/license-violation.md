@@ -1,7 +1,7 @@
 ---
 name: License violation
 about: Select there license violation
-title: "[License Violation]: "
+title: '[License Violation]: '
 labels: bug
 assignees: dalisoft
 ---

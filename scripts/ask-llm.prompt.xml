@@ -1,0 +1,76 @@
+<Task>
+  <Description>
+        Extract and validate information about Free, Trial, and Minimal paid plans from the provided content.
+        Ensure all details, including plan names, prices, and resources, are formatted accurately and precisely.
+        Include all plans. Even free plans. Response only as described in ResponseFormat and JSON response.
+        Do not response additional texts. Do not mark or format the output.
+        Response as plain JSON format.
+
+        For GPU show response only for RTX 3090 or alternatives.
+        Here's the RTX 3090 alternatives with order of performance (DESC):
+          - NVIDIA RTX A5000
+          - NVIDIA Quadro RTX 6000
+          - NVIDIA Tesla P40
+    </Description>
+  <ResponseFormat>
+    <Type>JSON</Type>
+    <Structure>
+      <plans>
+        <plan>
+          <name>string</name>
+          <link>string</link>
+          <price>string</price>
+          <resources>
+            <cpu>string (e.g., "1 vCPU")</cpu>
+            <memory>string (e.g., "4 GB")</memory>
+            <disk>string (e.g., "25 GB (NVMe)")</disk>
+            <gpu>string (e.g., "NVIDIA RTX 3090 (24 GB VRAM)")</gpu>
+            <network>string (e.g., "10Gbps")</network>
+          </resources>
+          <free_for_open_source>boolean</free_for_open_source>
+        </plan>
+      </plans>
+    </Structure>
+  </ResponseFormat>
+  <Validation>
+    <Check>
+      <Criteria>Free, Trial, and Minimal Plan Validity</Criteria>
+      <Details>Exclude incomplete or outdated entries. Confirm the accuracy of Free and Trial offerings.</Details>
+    </Check>
+    <Check>
+      <Criteria>Pricing Transparency</Criteria>
+      <Details>Clearly distinguish Free and Trial plans from Minimal paid options.</Details>
+    </Check>
+    <Check>
+      <Criteria>Resource Allocation Formatting</Criteria>
+      <Details>
+        <Field>
+          <Name>CPU</Name>
+          <Format>string (e.g., "1 vCPU")</Format>
+        </Field>
+        <Field>
+          <Name>Memory</Name>
+          <Format>string (e.g., "4 GB")</Format>
+        </Field>
+        <Field>
+          <Name>Disk</Name>
+          <Format>string (e.g., "25 GB (NVMe)")</Format>
+        </Field>
+        <Field>
+          <Name>GPU</Name>
+          <Format>string (e.g., "NVIDIA RTX 3090 (24 GB VRAM)")</Format>
+        </Field>
+        <Field>
+          <Name>Network</Name>
+          <Format>string (e.g., "10Gbps")</Format>
+        </Field>
+      </Details>
+    </Check>
+  </Validation>
+  <InputFormat>
+        HTML
+    </InputFormat>
+  <Input>
+      {{html}}
+    </Input>
+</Task>
