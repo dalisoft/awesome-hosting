@@ -1,0 +1,23 @@
+{
+  "name": "awesome-hosting",
+  "version": "1.0.0",
+  "description": "List of awesome hosting sorted by minimal plan price",
+  "type": "module",
+  "scripts": {
+    "build": "node --experimental-strip-types scripts/build.ts",
+    "test": "node --experimental-strip-types --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.11",
+    "csv": "^6.3.11",
+    "openai": "^4.76.0",
+    "puppeteer": "^23.10.1"
+  }
+}

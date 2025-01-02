@@ -9,9 +9,13 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "off"
+  },
+  "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.wordWrap": "off",
   "editor.wordWrapColumn": 80,
-  "editor.rulers": [80, 120]
+  "editor.rulers": [80, 120],
+  "typescript.validate.enable": true
 }
