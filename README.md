@@ -21,10 +21,10 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 - [Wordpress](#wordpress)
 - [VPS](#vps)
 - [Database](#database)
-- [GPU](#gpu)
+- [GPU Cloud](#gpu-cloud)
 - [AI LLM/Inference](#llminference-api)
 
-## Web Services Platform
+### Web Services Platform
 
 List of all Web services platform
 
@@ -77,7 +77,7 @@ List of all Lambda(Serverless)-as-a-Service platform
 
 ---
 
-## Node.js
+### Node.js
 
 List of all Node.js hosting platform
 
@@ -102,7 +102,7 @@ List of all Node.js hosting platform
 
 ---
 
-## Static
+### Static
 
 List of all static site hosting platform
 
@@ -116,11 +116,11 @@ List of all static site hosting platform
 | [Netlify](https://www.netlify.com)            | [Pro](https://www.netlify.com/pricing) (45 \$/m)         | No    | Yes (1 Concurrent build)                                           |                   | Static | Yes    |
 | [Vercel](https://vercel.com)                  | [Pay-as-you-Grow](https://vercel.com/pricing)            | No    | Yes (3 App)                                                        | Increase resource | Static | Yes    |
 | [AWS Amplify](https://aws.amazon.com/amplify) | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No    | Yes (5Gb)                                                          |                   | Static | ?      |
-| [Github Pages](https://pages.github.com)      |                                                          | No    | [Public](https://help.github.com/en/articles/what-is-github-pages) |                   | Static | No     |
+| [Github Pages](https://pages.github.com)      | -                                                        | No    | [Public](https://help.github.com/en/articles/what-is-github-pages) |                   | Static | No     |
 
 ---
 
-## WordPress
+### WordPress
 
 | Name                                 | Minimal Plan                                                     | Trial | Free | Open Source |
 | ------------------------------------ | ---------------------------------------------------------------- | ----- | ---- | ----------- |
@@ -132,7 +132,7 @@ List of all static site hosting platform
 
 ---
 
-## VPS
+### VPS
 
 List of all Virtual Private Server
 
@@ -158,22 +158,22 @@ List of all Virtual Private Server
 | [netcup](https://www.netcup.com)                                           | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (3,35 €/m)        | No                                                           | No                                     |                  |
 | [Scaleway](https://www.scaleway.com)                                       | [Stardust1-s](https://www.scaleway.com/en/pricing/) (3,35 €/m)         | No                                                           | No                                     |                  |
 | [DigitalOcean](https://m.do.co/c/030da2341a70) 💲                          | Standard 1GB (4 \$/m)                                                  | 60-day                                                       | Trial, 10\$ Credit                     |                  |
-| [Kamatera](https://www.kamatera.com) <sup>untrusted</sup>                  | 4 \$/m                                                                 | [30-day](https://www.kamatera.com/Products/258/How_it_Works) |                                        |                  |
+| [Kamatera](https://www.kamatera.com) <sup>untrusted</sup>                  | Simple (4 \$/m)                                                        | [30-day](https://www.kamatera.com/Products/258/How_it_Works) |                                        |                  |
 | [Hetzner](https://www.hetzner.com) <sup>untrusted</sup>                    | [See plans](https://www.hetzner.com/cloud) (€ 3.79/m)                  | No                                                           | No                                     |                  |
 | [RuVPS](https://ruvps.net)                                                 | [VPS-1](https://ruvps.net/en/vps) (4.5 $/m)                            | No                                                           | No                                     |                  |
+| [VDSina](https://www.vdsina.com/?partner=8e5e1gf48t) 💲                    | [Standard](https://www.vdsina.com/pricing/standard) (4.80 \$/m)        | No                                                           | No                                     |                  |
 | [SSD Nodes](https://www.ssdnodes.com) <sup>untrusted</sup>                 | [KVM / Small](https://www.ssdnodes.com/pricing/) (4.99 \$/m)           | 14-day refund only                                           | No                                     |                  |
 | [Linode](https://www.linode.com) <sup>verified</sup>                       | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                  | 7-day                                                        | No                                     |                  |
 | [aeza](https://aeza.net/?ref=550011) 💲                                    | [Shared ALBs-1](https://aeza.net/virtual-servers) (4.94 €/m)           |                                                              |                                        |                  |
 | [Hostworld](https://hostworld.uk)                                          | [See pricing](https://hostworld.uk/ssd-vps) (4.99 £/m)                 | No                                                           | No                                     |                  |
 | [UpCloud](https://upcloud.com/signup/?promo=D5VUZ2) 💲 <sup>verified</sup> | [See plans](https://www.upcloud.com/pricing/) (7 €/m)                  | ?                                                            | Trial or 25\$ Credit with referral     |                  |
 | [Adaptable](https://adaptable.io)                                          | Hobby (7 \$/m)                                                         | No                                                           | Public-repos only                      |                  |
-| [VDSina](https://www.vdsina.com/?partner=8e5e1gf48t) 💲                    | [Standard](https://www.vdsina.com/pricing/standard) (9.9 \$/m)         | No                                                           | No                                     |                  |
 | [CloudSigma](https://cloudsigma.com)                                       | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                    | 7-day                                                        | No                                     |                  |
 | [fly.io](https://fly.io)                                                   | [Launch](https://fly.io/plans) (29 \$/m)                               | No                                                           | Yes (3 shared-cpu VM)                  |                  |
 
 ---
 
-## Database
+### Database
 
 List of all managed databases
 
@@ -197,56 +197,66 @@ List of all managed databases
 | [Upstash](https://upstash.com/)                                                | Redis+Kafka            | Pay-as-you-Go                                                                                    | No     | 10K commands/day  |             |
 | [TiDB Serverless](https://www.pingcap.com/tidb-serverless)                     | MySQL                  | [Pay-as-you-Go](https://www.pingcap.com/tidb-serverless-pricing-details/)                        | No     | 5GB & 50M req/m   |             |
 | [realm](https://realm.io/)                                                     | SQLite alternative     | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) | No     | 1M req or 500 hr  |             |
-| [DBHub.io](https://dbhub.io)                                                   | SQLite                 | Free (tiered pricing eventually)                                                                 | No     | Free tier         |             |
+| [DBHub.io](https://dbhub.io)                                                   | SQLite                 | Free                                                                                             | No     | Free tier         |             |
 | [CockroachDB](https://www.cockroachlabs.com)                                   | PostgreSQL alternative | [Dedicated](https://www.cockroachlabs.com/pricing) (295 \$/m)                                    | 30-Day | 1M req & 10 GiB   |             |
 | [PocketBase](https://pocketbase.io)                                            | ?                      | Self-hosted                                                                                      | No     | Self-hosted       |             |
 
 ---
 
-## GPU
+### GPU Cloud
 
 List of all GPU renting/hosting providers
 
 > Minimal plan and/or price is referred for single (1x) GPU per hour and GPU should be RTX 3090 or similar performance
 
-| Name                                 | Minimal plan                                                     | Trial | Free | Open Source |
-| ------------------------------------ | ---------------------------------------------------------------- | ----- | ---- | ----------- |
-| [TensorDock](https://tensordock.com) | [Pricing](https://tensordock.com/cloud-gpus) (0.2 \$/h)          | No    |      |             |
-| [Salad](https://salad.com)           | [Pricing](https://salad.com/pricing) (0.25 \$/h)                 | No    |      |             |
-| [RunPod](https://runpod.io)          | [Pricing](https://runpod.io/gpu-instance/pricing) (0.26 \$/h)    | No    |      |             |
-| [VastAI](https://vast.ai)            | [Pricing](https://vast.ai/pricing) (0.3 \$/h)                    | No    |      |             |
-| [Jarvislabs](https://jarvislabs.ai)  | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)             | No    |      |             |
-| [Valdi](https://valdi.ai)            | [Pricing](https://valdi.ai) (0.45 \$/h)                          | No    |      |             |
-| [AIME](https://aime.info)            | [Pricing](https://aime.info/en/gpucloud) (0.49 \$/h)             | No    |      |             |
-| [LambdaLabs](https://lambdalabs.com) | [Pricing](https://lambdalabs.com/service/gpu-cloud) (0.5 \$/h)   | No    |      |             |
-| [Modal](https://modal.com)           | [Pricing](https://modal.com/pricing) (0.59 \$/h)                 | No    |      |             |
-| [FluidStack](https://fluidstack.io)  | [Pricing](https://fluidstack.io/pricing) (0.59 \$/h)             | No    |      |             |
-| [Shadeform](https://shadeform.ai)    | [Pricing](https://shadeform.ai) (0.6 \$/h)                       | No    |      |             |
-| [Seimaxim](https://seimaxim.com)     | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (480 \$/m) | No    |      |             |
-| [beam](https://beam.cloud)           | [Pricing](https://www.beam.cloud/pricing) (0.68 \$/h)            | No    |      |             |
-| [Cloud4U](https://cloud4u.com)       | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)     | No    |      |             |
-| [TitanGPU](https://titangpu.com)     | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)              | No    |      |             |
-| [CoreWeave](https://coreweave.com)   | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/m)   | No    |      |             |
-| [LeaderGPU](https://leadergpu.com)   | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)        | No    |      |             |
+| Name                                                                | Minimal plan                                                     | Trial       | Free | Open Source |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | ---- | ----------- |
+| [Featherless](https://featherless.ai/register?referrer=0qRlTLHJ) 💲 | [Pricing](https://featherless.ai/#pricing) (10 \$/m)             |             |      |             |
+| [Salad](https://salad.com)                                          | [Pricing](https://salad.com/pricing) (0.125 \$/h)                | No          |      |             |
+| [TensorDock](https://tensordock.com)                                | [Pricing](https://tensordock.com/cloud-gpus) (0.20 \$/h)         | No          |      |             |
+| [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)    | $0.5 credit |      |             |
+| [RunPod](https://runpod.io)                                         | [Pricing](https://runpod.io/gpu-instance/pricing) (0.22 \$/h)    | No          |      |             |
+| [VastAI](https://cloud.vast.ai/?ref_id=187311) 💲                   | [Pricing](https://vast.ai/pricing) (0.30 \$/h)                   | No          |      |             |
+| [VDSina](https://www.vdsina.com/?partner=8e5e1gf48t) 💲             | [L4](https://www.vdsina.com/pricing/gpu-servers) (0.425 \$/h)    | No          | No   |             |
+| [Jarvislabs](https://jarvislabs.ai)                                 | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)             | No          |      |             |
+| [Valdi](https://valdi.ai)                                           | [Pricing](https://valdi.ai) (0.45 \$/h)                          | No          |      |             |
+| [AIME](https://aime.info)                                           | [Pricing](https://aime.info/en/gpucloud) (0.49 \$/h)             | No          |      |             |
+| [LambdaLabs](https://lambdalabs.com)                                | [Pricing](https://lambdalabs.com/service/gpu-cloud) (0.50 \$/h)  | No          |      |             |
+| [Shadeform](https://www.shadeform.ai)                               | [Pricing](https://www.shadeform.ai/#pricing) (0.50 \$/h)         | No          |      |             |
+| [Hyperstack](https://www.hyperstack.cloud)                          | [Pricing](https://www.hyperstack.cloud/gpu-pricing) (0.50 \$/h)  | No          |      |             |
+| [Modal](https://modal.com)                                          | [Pricing](https://modal.com/pricing) (0.59 \$/h)                 | No          |      |             |
+| [FluidStack](https://fluidstack.io)                                 | [Pricing](https://fluidstack.io/pricing) (0.59 \$/h)             | No          |      |             |
+| [Shadeform](https://shadeform.ai)                                   | [Pricing](https://shadeform.ai) (0.60 \$/h)                      | No          |      |             |
+| [Seimaxim](https://seimaxim.com)                                    | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (480 \$/m) | No          |      |             |
+| [beam](https://beam.cloud)                                          | [Pricing](https://www.beam.cloud/pricing) (0.68 \$/h)            | No          |      |             |
+| [Cloud4U](https://cloud4u.com)                                      | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)     | No          |      |             |
+| [TitanGPU](https://titangpu.com)                                    | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)              | No          |      |             |
+| [CoreWeave](https://coreweave.com)                                  | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/m)   | No          |      |             |
+| [LeaderGPU](https://leadergpu.com)                                  | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)        | No          |      |             |
+| [Lepton](https://www.lepton.ai)                                     | [Pricing](https://www.lepton.ai/pricing) (1.212 $/h)             | No          |      |             |
 
 ---
 
-## LLM/Inference API
+### LLM/Inference API
 
-> Minimal plan and/or price is referred for price per million token (input/output) for LLAMA 3/3.1 70B models
+> Minimal plan and/or price is referred for price per million token (input/output) for LLAMA 3.3/3.1 70B models
 
-| Name                                          | Minimal plan                                                               | Trial       | Free | Open Source |
-| --------------------------------------------- | -------------------------------------------------------------------------- | ----------- | ---- | ----------- |
-| [Groq](https://groq.com)                      | -                                                                          |             | Yes? |             |
-| [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/model-api/pricing) (0.55/0.76 \$/M token)      | $0.5 credit |      |             |
-| [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.59/0.79 \$/M token)            |             |      |             |
-| [OctoAI](https://octo.ai)                     | [Pricing](https://octo.ai/pricing/text-gen-solution/) (0.9/0.9 \$/M token) | $10 credit  |      |             |
-| [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/M token)               | $1 credit   |      |             |
-| [Gradient AI](https://gradient.ai)            | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/M token)                | $5 credit   |      |             |
-| [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.9/0.9 \$/M token)                | $5 credit   |      |             |
-| [anyscale](https://anyscale.com)              | [Pricing](https://anyscale.com/pricing) (1/1 $/M token)                    | $50 credit  |      |             |
-| [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing) (0.65/2.75 $/M token)             |             |      |             |
-| [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.95/2.56 $/M token)    |             |      |             |
+| Name                                                                | Minimal plan                                                          | Trial       | Free | Open Source |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------- | ---- | ----------- |
+| [LambdaLabs](https://lambdalabs.com)                                | [Pricing](https://lambdalabs.com/inference) (0.20 \$/1M token)        |             |      |             |
+| [Deepinfra](https://deepinfra.com)                                  | [Pricing](https://deepinfra.com/pricing) (0.24/0.40 \$/1M token)      |             |      |             |
+| [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/model-api/pricing) (0.39 \$/1M token)     | $0.5 credit |      |             |
+| [Hyperbolic](https://hyperbolic.xyz)                                | [Pricing](https://hyperbolic.xyz/pricing) (0.4 \$/1M token)           | $10 credit  |      |             |
+| [avian](https://avian.io)                                           | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                | $1 credit   |      |             |
+| [Groq](https://groq.com)                                            | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)           |             | Yes? |             |
+| [SambaNova](https://sambanova.ai)                                   | [Pricing](https://cloud.sambanova.ai/pricing) (0.60/1.20 \$/1M token) |             |      |             |
+| [Replicate](https://replicate.com)                                  | [Pricing](https://replicate.com/pricing) (0.65/2.75 \$/1M token)      |             |      |             |
+| [AWS Bedrock](https://aws.amazon.com/bedrock)                       | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.72 \$/1M token)  |             |      |             |
+| [Lepton](https://www.lepton.ai)                                     | [Pricing](https://www.lepton.ai/pricing) (0.80 \$/1M token)           |             |      |             |
+| [together.ai](https://together.ai)                                  | [Pricing](https://together.ai/pricing) (0.88 \$/1M token)             | $5 credit   |      |             |
+| [Fireworks.ai](https://fireworks.ai)                                | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)         | $1 credit   |      |             |
+| [Gradient AI](https://gradient.ai)                                  | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)          | $5 credit   |      |             |
+| [Featherless](https://featherless.ai/register?referrer=0qRlTLHJ) 💲 | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                  |             |      |             |
 
 ---
 
