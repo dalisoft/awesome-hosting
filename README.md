@@ -212,7 +212,7 @@ List of all GPU renting/hosting providers
 | Name                                                                | Minimal plan                                                     | Trial       | Free | Open Source |
 | ------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | ---- | ----------- |
 | [Featherless](https://featherless.ai/register?referrer=0qRlTLHJ) 💲 | [Pricing](https://featherless.ai/#pricing) (10 \$/m)             |             |      |             |
-| [Salad](https://salad.com)                                          | [Pricing](https://salad.com/pricing) (0.125 \$/h)                | No          |      |             |
+| [Salad](https://salad.com)                                          | [Pricing](https://salad.com/pricing) (0.20 \$/h)                | No          |      |             |
 | [TensorDock](https://tensordock.com)                                | [Pricing](https://tensordock.com/cloud-gpus) (0.20 \$/h)         | No          |      |             |
 | [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)    | $0.5 credit |      |             |
 | [RunPod](https://runpod.io)                                         | [Pricing](https://runpod.io/gpu-instance/pricing) (0.22 \$/h)    | No          |      |             |
