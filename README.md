@@ -217,7 +217,7 @@ List of all GPU renting/hosting providers
 | [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)    | $0.5 credit |      |             |
 | [RunPod](https://runpod.io)                                         | [Pricing](https://runpod.io/gpu-instance/pricing) (0.22 \$/h)    | No          |      |             |
 | [VastAI](https://cloud.vast.ai/?ref_id=187311) 💲                   | [Pricing](https://vast.ai/pricing) (0.30 \$/h)                   | No          |      |             |
-| [VDSina](https://www.vdsina.com/?partner=8e5e1gf48t) 💲             | [L4](https://www.vdsina.com/pricing/gpu-servers) (0.425 \$/h)    | No          | No   |             |
+| [VDSina](https://www.vdsina.com/?partner=8e5e1gf48t) 💲             | [L4](https://www.vdsina.com/pricing/gpu-servers) (0.425 \$/h)    | No          |      |             |
 | [Jarvislabs](https://jarvislabs.ai)                                 | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)             | No          |      |             |
 | [Valdi](https://valdi.ai)                                           | [Pricing](https://valdi.ai) (0.45 \$/h)                          | No          |      |             |
 | [AIME](https://aime.info)                                           | [Pricing](https://aime.info/en/gpucloud) (0.49 \$/h)             | No          |      |             |
@@ -246,7 +246,7 @@ List of all GPU renting/hosting providers
 | [LambdaLabs](https://lambdalabs.com)                                | [Pricing](https://lambdalabs.com/inference) (0.20 \$/1M token)        |             |      |             |
 | [Deepinfra](https://deepinfra.com)                                  | [Pricing](https://deepinfra.com/pricing) (0.24/0.40 \$/1M token)      |             |      |             |
 | [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/model-api/pricing) (0.39 \$/1M token)     | $0.5 credit |      |             |
-| [Hyperbolic](https://hyperbolic.xyz)                                | [Pricing](https://hyperbolic.xyz/pricing) (0.4 \$/1M token)           | $10 credit  |      |             |
+| [Hyperbolic](https://hyperbolic.xyz)                                | [Pricing](https://hyperbolic.xyz/pricing) (0.40 \$/1M token)          | $10 credit  |      |             |
 | [avian](https://avian.io)                                           | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                | $1 credit   |      |             |
 | [Groq](https://groq.com)                                            | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)           |             | Yes? |             |
 | [SambaNova](https://sambanova.ai)                                   | [Pricing](https://cloud.sambanova.ai/pricing) (0.60/1.20 \$/1M token) |             |      |             |
