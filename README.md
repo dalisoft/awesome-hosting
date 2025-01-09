@@ -212,7 +212,7 @@ List of all GPU renting/hosting providers
 | Name                                                                | Minimal plan                                                     | Trial       | Free | Open Source |
 | ------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | ---- | ----------- |
 | [Featherless](https://featherless.ai/register?referrer=0qRlTLHJ) 💲 | [Pricing](https://featherless.ai/#pricing) (10 \$/m)             |             |      |             |
-| [Salad](https://salad.com)                                          | [Pricing](https://salad.com/pricing) (0.20 \$/h)                | No          |      |             |
+| [Salad](https://salad.com)                                          | [Pricing](https://salad.com/pricing) (0.20 \$/h)                 | No          |      |             |
 | [TensorDock](https://tensordock.com)                                | [Pricing](https://tensordock.com/cloud-gpus) (0.20 \$/h)         | No          |      |             |
 | [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)    | $0.5 credit |      |             |
 | [RunPod](https://runpod.io)                                         | [Pricing](https://runpod.io/gpu-instance/pricing) (0.22 \$/h)    | No          |      |             |
@@ -253,6 +253,7 @@ List of all GPU renting/hosting providers
 | [Replicate](https://replicate.com)                                  | [Pricing](https://replicate.com/pricing) (0.65/2.75 \$/1M token)      |             |      |             |
 | [AWS Bedrock](https://aws.amazon.com/bedrock)                       | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.72 \$/1M token)  |             |      |             |
 | [Lepton](https://www.lepton.ai)                                     | [Pricing](https://www.lepton.ai/pricing) (0.80 \$/1M token)           |             |      |             |
+| [Cerebas](https://cerebras.ai)                                      | [Pricing](https://inference.cerebras.ai) (0.85/1.20 \$/1M token)      |             | Yes? |             |
 | [together.ai](https://together.ai)                                  | [Pricing](https://together.ai/pricing) (0.88 \$/1M token)             | $5 credit   |      |             |
 | [Fireworks.ai](https://fireworks.ai)                                | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)         | $1 credit   |      |             |
 | [Gradient AI](https://gradient.ai)                                  | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)          | $5 credit   |      |             |
