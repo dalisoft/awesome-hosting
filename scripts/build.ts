@@ -7,7 +7,7 @@ import {
   ProviderOutputSchemaArray,
   type ProviderInputSchemaType,
   type ProviderOutputSchemaType
-} from './build.types';
+} from './build.types.ts';
 
 const readme = await fs.readFile(path.resolve('README.md'), {
   encoding: 'utf-8'
