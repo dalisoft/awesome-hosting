@@ -2,7 +2,7 @@
 
 List of awesome hosting sorted by minimal plan price
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=189590109" height="20">](https://api.gitsponsors.com/api/badge/link?p=usrbk04dG5eVeiG81PYimqnTz2wZZov17EQXx2wWzZOx2JtzlS4IKilg0z91phG1uOZZuGbuvZrO5NuZxOMjyA==)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=189590109" height="20">](https://api.gitsponsors.com/api/badge/link?p=usrbk04dG5eVeiG81PYimqx+O+40GL+0txKTQXagV3inGKnhg6xC7qKSuVgYZYVsGC9k60yF+RBMeK3ByuEgcf02E1+2yxoNob0vW0N43KUXfN/nvI4iEVy67iWih1+fYSn6NNO0jQwU6Kcg0dlQCg==)
 
 ## Other my awesome lists
 
