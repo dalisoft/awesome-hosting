@@ -2,6 +2,8 @@
 
 List of awesome hosting sorted by minimal plan price
 
+[![GitSponsors](https://api.gitsponsors.com/api/badge/img?id=189590109)](https://api.gitsponsors.com/api/badge/link?p=usrbk04dG5eVeiG81PYimqnTz2wZZov17EQXx2wWzZOx2JtzlS4IKilg0z91phG1uOZZuGbuvZrO5NuZxOMjyA==)
+
 ## Other my awesome lists
 
 - [awesome-storage](https://github.com/dalisoft/awesome-storage)
