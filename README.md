@@ -226,6 +226,7 @@ List of all GPU renting/hosting providers
 | [Modal](https://modal.com)                                          | [Pricing](https://modal.com/pricing) (0.59 \$/h)                 | No          |      |             |
 | [FluidStack](https://fluidstack.io)                                 | [Pricing](https://fluidstack.io/pricing) (0.59 \$/h)             | No          |      |             |
 | [Shadeform](https://shadeform.ai)                                   | [Pricing](https://shadeform.ai) (0.60 \$/h)                      | No          |      |             |
+| [MLGPU](https://mlgpu.ru)                                           | [Pricing](https://mlgpu.ru/#pricing) (0.63 \$/h)                 | 3-day       |      |             |
 | [Seimaxim](https://seimaxim.com)                                    | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (480 \$/m) | No          |      |             |
 | [beam](https://beam.cloud)                                          | [Pricing](https://www.beam.cloud/pricing) (0.68 \$/h)            | No          |      |             |
 | [Cloud4U](https://cloud4u.com)                                      | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)     | No          |      |             |
@@ -245,6 +246,7 @@ List of all GPU renting/hosting providers
 | ------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------- | ---- | ----------- |
 | [LambdaLabs](https://lambdalabs.com)                                | [Pricing](https://lambdalabs.com/inference) (0.20 \$/1M token)        |             |      |             |
 | [Deepinfra](https://deepinfra.com)                                  | [Pricing](https://deepinfra.com/pricing) (0.24/0.40 \$/1M token)      |             |      |             |
+| [kluster.ai](https://www.kluster.ai)                                | [Pricing](https://www.kluster.ai/#pricing) (0.35 \$/1M token)         | $100 credit |      |             |
 | [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/model-api/pricing) (0.39 \$/1M token)     | $0.5 credit |      |             |
 | [Hyperbolic](https://hyperbolic.xyz)                                | [Pricing](https://hyperbolic.xyz/pricing) (0.40 \$/1M token)          | $10 credit  |      |             |
 | [avian](https://avian.io)                                           | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                | $1 credit   |      |             |
