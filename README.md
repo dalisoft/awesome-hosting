@@ -146,6 +146,7 @@ List of all Virtual Private Server
 | [BuyVM](https://buyvm.net)                                                 | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices) (2 \$/m)   | No                                                           | No                                     |                  |
 | [VScale](https://www.vscale.io)                                            | [See pricing](https://vscale.io/cloud/instances/order) (~2,15 \$/m)   | No                                                           |                                        |                  |
 | [Life Cloud Solutions](https://lifecloud.solutions/vps-server.php)         | [SSD Cloud 2](https://lifecloud.solutions/vps-server.php) (2,00 €/m)  | No                                                           | No                                     |                  |
+| [beget](https://beget.com)                                                 | [Pricing](https://beget.com/en/vps) (2,09 €/m)                        |                                                              |                                        |                  |
 | [Vultr](https://www.vultr.com/?ref=9628836-8H) 💲                          | [Skylake 10GB](https://www.vultr.com/pricing) (2.5 \$/m)              | 60-day                                                       | Trial, 10$ or 100$ Credit with &raquo; |                  |
 | [FirstVDS](https://firstvds.ru/?from=1025225) 💲                           | Прогрев (2.5 \$/m)                                                    | No                                                           | No                                     |                  |
 | [RuVDS](https://ruvds.com/pr3299) 💲                                       | Start->Start (2.6 \$/m)                                               | 3-day                                                        | No                                     |                  |
@@ -165,6 +166,7 @@ List of all Virtual Private Server
 | [Linode](https://www.linode.com) <sup>verified</sup>                       | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                 | 7-day                                                        | No                                     |                  |
 | [aeza](https://aeza.net/?ref=550011) 💲                                    | [Shared ALBs-1](https://aeza.net/virtual-servers) (4.94 €/m)          |                                                              |                                        |                  |
 | [Hostworld](https://hostworld.uk)                                          | [See pricing](https://hostworld.uk/ssd-vps) (4.99 £/m)                | No                                                           | No                                     |                  |
+| [CloudTTK](https://cloud.ttk.ru)                                           | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)       | No                                                           | No                                     |                  |
 | [UpCloud](https://upcloud.com/signup/?promo=D5VUZ2) 💲 <sup>verified</sup> | [See plans](https://www.upcloud.com/pricing) (7 €/m)                  | ?                                                            | Trial or 25\$ Credit with referral     |                  |
 | [Adaptable](https://adaptable.io)                                          | Hobby (7 \$/m)                                                        | No                                                           | Public-repos only                      |                  |
 | [CloudSigma](https://cloudsigma.com)                                       | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                   | 7-day                                                        | No                                     |                  |
@@ -183,6 +185,7 @@ List of all managed databases
 | [clever cloud](https://www.clever-cloud.com/postgresql-hosting)                | Any                    | [XXS Small Space](https://www.clever-cloud.com/postgresql-hosting) (€5.25/m)                     | No     | 10-256Mb storage  |             |
 | [Redis Cloud](https://redislabs.com/get-started)                               | Redis                  | [Fixed](https://redis.com/redis-enterprise-cloud/pricing) (7 \$/m)                               | No     | 30Mb storage      |             |
 | [Scalingo](https://scalingo.com/databases)                                     | Any                    | [Starter 512M](https://scalingo.com/pricing) (€7.20/m)                                           | No     | Yes               |             |
+| [beget](https://beget.com)                                                     | MySQL/PostgreSQL       | [Pricing](https://beget.com/en/cloud/dbaas-postgresql) (8,65 €/m)                                | No     | No                |             |
 | [Turso](https://turso.tech)                                                    | SQLite                 | [Hobby](https://turso.tech/pricing) (9 \$/m)                                                     | No     | 9Gb total storage |             |
 | [Aiven](https://console.aiven.io/signup?referral_code=c5lqcgdy1bmva03f1jer) 💲 | Any                    | [Hobbyist](https://aiven.io/pricing) (19 \$/m)                                                   | Cloud  | `do-nyc` plans    |             |
 | [neon](https://neon.tech)                                                      | PostgreSQL             | [Launch](https://neon.tech/pricing) (19 \$/m)                                                    | No     | Free tier         |             |
@@ -216,6 +219,7 @@ List of all GPU renting/hosting providers
 | [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)    | $0.5 credit |      |             |
 | [RunPod](https://runpod.io)                                         | [Pricing](https://runpod.io/gpu-instance/pricing) (0.22 \$/h)    | No          |      |             |
 | [VastAI](https://cloud.vast.ai/?ref_id=187311) 💲                   | [Pricing](https://vast.ai/pricing) (0.30 \$/h)                   | No          |      |             |
+| [CloudTTK](https://cloud.ttk.ru)                                    | [Pricing](https://cloud.ttk.ru/computing) (0.375 \$/h)           | No          |      |             |
 | [VDSina](https://www.vdsina.com/?partner=8e5e1gf48t) 💲             | [L4](https://www.vdsina.com/pricing/gpu-servers) (0.425 \$/h)    | No          |      |             |
 | [Jarvislabs](https://jarvislabs.ai)                                 | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)             | No          |      |             |
 | [Valdi](https://valdi.ai)                                           | [Pricing](https://valdi.ai) (0.45 \$/h)                          | No          |      |             |
@@ -234,6 +238,7 @@ List of all GPU renting/hosting providers
 | [LeaderGPU](https://leadergpu.com)                                  | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)        | No          |      |             |
 | [Qoddi](https://qoddi.com)                                          | [GPU-XS](https://qoddi.com/pricing) (0.91 $/h)                   | No          |      |             |
 | [Lepton](https://www.lepton.ai)                                     | [Pricing](https://www.lepton.ai/pricing) (1.212 $/h)             | No          |      |             |
+| [ShaktiCloud](https://shakticloud.ai)                               | [Spark](https://shakticloud.ai/pricing.html) (1.52 \$/h)         | No          |      |             |
 
 ---
 
