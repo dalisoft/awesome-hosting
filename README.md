@@ -250,13 +250,13 @@ List of all GPU renting/hosting providers
 | ------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------- | ---- | ----------- |
 | [LambdaLabs](https://lambdalabs.com)                                | [Pricing](https://lambdalabs.com/inference) (0.20 \$/1M token)        |             |      |             |
 | [Deepinfra](https://deepinfra.com)                                  | [Pricing](https://deepinfra.com/pricing) (0.24/0.40 \$/1M token)      |             |      |             |
-| [kluster.ai](https://www.kluster.ai)                                | [Pricing](https://www.kluster.ai/#pricing) (0.35 \$/1M token)         | $100 credit |      |             |
 | [Novita](https://novita.ai/?ref=nzk2mgm&utm_source=affiliate) 💲    | [Pricing](https://novita.ai/model-api/pricing) (0.39 \$/1M token)     | $0.5 credit |      |             |
 | [Hyperbolic](https://hyperbolic.xyz)                                | [Pricing](https://hyperbolic.xyz/pricing) (0.40 \$/1M token)          | $10 credit  |      |             |
 | [avian](https://avian.io)                                           | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                | $1 credit   |      |             |
 | [Groq](https://groq.com)                                            | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)           |             | Yes? |             |
 | [SambaNova](https://sambanova.ai)                                   | [Pricing](https://cloud.sambanova.ai/pricing) (0.60/1.20 \$/1M token) |             |      |             |
 | [Replicate](https://replicate.com)                                  | [Pricing](https://replicate.com/pricing) (0.65/2.75 \$/1M token)      |             |      |             |
+| [kluster.ai](https://www.kluster.ai)                                | [Pricing](https://www.kluster.ai/#pricing) (0.70 \$/1M token)         | $5 credit   |      |             |
 | [AWS Bedrock](https://aws.amazon.com/bedrock)                       | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.72 \$/1M token)  |             |      |             |
 | [Lepton](https://www.lepton.ai)                                     | [Pricing](https://www.lepton.ai/pricing) (0.80 \$/1M token)           |             |      |             |
 | [Cerebas](https://cerebras.ai)                                      | [Pricing](https://inference.cerebras.ai) (0.85/1.20 \$/1M token)      |             | Yes? |             |
