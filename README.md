@@ -237,7 +237,7 @@ List of all GPU renting/hosting providers
 | [CoreWeave](https://coreweave.com)                                  | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/m)         | No          |      |             |
 | [LeaderGPU](https://leadergpu.com)                                  | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)              | No          |      |             |
 | [Qoddi](https://qoddi.com)                                          | [GPU-XS](https://qoddi.com/pricing) (0.91 $/h)                         | No          |      |             |
-| [crusoe](https://crusoe.ai)                                         | [Pricing](https://crusoe.ai/cloud) (1.1 \$/h)                          | No          |      |             |
+| [crusoe](https://crusoe.ai)                                         | [Pricing](https://crusoe.ai/cloud) (1.10 \$/h)                         | No          |      |             |
 | [Lepton](https://www.lepton.ai)                                     | [Pricing](https://www.lepton.ai/pricing) (1.212 $/h)                   | No          |      |             |
 | [ShaktiCloud](https://shakticloud.ai)                               | [Spark](https://shakticloud.ai/pricing.html) (1.52 \$/h)               | No          |      |             |
 | [Friendli](https://friendli.ai)                                     | [Pricing](https://friendli.ai/products/dedicated-endpoints) (2.9 \$/h) | $5 credit   |      |             |
