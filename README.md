@@ -290,6 +290,7 @@ List of all GPU renting/hosting providers
 - <https://lowendbox.com/category/virtual-servers>
 - <https://hostinghub.ru/top/vds/desheviy>
 - <https://cloud-gpus.com>
+- <https://www.flightcontrol.dev>
 
 ---
 
