@@ -52,11 +52,15 @@ List of all Backend-as-a-Service platform
 | [PocketHost](https://pockethost.io)             | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No    | Yes                                                |             | Dynamic |        |
 | [Firebase Console](https://firebase.google.com) | [Pay-as-you-Go](https://firebase.google.com/pricing)  | No    | Yes                                                |             | Dynamic | No     |
 | [Netlify Functions](https://www.netlify.com)    | [Pro](https://www.netlify.com/pricing) (19 \$/user/m) | No    | 125K request / month                               |             |         |        |
+| [Vercel](https://vercel.com)                    | [Pro](https://vercel.com/pricing) (20 \$/m)           | No    | Yes                                                |             | Dynamic | Yes    |
 | [Supabase](https://supabase.io)                 | [Pro](https://supabase.io/pricing) (25 \$/m)          | No    | Yes                                                |             | Dynamic | No     |
 | [Nhost](https://nhost.io)                       | [Pro](https://nhost.io/pricing) (25 \$/m)             | No    | Yes                                                | Yes         | Dynamic | Yes    |
 | [directus](https://directus.io)                 | [Starter](https://directus.io/pricing) (15 \$/m)      | No    | [Community Cloud](https://directus.io/pricing)     | Yes         | Dynamic | ?      |
 | [Koyeb](https://koyeb.com)                      | [Pro](https://koyeb.com/pricing) (29 \$/m)            | No    | Yes                                                |             | Dynamic | No     |
 | [PocketBase](https://pocketbase.io)             | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
+| [Dokku](https://dokku.com)                      | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
+| [CapRover](https://caprover.com)                | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
+| [Coolify](https://coolify.io)                   | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
 
 ---
 
