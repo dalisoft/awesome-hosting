@@ -254,11 +254,11 @@ List of all GPU renting/hosting providers
 | Name                                                                | Minimal plan                                                                   | Trial      | Free | Open Source |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------- | ---- | ----------- |
 | [chutes](https://chutes.ai)                                         | -                                                                              |            | Yes  |             |
-| [LambdaLabs](https://lambdalabs.com)                                | [Pricing](https://lambdalabs.com/inference) (0.20 \$/1M token)                 |            |      |             |
-| [Deepinfra](https://deepinfra.com)                                  | [Pricing](https://deepinfra.com/pricing) (0.24/0.40 \$/1M token)               |            |      |             |
+| [LambdaLabs](https://lambda.ai)                                     | [Pricing](https://lambda.ai/inference) (0.12/0.30 \$/1M token)                 |            |      |             |
+| [Novita](https://novita.ai/referral?invited_code=4XHRW5) 💲         | [Pricing](https://novita.ai/pricing) (0.13/0.39 \$/1M token)                   | $20 credit |      |             |
+| [Deepinfra](https://deepinfra.com)                                  | [Pricing](https://deepinfra.com/pricing) (0.23/0.40 \$/1M token)               |            |      |             |
 | [Nebius](https://nebius.com)                                        | [Pricing](https://nebius.com/prices-ai-studio) (0.25/0.75 \$/1M token)         |            |      |             |
-| [inference](https://inference.net)                                  | [Pricing](https://inference.net/pricing) (0.30 \$/1M token)                    |            |      |             |
-| [Novita](https://novita.ai/referral?invited_code=4XHRW5) 💲         | [Pricing](https://novita.ai/model-api/pricing) (0.39 \$/1M token)              | $20 credit |      |             |
+| [inference](https://inference.net)                                  | [Pricing](https://inference.net/pricing) (0.30/0.40 \$/1M token)               |            |      |             |
 | [Hyperbolic](https://hyperbolic.xyz)                                | [Pricing](https://hyperbolic.xyz/pricing) (0.40 \$/1M token)                   | $10 credit |      |             |
 | [avian](https://avian.io)                                           | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                         | $1 credit  |      |             |
 | [Groq](https://groq.com)                                            | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)                    |            | Yes? |             |
