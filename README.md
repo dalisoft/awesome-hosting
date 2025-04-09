@@ -61,6 +61,7 @@ List of all Backend-as-a-Service platform
 | [Dokku](https://dokku.com)                      | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
 | [CapRover](https://caprover.com)                | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
 | [Coolify](https://coolify.io)                   | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
+| [Disco](https://disco.cloud/)                   | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
 
 ---
 
