@@ -175,6 +175,7 @@ List of all Virtual Private Server
 | [Adaptable](https://adaptable.io)                                          | Hobby (7 \$/m)                                                        | No                                                           | Public-repos only                      |                  |
 | [CloudSigma](https://cloudsigma.com)                                       | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                   | 7-day                                                        | No                                     |                  |
 | [fly.io](https://fly.io)                                                   | [Launch](https://fly.io/plans) (29 \$/m)                              | No                                                           | Yes (3 shared-cpu VM)                  |                  |
+| [RX-NAME](https://rx-name.net)                                       | [VM-1Gs](https://rx-name.net/vps) (3.63 \$/m)                               | 14-day                                                       | No                                     |                  |
 
 ---
 
