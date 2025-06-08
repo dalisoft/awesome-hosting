@@ -43,25 +43,26 @@ List of all Web services platform
 
 List of all Backend-as-a-Service platform
 
-| Name                                            | Minimal plan                                          | Trial | Free                                               | Open Source | Type    | Lambda |
-| ----------------------------------------------- | ----------------------------------------------------- | ----- | -------------------------------------------------- | ----------- | ------- | ------ |
-| [litegix](https://litegix.com)                  | [Hobby](https://litegix.com/pricing) (5 \$/m)         | No    | Up-to 5 apps?                                      |             | ?       | ?      |
-| [Render](https://render.com)                    | [Services](https://render.com/pricing) (7 \$/m)       | No    | Yes (with few limits)                              |             | Dynamic | No     |
-| [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)      | No    | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
-| [appwrite Cloud](https://appwrite.io/cloud)     | [Pro Plan](https://appwrite.io/pricing) (15 \$/m)     | No    | Yes (Self-hosted)                                  |             | Dynamic | ?      |
-| [PocketHost](https://pockethost.io)             | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No    | Yes                                                |             | Dynamic |        |
-| [Firebase Console](https://firebase.google.com) | [Pay-as-you-Go](https://firebase.google.com/pricing)  | No    | Yes                                                |             | Dynamic | No     |
-| [Netlify Functions](https://www.netlify.com)    | [Pro](https://www.netlify.com/pricing) (19 \$/user/m) | No    | 125K request / month                               |             |         |        |
-| [Vercel](https://vercel.com)                    | [Pro](https://vercel.com/pricing) (20 \$/m)           | No    | Yes                                                |             | Dynamic | Yes    |
-| [Supabase](https://supabase.io)                 | [Pro](https://supabase.io/pricing) (25 \$/m)          | No    | Yes                                                |             | Dynamic | No     |
-| [Nhost](https://nhost.io)                       | [Pro](https://nhost.io/pricing) (25 \$/m)             | No    | Yes                                                | Yes         | Dynamic | Yes    |
-| [directus](https://directus.io)                 | [Starter](https://directus.io/pricing) (15 \$/m)      | No    | [Community Cloud](https://directus.io/pricing)     | Yes         | Dynamic | ?      |
-| [Koyeb](https://koyeb.com)                      | [Pro](https://koyeb.com/pricing) (29 \$/m)            | No    | Yes                                                |             | Dynamic | No     |
-| [PocketBase](https://pocketbase.io)             | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
-| [Dokku](https://dokku.com)                      | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
-| [CapRover](https://caprover.com)                | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
-| [Coolify](https://coolify.io)                   | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
-| [Disco](https://disco.cloud/)                   | Your infrastructure                                   | -     | Self-Hosted                                        |             | Dynamic | -      |
+| Name                                            | Minimal plan                                          | Trial  | Free                                               | Open Source | Type    | Lambda |
+| ----------------------------------------------- | ----------------------------------------------------- | ------ | -------------------------------------------------- | ----------- | ------- | ------ |
+| [PocketHost](https://pockethost.io)             | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No     | Yes                                                |             | Dynamic |        |
+| [litegix](https://litegix.com)                  | [Hobby](https://litegix.com/pricing) (5 \$/m)         | No     | Up-to 5 apps?                                      |             | ?       | ?      |
+| [Render](https://render.com)                    | [Services](https://render.com/pricing) (7 \$/m)       | No     | Yes (with few limits)                              |             | Dynamic | No     |
+| [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)      | No     | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
+| [Sherpa](https://www.sherpa.sh)                 | [Hobby](https://www.sherpa.sh/pricing) (10 \$/m)      | 14-day | Yes                                                |             |
+| [appwrite Cloud](https://appwrite.io/cloud)     | [Pro Plan](https://appwrite.io/pricing) (15 \$/m)     | No     | Yes (Self-hosted)                                  |             | Dynamic | ?      |
+| [Firebase Console](https://firebase.google.com) | [Pay-as-you-Go](https://firebase.google.com/pricing)  | No     | Yes                                                |             | Dynamic | No     |
+| [Netlify Functions](https://www.netlify.com)    | [Pro](https://www.netlify.com/pricing) (19 \$/user/m) | No     | 125K request / month                               |             |         |        |
+| [Vercel](https://vercel.com)                    | [Pro](https://vercel.com/pricing) (20 \$/m)           | No     | Yes                                                |             | Dynamic | Yes    |
+| [Supabase](https://supabase.io)                 | [Pro](https://supabase.io/pricing) (25 \$/m)          | No     | Yes                                                |             | Dynamic | No     |
+| [Nhost](https://nhost.io)                       | [Pro](https://nhost.io/pricing) (25 \$/m)             | No     | Yes                                                | Yes         | Dynamic | Yes    |
+| [directus](https://directus.io)                 | [Starter](https://directus.io/pricing) (15 \$/m)      | No     | [Community Cloud](https://directus.io/pricing)     | Yes         | Dynamic | ?      |
+| [Koyeb](https://koyeb.com)                      | [Pro](https://koyeb.com/pricing) (29 \$/m)            | No     | Yes                                                |             | Dynamic | No     |
+| [PocketBase](https://pocketbase.io)             | Your infrastructure                                   | -      | Self-Hosted                                        |             | Dynamic | -      |
+| [Dokku](https://dokku.com)                      | Your infrastructure                                   | -      | Self-Hosted                                        |             | Dynamic | -      |
+| [CapRover](https://caprover.com)                | Your infrastructure                                   | -      | Self-Hosted                                        |             | Dynamic | -      |
+| [Coolify](https://coolify.io)                   | Your infrastructure                                   | -      | Self-Hosted                                        |             | Dynamic | -      |
+| [Disco](https://disco.cloud/)                   | Your infrastructure                                   | -      | Self-Hosted                                        |             | Dynamic | -      |
 
 ---
 
@@ -69,17 +70,18 @@ List of all Backend-as-a-Service platform
 
 List of all Lambda(Serverless)-as-a-Service platform
 
-| Name                                                              | Minimal plan                                                                                         | Trial | Free                   | Open Source |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- | ---------------------- | ----------- |
-| [Azure Functions](https://azure.microsoft.com/products/functions) | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No    | 1M invocations / month |             |
-| [AWS Lambda](https://aws.amazon.com/lambda)                       | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing) (0.2 \$/m req)                                | No    | 100K request / day     |             |
-| [Google Functions](https://cloud.google.com/functions)            | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No    | 2M invocations / month |             |
-| [Google Run](https://cloud.google.com/run) \[container\]          | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)                                 | No    | 2M invocations / month |             |
-| [Serverless Cloud](https://www.serverless.com/cloud)              | [Pay-as-you-Go](https://www.serverless.com/pricing) (4 \$/m)                                         | No    |                        |             |
-| [Cloudflare Workers](https://workers.cloudflare.com)              | [Pay-as-you-Go](https://workers.cloudflare.com) (5 \$/m)                                             | No    | 1M request / month     |             |
-| [Netlify Functions](https://www.netlify.com/products/functions)   | [Pro](https://www.netlify.com/pricing) (19 \$/user/m)                                                | No    | 125K request / month   |             |
-| [Deno Deploy](https://deno.com/deploy)                            | [Pro](https://deno.com/deploy/pricing) (20 \$/m)                                                     | No    | 1M requests / month    |             |
-| [Vercel Edge](https://vercel.com/features/edge-functions)         | [Pro](https://vercel.com/pricing) (20 \$/m)                                                          | No    | 1M invocations / month |             |
+| Name                                                              | Minimal plan                                                                                         | Trial  | Free                   | Open Source |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------ | ---------------------- | ----------- |
+| [Azure Functions](https://azure.microsoft.com/products/functions) | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No     | 1M invocations / month |             |
+| [AWS Lambda](https://aws.amazon.com/lambda)                       | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing) (0.2 \$/m req)                                | No     | 100K request / day     |             |
+| [Google Functions](https://cloud.google.com/functions)            | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No     | 2M invocations / month |             |
+| [Google Run](https://cloud.google.com/run) \[container\]          | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)                                 | No     | 2M invocations / month |             |
+| [Serverless Cloud](https://www.serverless.com/cloud)              | [Pay-as-you-Go](https://www.serverless.com/pricing) (4 \$/m)                                         | No     |                        |             |
+| [Cloudflare Workers](https://workers.cloudflare.com)              | [Pay-as-you-Go](https://workers.cloudflare.com) (5 \$/m)                                             | No     | 1M request / month     |             |
+| [Sherpa](https://www.sherpa.sh)                                   | [Hobby](https://www.sherpa.sh/pricing) (10 \$/m)                                                     | 14-day | Yes                    |             |
+| [Netlify Functions](https://www.netlify.com/products/functions)   | [Pro](https://www.netlify.com/pricing) (19 \$/user/m)                                                | No     | 125K request / month   |             |
+| [Deno Deploy](https://deno.com/deploy)                            | [Pro](https://deno.com/deploy/pricing) (20 \$/m)                                                     | No     | 1M requests / month    |             |
+| [Vercel Edge](https://vercel.com/features/edge-functions)         | [Pro](https://vercel.com/pricing) (20 \$/m)                                                          | No     | 1M invocations / month |             |
 
 ---
 
@@ -110,17 +112,18 @@ List of all Node.js hosting platform
 
 List of all static site hosting platform
 
-| Name                                          | Minimal plan                                             | Trial | Free                                                               | Open Source       | Type   | Lambda |
-| --------------------------------------------- | -------------------------------------------------------- | ----- | ------------------------------------------------------------------ | ----------------- | ------ | ------ |
-| [Netlify](https://www.netlify.com)            | [Pro](https://www.netlify.com/pricing) (19 \$/m)         | No    | Yes                                                                |                   | Static | Yes    |
-| [Vercel](https://vercel.com)                  | [Pro](https://vercel.com/pricing) (20 \$/m)              | No    | Yes                                                                | Increase resource | Static | Yes    |
-| [dAppling Network](https://dappling.network)  | [Grow](https://www.dappling.network) ($20 \$/user/m)     | No    | Yes                                                                |                   | Static | No     |
-| [fleek](https://fleek.xyz)                    | [Pro](https://fleek.xyz/pricing) (20 \$/m)               | No    | Yes (3Gb Storage)                                                  |                   | Static | No     |
-| [begin](https://begin.com) ⚠️                 | [Team](https://begin.com) (25 \$/m) + AWS Fee            | No    | Yes (5 App)                                                        |                   | Static | Yes    |
-| [tinacms](https://tina.io)                    | [Team](https://tina.io/pricing) (29 \$/user/m)           | No    |                                                                    |                   | Static | No     |
-| [Surge](https://surge.sh)                     | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No    | Yes                                                                |                   | Static | No     |
-| [AWS Amplify](https://aws.amazon.com/amplify) | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No    | Yes (5Gb)                                                          |                   | Static | ?      |
-| [Github Pages](https://pages.github.com)      | -                                                        | No    | [Public](https://help.github.com/en/articles/what-is-github-pages) |                   | Static | No     |
+| Name                                          | Minimal plan                                             | Trial  | Free                                                               | Open Source       | Type   | Lambda |
+| --------------------------------------------- | -------------------------------------------------------- | ------ | ------------------------------------------------------------------ | ----------------- | ------ | ------ |
+| [Sherpa](https://www.sherpa.sh)               | [Hobby](https://www.sherpa.sh/pricing) (10 \$/m)         | 14-day | Yes                                                                |                   | Static | Yes    |
+| [Netlify](https://www.netlify.com)            | [Pro](https://www.netlify.com/pricing) (19 \$/m)         | No     | Yes                                                                |                   | Static | Yes    |
+| [Vercel](https://vercel.com)                  | [Pro](https://vercel.com/pricing) (20 \$/m)              | No     | Yes                                                                | Increase resource | Static | Yes    |
+| [dAppling Network](https://dappling.network)  | [Grow](https://www.dappling.network) ($20 \$/user/m)     | No     | Yes                                                                |                   | Static | No     |
+| [fleek](https://fleek.xyz)                    | [Pro](https://fleek.xyz/pricing) (20 \$/m)               | No     | Yes (3Gb Storage)                                                  |                   | Static | No     |
+| [begin](https://begin.com) ⚠️                 | [Team](https://begin.com) (25 \$/m) + AWS Fee            | No     | Yes (5 App)                                                        |                   | Static | Yes    |
+| [tinacms](https://tina.io)                    | [Team](https://tina.io/pricing) (29 \$/user/m)           | No     |                                                                    |                   | Static | No     |
+| [Surge](https://surge.sh)                     | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No     | Yes                                                                |                   | Static | No     |
+| [AWS Amplify](https://aws.amazon.com/amplify) | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No     | Yes (5Gb)                                                          |                   | Static | ?      |
+| [Github Pages](https://pages.github.com)      | -                                                        | No     | [Public](https://help.github.com/en/articles/what-is-github-pages) |                   | Static | No     |
 
 ---
 
