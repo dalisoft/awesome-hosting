@@ -245,11 +245,13 @@ List of all GPU renting/hosting providers
 | [TitanGPU](https://titangpu.com)                                    | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)                    | No         |      |             |
 | [CoreWeave](https://coreweave.com)                                  | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/m)         | No         |      |             |
 | [LeaderGPU](https://leadergpu.com)                                  | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)              | No         |      |             |
+| [Baseten](https://www.baseten.co)                                   | [Pricing](https://www.baseten.co/pricing) (0.84 \$/h)                  | $5 credit  |      |             |
 | [Qoddi](https://qoddi.com)                                          | [GPU-XS](https://qoddi.com/pricing) (0.91 $/h)                         | No         |      |             |
 | [crusoe](https://crusoe.ai)                                         | [Pricing](https://crusoe.ai/cloud) (1.10 \$/h)                         | No         |      |             |
 | [Lepton](https://www.lepton.ai)                                     | [Pricing](https://www.lepton.ai/pricing) (1.212 $/h)                   | No         |      |             |
 | [ShaktiCloud](https://shakticloud.ai)                               | [Spark](https://shakticloud.ai/pricing.html) (1.52 \$/h)               | No         |      |             |
 | [Friendli](https://friendli.ai)                                     | [Pricing](https://friendli.ai/products/dedicated-endpoints) (2.9 \$/h) | $5 credit  |      |             |
+| [GMICloud](https://www.gmicloud.ai)                                 | [Pricing](https://www.gmicloud.ai/pricing)                             |            |      |             |
 
 ---
 
@@ -262,6 +264,7 @@ List of all GPU renting/hosting providers
 | [chutes](https://chutes.ai)                                         | -                                                                              |            | Yes  |             |
 | [LambdaLabs](https://lambda.ai)                                     | [Pricing](https://lambda.ai/inference) (0.12/0.30 \$/1M token)                 |            |      |             |
 | [Novita](https://novita.ai/referral?invited_code=4XHRW5) 💲         | [Pricing](https://novita.ai/pricing) (0.13/0.39 \$/1M token)                   | $20 credit |      |             |
+| [Baseten](https://www.baseten.co)                                   | [Pricing](https://www.baseten.co/pricing) (0.19/0.72 \$/1M token)              | $1 credit  |      |             |
 | [Deepinfra](https://deepinfra.com)                                  | [Pricing](https://deepinfra.com/pricing) (0.23/0.40 \$/1M token)               |            |      |             |
 | [Nebius](https://nebius.com)                                        | [Pricing](https://nebius.com/prices-ai-studio) (0.25/0.75 \$/1M token)         |            |      |             |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w)         | [Pricing](https://www.saas.parasail.io/pricing) (0.28/0.78 \$/1M token)        | $10 credit |      |             |
@@ -280,6 +283,7 @@ List of all GPU renting/hosting providers
 | [Fireworks.ai](https://fireworks.ai)                                | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)                  | $1 credit  |      |             |
 | [Gradient AI](https://gradient.ai)                                  | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)                   | $5 credit  |      |             |
 | [Featherless](https://featherless.ai/register?referrer=0qRlTLHJ) 💲 | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |            |      |             |
+| [GMICloud](https://www.gmicloud.ai)                                 | [Pricing](https://www.gmicloud.ai/pricing)                                     |            |      |             |
 
 ---
 
