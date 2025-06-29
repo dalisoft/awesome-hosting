@@ -74,8 +74,8 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | Name                                                                  | Minimal plan                                                                   | Trial | Free                   | Open Source |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----- | ---------------------- | ----------- |
 | [Google Run](https://cloud.google.com/run)                            | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)           | No    | 2M invocations / month |             |
-| [Fly.io Machines](https://fly.io/docs/machines)                       | [Pay-as-you-Go](https://fly.io/pricing) (7 \$/m)                               | No    | No                     |             |
 | [Cloudflare Containers](https://developers.cloudflare.com/containers) | [Pay-as-you-Go](https://developers.cloudflare.com/containers/pricing) (5 \$/m) | No    | No                     |             |
+| [Fly.io Machines](https://fly.io/docs/machines)                       | [Pay-as-you-Go](https://fly.io/pricing) (7 \$/m)                               | No    | No                     |             |
 | [Rivet](https://rivet.gg)                                             | [Pricing](https://rivet.gg/pricing) (20 \$/m)                                  | No    | Yes                    |             |
 
 ### Lambda
