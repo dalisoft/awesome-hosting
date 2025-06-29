@@ -15,6 +15,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 - [Web Services Platform](#web-services-platform)
 - [Backend-as-a-Service](#baas)
+- [Containers](#containers)
 - [Lambda](#lambda)
 - [Node.js](#nodejs)
 - [Static](#static)
@@ -66,6 +67,17 @@ List of all Backend-as-a-Service platform
 
 ---
 
+### Containers
+
+List of all Container-as-a-Service platform (likely Docker and Podman containers)
+
+| Name                                                                  | Minimal plan                                                                   | Trial | Free                   | Open Source |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----- | ---------------------- | ----------- |
+| [Google Run](https://cloud.google.com/run)                            | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)           | No    | 2M invocations / month |             |
+| [Fly.io Machines](https://fly.io/docs/machines)                       | [Pay-as-you-Go](https://fly.io/pricing) (7 \$/m)                               | No    | No                     |             |
+| [Cloudflare Containers](https://developers.cloudflare.com/containers) | [Pay-as-you-Go](https://developers.cloudflare.com/containers/pricing) (5 \$/m) | No    | No                     |             |
+| [Rivet](https://rivet.gg)                                             | [Pricing](https://rivet.gg/pricing) (20 \$/m)                                  | No    | Yes                    |             |
+
 ### Lambda
 
 List of all Lambda(Serverless)-as-a-Service platform
@@ -75,7 +87,6 @@ List of all Lambda(Serverless)-as-a-Service platform
 | [Azure Functions](https://azure.microsoft.com/products/functions) | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No     | 1M invocations / month |             |
 | [AWS Lambda](https://aws.amazon.com/lambda)                       | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing) (0.2 \$/m req)                                | No     | 100K request / day     |             |
 | [Google Functions](https://cloud.google.com/functions)            | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No     | 2M invocations / month |             |
-| [Google Run](https://cloud.google.com/run) \[container\]          | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)                                 | No     | 2M invocations / month |             |
 | [Serverless Cloud](https://www.serverless.com/cloud)              | [Pay-as-you-Go](https://www.serverless.com/pricing) (4 \$/m)                                         | No     |                        |             |
 | [Cloudflare Workers](https://workers.cloudflare.com)              | [Pay-as-you-Go](https://workers.cloudflare.com) (5 \$/m)                                             | No     | 1M request / month     |             |
 | [Sherpa](https://www.sherpa.sh)                                   | [Hobby](https://www.sherpa.sh/pricing) (10 \$/m)                                                     | 14-day | Yes                    |             |
