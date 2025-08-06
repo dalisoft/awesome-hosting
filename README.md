@@ -11,6 +11,12 @@ List of awesome hosting sorted by minimal plan price
 
 You can support project by **Clicking to name of service**, with 💲 badge, not **Pricing** or **Plans** link as **service name links** includes affiliates (only those which with 💲 badge)
 
+## Sponsors
+
+Donations to project with credits on LLM/AI inferences or such bonuses from providers
+
+- [KiloCode](https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275)
+
 ## Contents
 
 - [Web Services Platform](#web-services-platform)
@@ -287,7 +293,7 @@ List of all GPU renting/hosting providers
 | [Nebius](https://nebius.com)                                        | [Pricing](https://nebius.com/prices-ai-studio) (0.25/0.75 \$/1M token)         |            |      |             |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w)         | [Pricing](https://www.saas.parasail.io/pricing) (0.28/0.78 \$/1M token)        | $10 credit |      |             |
 | [inference](https://inference.net)                                  | [Pricing](https://inference.net/pricing) (0.30/0.40 \$/1M token)               |            |      |             |
-| [Hyperbolic](https://hyperbolic.xyz)                                | [Pricing](https://hyperbolic.xyz/pricing) (0.40 \$/1M token)                   | $10 credit |      |             |
+| [Hyperbolic](https://app.hyperbolic.ai/invite/homjBxi7b) 💲         | [Pricing](https://www.hyperbolic.ai/inference) (0.40 \$/1M token)              | $6 credit  |      |             |
 | [avian](https://avian.io)                                           | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                         | $1 credit  |      |             |
 | [Groq](https://groq.com)                                            | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)                    |            | Yes? |             |
 | [Friendli](https://friendli.ai)                                     | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.60 \$/1M token) | $1 credit  |      |             |
@@ -302,6 +308,7 @@ List of all GPU renting/hosting providers
 | [Gradient AI](https://gradient.ai)                                  | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)                   | $5 credit  |      |             |
 | [Featherless](https://featherless.ai/register?referrer=0qRlTLHJ) 💲 | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |            |      |             |
 | [GMICloud](https://www.gmicloud.ai)                                 | [Pricing](https://www.gmicloud.ai/pricing)                                     |            |      |             |
+| [Requesty](https://www.requesty.ai)                                 | [Pricing](https://www.requesty.ai/pricing)                                     | $6 credit  |      |             |
 
 ---
 
