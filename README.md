@@ -283,32 +283,31 @@ List of all GPU renting/hosting providers
 
 > Minimal plan and/or price is referred for price per million token (input/output) for LLAMA 3.3/3.1 70B models
 
-| Name                                                        | Minimal plan                                                                   | Trial      | Free | Open Source |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------- | ---- | ----------- |
-| [chutes](https://chutes.ai)                                 | -                                                                              |            | Yes  |             |
-| [LambdaLabs](https://lambda.ai)                             | [Pricing](https://lambda.ai/inference) (0.12/0.30 \$/1M token)                 |            |      |             |
-| [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.13/0.39 \$/1M token)                   | $20 credit |      |             |
-| [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (0.19/0.72 \$/1M token)              | $1 credit  |      |             |
-| [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.23/0.40 \$/1M token)               |            |      |             |
-| [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.25/0.75 \$/1M token)         |            |      |             |
-| [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (0.28/0.78 \$/1M token)        | $10 credit |      |             |
-| [inference](https://inference.net)                          | [Pricing](https://inference.net/pricing) (0.30/0.40 \$/1M token)               |            |      |             |
-| [Hyperbolic](https://app.hyperbolic.ai/invite/homjBxi7b) 💲 | [Pricing](https://www.hyperbolic.ai/inference) (0.40 \$/1M token)              | $6 credit  |      |             |
-| [avian](https://avian.io)                                   | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                         | $1 credit  |      |             |
-| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)                    |            | Yes? |             |
-| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.60 \$/1M token) | $1 credit  |      |             |
-| [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (0.60/1.20 \$/1M token)          | $5 credit  |      |             |
-| [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (0.65/2.75 \$/1M token)               |            |      |             |
-| [kluster.ai](https://share.kluster.ai/77gH6d) 💲            | [Pricing](https://www.kluster.ai/#pricing) (0.70 \$/1M token)                  | $5 credit  |      |             |
-| [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.72 \$/1M token)           |            |      |             |
-| [Lepton](https://www.lepton.ai)                             | [Pricing](https://www.lepton.ai/pricing) (0.80 \$/1M token)                    |            |      |             |
-| [Cerebas](https://cerebras.ai)                              | [Pricing](https://inference.cerebras.ai) (0.85/1.20 \$/1M token)               |            | Yes? |             |
-| [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.88 \$/1M token)                      | $5 credit  |      |             |
-| [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)                  | $1 credit  |      |             |
-| [Gradient AI](https://gradient.ai)                          | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)                   | $5 credit  |      |             |
-| [Featherless](https://featherless.ai)                       | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |            |      |             |
-| [GMICloud](https://www.gmicloud.ai)                         | [Pricing](https://www.gmicloud.ai/pricing)                                     |            |      |             |
-| [Requesty](https://www.requesty.ai)                         | [Pricing](https://www.requesty.ai/pricing)                                     | $6 credit  |      |             |
+| Name                                                           | Minimal plan                                                                   | Trial       | Free | Open Source |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- | ----------- |
+| [chutes](https://chutes.ai)                                    | -                                                                              |             | Yes  |             |
+| [LambdaLabs](https://lambda.ai)                                | [Pricing](https://lambda.ai/inference) (0.12/0.30 \$/1M token)                 |             |      |             |
+| [Novita](https://novita.ai)                                    | [Pricing](https://novita.ai/pricing) (0.13/0.39 \$/1M token)                   | $20 credit  |      |             |
+| [Baseten](https://www.baseten.co)                              | [Pricing](https://www.baseten.co/pricing) (0.19/0.72 \$/1M token)              | $1 credit   |      |             |
+| [Deepinfra](https://deepinfra.com)                             | [Pricing](https://deepinfra.com/pricing) (0.23/0.40 \$/1M token)               |             |      |             |
+| [Nebius](https://nebius.com)                                   | [Pricing](https://nebius.com/prices-ai-studio) (0.25/0.75 \$/1M token)         |             |      |             |
+| [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w)    | [Pricing](https://www.saas.parasail.io/pricing) (0.28/0.78 \$/1M token)        | $10 credit  |      |             |
+| [inference](https://inference.net)                             | [Pricing](https://inference.net/pricing) (0.30/0.40 \$/1M token)               |             |      |             |
+| [Hyperbolic](https://app.hyperbolic.ai/invite/homjBxi7b) 💲    | [Pricing](https://www.hyperbolic.ai/inference) (0.40 \$/1M token)              | $6 credit   |      |             |
+| [avian](https://avian.io)                                      | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                         | $1 credit   |      |             |
+| [Groq](https://groq.com)                                       | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)                    |             | Yes? |             |
+| [Friendli](https://friendli.ai)                                | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.60 \$/1M token) | $1 credit   |      |             |
+| [SambaNova](https://sambanova.ai)                              | [Pricing](https://cloud.sambanova.ai/pricing) (0.60/1.20 \$/1M token)          | $5 credit   |      |             |
+| [Replicate](https://replicate.com)                             | [Pricing](https://replicate.com/pricing) (0.65/2.75 \$/1M token)               |             |      |             |
+| [AWS Bedrock](https://aws.amazon.com/bedrock)                  | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.72 \$/1M token)           |             |      |             |
+| [Lepton](https://www.lepton.ai)                                | [Pricing](https://www.lepton.ai/pricing) (0.80 \$/1M token)                    |             |      |             |
+| [Cerebas](https://cloud.cerebras.ai?referral_code=d5m9c9m4) 💲 | [Pricing](https://inference.cerebras.ai) (0.85/1.20 \$/1M token)               | 200K tokens | Yes? |             |
+| [together.ai](https://together.ai)                             | [Pricing](https://together.ai/pricing) (0.88 \$/1M token)                      | $5 credit   |      |             |
+| [Fireworks.ai](https://fireworks.ai)                           | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)                  | $1 credit   |      |             |
+| [Gradient AI](https://gradient.ai)                             | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)                   | $5 credit   |      |             |
+| [Featherless](https://featherless.ai)                          | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |             |      |             |
+| [GMICloud](https://www.gmicloud.ai)                            | [Pricing](https://www.gmicloud.ai/pricing)                                     |             |      |             |
+| [Requesty](https://www.requesty.ai)                            | [Pricing](https://www.requesty.ai/pricing)                                     | $6 credit   |      |             |
 
 ---
 
