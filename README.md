@@ -2,6 +2,8 @@
 
 List of awesome hosting sorted by minimal plan price
 
+<a href="https://www.producthunt.com/products/awesome-hosting?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-awesome&#0045;hosting" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1008384&theme=light&t=1756027219300" alt="awesome&#0045;hosting - List&#0032;of&#0032;awesome&#0032;hosting&#0032;sorted&#0032;by&#0032;minimal&#0032;plan&#0032;price | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Other my awesome lists
 
 - [awesome-storage](https://github.com/dalisoft/awesome-storage)
