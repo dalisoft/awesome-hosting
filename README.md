@@ -297,13 +297,13 @@ List of all GPU renting/hosting providers
 | [inference](https://inference.net)                             | [Pricing](https://inference.net/pricing) (0.30/0.40 \$/1M token)               |             |      |             |
 | [Hyperbolic](https://app.hyperbolic.ai/invite/homjBxi7b) 💲    | [Pricing](https://www.hyperbolic.ai/inference) (0.40 \$/1M token)              | $6 credit   |      |             |
 | [avian](https://avian.io)                                      | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                         | $1 credit   |      |             |
-| [Groq](https://groq.com)                                       | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)                    |             | Yes? |             |
+| [Groq](https://groq.com)                                       | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)                    |             | Yes  |             |
 | [Friendli](https://friendli.ai)                                | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.60 \$/1M token) | $1 credit   |      |             |
 | [SambaNova](https://sambanova.ai)                              | [Pricing](https://cloud.sambanova.ai/pricing) (0.60/1.20 \$/1M token)          | $5 credit   |      |             |
 | [Replicate](https://replicate.com)                             | [Pricing](https://replicate.com/pricing) (0.65/2.75 \$/1M token)               |             |      |             |
 | [AWS Bedrock](https://aws.amazon.com/bedrock)                  | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.72 \$/1M token)           |             |      |             |
 | [Lepton](https://www.lepton.ai)                                | [Pricing](https://www.lepton.ai/pricing) (0.80 \$/1M token)                    |             |      |             |
-| [Cerebas](https://cloud.cerebras.ai?referral_code=d5m9c9m4) 💲 | [Pricing](https://inference.cerebras.ai) (0.85/1.20 \$/1M token)               | 200K tokens | Yes? |             |
+| [Cerebas](https://cloud.cerebras.ai?referral_code=d5m9c9m4) 💲 | [Pricing](https://inference.cerebras.ai) (0.85/1.20 \$/1M token)               | 200K tokens | Yes  |             |
 | [together.ai](https://together.ai)                             | [Pricing](https://together.ai/pricing) (0.88 \$/1M token)                      | $5 credit   |      |             |
 | [Fireworks.ai](https://fireworks.ai)                           | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)                  | $1 credit   |      |             |
 | [Gradient AI](https://gradient.ai)                             | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)                   | $5 credit   |      |             |
