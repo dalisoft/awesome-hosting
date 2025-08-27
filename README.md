@@ -8,6 +8,7 @@ List of awesome hosting sorted by minimal plan price
 
 - [awesome-storage](https://github.com/dalisoft/awesome-storage)
 - [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding)
+- [awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries)
 
 ## Support
 
