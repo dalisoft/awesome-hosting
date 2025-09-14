@@ -203,6 +203,7 @@ List of all Virtual Private Server
 | [CloudTTK](https://cloud.ttk.ru)                                           | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)       | No                                                           | No                                     |                  |
 | [UpCloud](https://upcloud.com/signup/?promo=D5VUZ2) 💲 <sup>verified</sup> | [See plans](https://www.upcloud.com/pricing) (7 €/m)                  | ?                                                            | Trial or 25\$ Credit with referral     |                  |
 | [Adaptable](https://adaptable.io)                                          | Hobby (7 \$/m)                                                        | No                                                           | Public-repos only                      |                  |
+| [rdp.monster](https://rdp.monster/?ref=144) 💲                             | [Basic](https://rdp.monster) (9 €/m)                                  | No                                                           | No                                     |                  |
 | [CloudSigma](https://cloudsigma.com)                                       | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                   | 7-day                                                        | No                                     |                  |
 | [fly.io](https://fly.io)                                                   | [Launch](https://fly.io/plans) (29 \$/m)                              | No                                                           | Yes (3 shared-cpu VM)                  |                  |
 
@@ -252,6 +253,7 @@ List of all GPU renting/hosting providers
 | Name                                                        | Minimal plan                                                           | Trial      | Free | Open Source |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ---------- | ---- | ----------- |
 | [Featherless](https://featherless.ai)                       | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                   |            |      |             |
+| [Lightning](https://lightning.ai)                           | [Pricing](https://lightning.ai/pricing) (50 \$/m)                      | No         | Yes  |             |
 | [Salad](https://salad.com)                                  | [Pricing](https://salad.com/pricing) (0.20 \$/h)                       | No         |      |             |
 | [clore](https://clore.ai)                                   | [Pricing](https://clore.ai) (0.20 \$/h)                                | No         |      |             |
 | [TensorDock](https://tensordock.com)                        | [Pricing](https://tensordock.com/cloud-gpus) (0.20 \$/h)               | No         |      |             |
