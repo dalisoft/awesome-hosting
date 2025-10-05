@@ -30,6 +30,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 - [Database](#database)
 - [GPU Cloud](#gpu-cloud)
 - [AI LLM/Inference](#llminference-api)
+- [AI Coding Subscription](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#ai-subscriptions)
 
 ### Web Services Platform
 
@@ -251,7 +252,7 @@ List of all GPU renting/hosting providers
 
 | Name                                                        | Minimal plan                                                           | Trial      | Free | Open Source |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ---------- | ---- | ----------- |
-| [Featherless](https://featherless.ai)                       | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                   |            |      |             |
+| [Featherless](https://featherless.ai)                       | [Lite](https://featherless.ai/#pricing) (10 \$/m)                      |            |      |             |
 | [Lightning](https://lightning.ai)                           | [Pricing](https://lightning.ai/pricing) (50 \$/m)                      | No         | Yes  |             |
 | [Salad](https://salad.com)                                  | [Pricing](https://salad.com/pricing) (0.20 \$/h)                       | No         |      |             |
 | [clore](https://clore.ai)                                   | [Pricing](https://clore.ai) (0.20 \$/h)                                | No         |      |             |
@@ -260,7 +261,7 @@ List of all GPU renting/hosting providers
 | [RunPod](https://runpod.io)                                 | [Pricing](https://runpod.io/gpu-instance/pricing) (0.22 \$/h)          | No         |      |             |
 | [VastAI][vastai-ref]                                        | [Pricing](https://vast.ai/pricing) (0.30 \$/h)                         | No         |      |             |
 | [CloudTTK](https://cloud.ttk.ru)                            | [Pricing](https://cloud.ttk.ru/computing) (0.375 \$/h)                 | No         |      |             |
-| [VDSina][vdsina-ref]                                        | [L4](https://www.vdsina.com/pricing/gpu-servers) (0.425 \$/h)          | No         |      |             |
+| [VDSina][vdsina-ref]                                        | L4 (0.425 \$/h)                                                        | No         |      |             |
 | [Jarvislabs](https://jarvislabs.ai)                         | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)                   | No         |      |             |
 | [Valdi](https://valdi.ai)                                   | [Pricing](https://valdi.ai) (0.45 \$/h)                                | No         |      |             |
 | [AIME](https://aime.info)                                   | [Pricing](https://aime.info/en/gpucloud) (0.49 \$/h)                   | No         |      |             |
@@ -293,7 +294,10 @@ List of all GPU renting/hosting providers
 
 | Name                                                        | Minimal plan                                                                   | Trial       | Free | Open Source |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- | ----------- |
-| [chutes](https://chutes.ai)                                 | -                                                                              |             | Yes  |             |
+| [NanoGPT][nano-gpt-ref]                                     | Prompt-based (1 \$/m)                                                          | -           |      |             |
+| [Chutes](https://chutes.ai)                                 | [Base](https://chutes.ai/pricing) (3 \$/m)                                     | -           |      |             |
+| [Featherless](https://featherless.ai)                       | [Lite](https://featherless.ai/#pricing) (10 \$/m)                              |             |      |             |
+| [synthetic](https://synthetic.new)                          | [Standard](https://synthetic.new/pricing) (20 \$/m)                            | -           |      |             |
 | [LambdaLabs](https://lambda.ai)                             | [Pricing](https://lambda.ai/inference) (0.12/0.30 \$/1M token)                 |             |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.13/0.39 \$/1M token)                   | $20 credit  |      |             |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (0.19/0.72 \$/1M token)              | $1 credit   |      |             |
@@ -301,7 +305,7 @@ List of all GPU renting/hosting providers
 | [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.25/0.75 \$/1M token)         |             |      |             |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (0.28/0.78 \$/1M token)        | $10 credit  |      |             |
 | [inference](https://inference.net)                          | [Pricing](https://inference.net/pricing) (0.30/0.40 \$/1M token)               |             |      |             |
-| [Hyperbolic][hyperbolic-ref]                                | [Pricing](https://www.hyperbolic.ai/inference) (0.40 \$/1M token)              | $6 credit   |      |             |
+| [Hyperbolic][hyperbolic-ref]                                | Tokens (0.40 \$/1M token)                                                      | $6 credit   |      |             |
 | [avian](https://avian.io)                                   | [Pricing](https://avian.io/pricing) (0.45 \$/1M token)                         | $1 credit   |      |             |
 | [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (0.59/0.79 \$/1M token)                    |             | Yes  |             |
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.60 \$/1M token) | $1 credit   |      |             |
@@ -309,11 +313,10 @@ List of all GPU renting/hosting providers
 | [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (0.65/2.75 \$/1M token)               |             |      |             |
 | [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.72 \$/1M token)           |             |      |             |
 | [Lepton](https://www.lepton.ai)                             | [Pricing](https://www.lepton.ai/pricing) (0.80 \$/1M token)                    |             |      |             |
-| [Cerebas][cerebras-ref]                                     | [Pricing](https://inference.cerebras.ai) (0.85/1.20 \$/1M token)               | 200K tokens | Yes  |             |
+| [Cerebas][cerebras-ref]                                     | Tokens (0.85/1.20 \$/1M token)                                                 | 200K tokens | Yes  |             |
 | [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.88 \$/1M token)                      | $5 credit   |      |             |
 | [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)                  | $1 credit   |      |             |
 | [Gradient AI](https://gradient.ai)                          | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)                   | $5 credit   |      |             |
-| [Featherless](https://featherless.ai)                       | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |             |      |             |
 | [GMICloud](https://www.gmicloud.ai)                         | [Pricing](https://www.gmicloud.ai/pricing)                                     |             |      |             |
 | [Requesty](https://www.requesty.ai)                         | [Pricing](https://www.requesty.ai/pricing)                                     | $6 credit   |      |             |
 
@@ -353,6 +356,7 @@ MIT
 [hyperbolic-ref]: https://app.hyperbolic.ai/invite/homjBxi7b
 [ihc-ref]: https://www.ihc.ru/?ref=423754
 [kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
+[nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [racknerd-ref]: https://my.racknerd.com/aff.php?aff=12402
 [rdp-monster-ref]: https://rdp.monster/?ref=144
 [ruvds-ref]: https://ruvds.com/pr3299
