@@ -30,6 +30,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 - [Database](#database)
 - [GPU Cloud](#gpu-cloud)
 - [AI LLM/Inference](#llminference-api)
+- [AI Coding Subscription](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#ai-subscriptions)
 
 ### Web Services Platform
 
@@ -293,7 +294,10 @@ List of all GPU renting/hosting providers
 
 | Name                                                        | Minimal plan                                                                   | Trial       | Free | Open Source |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- | ----------- |
-| [chutes](https://chutes.ai)                                 | -                                                                              |             | Yes  |             |
+| [NanoGPT][nano-gpt-ref]                                     | 1 \$/month                                                                     | -           |      |             |
+| [Chutes](https://chutes.ai)                                 | 3 \$/month                                                                     | -           |      |             |
+| [Featherless](https://featherless.ai)                       | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |             |      |             |
+| [synthetic](https://synthetic.new)                          | 20 \$/month                                                                    | -           |      |             |
 | [LambdaLabs](https://lambda.ai)                             | [Pricing](https://lambda.ai/inference) (0.12/0.30 \$/1M token)                 |             |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.13/0.39 \$/1M token)                   | $20 credit  |      |             |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (0.19/0.72 \$/1M token)              | $1 credit   |      |             |
@@ -313,7 +317,6 @@ List of all GPU renting/hosting providers
 | [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.88 \$/1M token)                      | $5 credit   |      |             |
 | [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (0.9/0.9 \$/1M token)                  | $1 credit   |      |             |
 | [Gradient AI](https://gradient.ai)                          | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/1M token)                   | $5 credit   |      |             |
-| [Featherless](https://featherless.ai)                       | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |             |      |             |
 | [GMICloud](https://www.gmicloud.ai)                         | [Pricing](https://www.gmicloud.ai/pricing)                                     |             |      |             |
 | [Requesty](https://www.requesty.ai)                         | [Pricing](https://www.requesty.ai/pricing)                                     | $6 credit   |      |             |
 
@@ -353,6 +356,7 @@ MIT
 [hyperbolic-ref]: https://app.hyperbolic.ai/invite/homjBxi7b
 [ihc-ref]: https://www.ihc.ru/?ref=423754
 [kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
+[nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [racknerd-ref]: https://my.racknerd.com/aff.php?aff=12402
 [rdp-monster-ref]: https://rdp.monster/?ref=144
 [ruvds-ref]: https://ruvds.com/pr3299
