@@ -17,6 +17,14 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 
 - [KiloCode][kilo-code-ref]
 
+## Status
+
+- ✅ – Trusted and verified by author
+- ⚠️ – Not trusted or broken link
+- ⛔️ – Not recommended
+- ❌ – Not trusted and not recommended
+- Without badge – Not verified by author
+
 ## Contents
 
 - [Web Services Platform](#web-services-platform)
@@ -34,7 +42,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 
 ### Web Services Platform
 
-List of all Web services platform
+List of all Web services platform <sup>[1](#status)</sup>
 
 | Name                                                    | Minimal plan                                           | Trial         | Free                                   | Open Source | Type | Lambda |
 | ------------------------------------------------------- | ------------------------------------------------------ | ------------- | -------------------------------------- | ----------- | ---- | ------ |
@@ -50,7 +58,7 @@ List of all Web services platform
 
 ### BaaS
 
-List of all Backend-as-a-Service platform
+List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 
 | Name                                            | Minimal plan                                          | Trial  | Free                                               | Open Source | Type    | Lambda |
 | ----------------------------------------------- | ----------------------------------------------------- | ------ | -------------------------------------------------- | ----------- | ------- | ------ |
@@ -78,7 +86,7 @@ List of all Backend-as-a-Service platform
 
 ### Containers
 
-List of all Container-as-a-Service platform (likely Docker and Podman containers)
+List of all Container-as-a-Service platform (likely Docker and Podman containers) <sup>[1](#status)</sup>
 
 | Name                                                                  | Minimal plan                                                                   | Trial | Free                   | Open Source |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----- | ---------------------- | ----------- |
@@ -89,7 +97,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 
 ### Lambda
 
-List of all Lambda(Serverless)-as-a-Service platform
+List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
 
 | Name                                                              | Minimal plan                                                                                         | Trial  | Free                   | Open Source |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------ | ---------------------- | ----------- |
@@ -107,7 +115,7 @@ List of all Lambda(Serverless)-as-a-Service platform
 
 ### Node.js
 
-List of all Node.js hosting platform
+List of all Node.js hosting platform <sup>[1](#status)</sup>
 
 | Name                                                       | Minimal plan                                                      | Trial  | Free                     | Open Source | Type        | Lambda |
 | ---------------------------------------------------------- | ----------------------------------------------------------------- | ------ | ------------------------ | ----------- | ----------- | ------ |
@@ -129,7 +137,7 @@ List of all Node.js hosting platform
 
 ### Static
 
-List of all static site hosting platform
+List of all static site hosting platform <sup>[1](#status)</sup>
 
 | Name                                          | Minimal plan                                             | Trial  | Free                                                               | Open Source       | Type   | Lambda |
 | --------------------------------------------- | -------------------------------------------------------- | ------ | ------------------------------------------------------------------ | ----------------- | ------ | ------ |
@@ -148,6 +156,8 @@ List of all static site hosting platform
 
 ### WordPress
 
+List of Wordpress hosting <sup>[1](#status)</sup>
+
 | Name                                | Minimal Plan                                                    | Trial | Free | Open Source |
 | ----------------------------------- | --------------------------------------------------------------- | ----- | ---- | ----------- |
 | [EasyWP](https://www.easywp.com)    | [Starter](https://www.easywp.com/pricing) ($6.88/m)             | No    |      |             |
@@ -160,7 +170,7 @@ List of all static site hosting platform
 
 ### VPS
 
-List of all Virtual Private Server
+List of all Virtual Private Server <sup>[1](#status)</sup>
 
 | Name                                          | Minimal plan                                                          | Trial              | Free                     | Open Source      |
 | --------------------------------------------- | --------------------------------------------------------------------- | ------------------ | ------------------------ | ---------------- |
@@ -211,7 +221,7 @@ List of all Virtual Private Server
 
 ### Database
 
-List of all managed databases
+List of all managed databases <sup>[1](#status)</sup>
 
 | Name                                                            | Type                   | Minimal plan                                                                                     | Trial  | Free              | Open Source |
 | --------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ | ------ | ----------------- | ----------- |
@@ -246,7 +256,7 @@ List of all managed databases
 
 ### GPU Cloud
 
-List of all GPU renting/hosting providers
+List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 
 > Minimal plan and/or price is referred for single (1x) GPU per hour and GPU should be RTX 3090 or similar performance
 
@@ -289,6 +299,8 @@ List of all GPU renting/hosting providers
 ---
 
 ### LLM/Inference API
+
+List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 > Minimal plan and/or price is referred for price per million token (input/output) for LLAMA 3.3/3.1 70B models
 
