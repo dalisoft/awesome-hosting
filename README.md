@@ -294,10 +294,10 @@ List of all GPU renting/hosting providers
 
 | Name                                                        | Minimal plan                                                                   | Trial       | Free | Open Source |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- | ----------- |
-| [NanoGPT][nano-gpt-ref]                                     | 1 \$/month                                                                     | -           |      |             |
-| [Chutes](https://chutes.ai)                                 | 3 \$/month                                                                     | -           |      |             |
+| [NanoGPT][nano-gpt-ref]                                     | [Prompt-based](https://nano-gpt.com/pricing) (1 \$/m)                          | -           |      |             |
+| [Chutes](https://chutes.ai)                                 | [Base](https://chutes.ai/pricing) (3 \$/m)                                     | -           |      |             |
 | [Featherless](https://featherless.ai)                       | [Pricing](https://featherless.ai/#pricing) (10 \$/m)                           |             |      |             |
-| [synthetic](https://synthetic.new)                          | 20 \$/month                                                                    | -           |      |             |
+| [synthetic](https://synthetic.new)                          | [Standard](https://synthetic.new/pricing) (20 \$/m)                            | -           |      |             |
 | [LambdaLabs](https://lambda.ai)                             | [Pricing](https://lambda.ai/inference) (0.12/0.30 \$/1M token)                 |             |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.13/0.39 \$/1M token)                   | $20 credit  |      |             |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (0.19/0.72 \$/1M token)              | $1 credit   |      |             |
