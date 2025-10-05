@@ -162,50 +162,50 @@ List of all static site hosting platform
 
 List of all Virtual Private Server
 
-| Name                                          | Minimal plan                                                          | Trial              | Free                                   | Open Source      |
-| --------------------------------------------- | --------------------------------------------------------------------- | ------------------ | -------------------------------------- | ---------------- |
-| [MrVM](https://mrvm.net)                      | [LXC-256](https://mrvm.net/lxc) (0.5 €/m)                             | No                 | No                                     |                  |
-| [OVHCloud](https://www.ovhcloud.com)          | [Starter](https://www.ovhcloud.com/en/vps) (0.97 \$/m)                | No                 |                                        |                  |
-| [4VPS][4vps-ref]                              | [See pricing](https://4vps.su) (1.50 \$/m)                            | No                 | No                                     |                  |
-| [CloudCone][cloudcone-ref]                    | [VPS Plan 1](https://cloudcone.com/vps) (1.80 \$/m)                   | No                 | No                                     |                  |
-| [AdminVPS][adminvps-ref]                      | [Lite](https://adminvps.ru/vps/vps_russia.php) (1.80 \$/m)            | No                 | No                                     |                  |
-| [RackNerd][racknerd-ref]                      | [See pricing](https://www.racknerd.com/kvm-vps) (1.92 \$/m)           | No                 | No                                     |                  |
-| [BuyVM](https://buyvm.net)                    | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices) (2 \$/m)   | No                 | No                                     |                  |
-| [VDSina][vdsina-ref]                          | [Standard](https://www.vdsina.com/pricing/standard) (2.10 \$/m)       | No                 | No                                     |                  |
-| [VScale](https://www.vscale.io)               | [See pricing](https://vscale.io/cloud/instances/order) (~2.15 \$/m)   | No                 |                                        |                  |
-| [Waicore][waicore-ref]                        | [RP1](https://waicore.com/en#price) (2 €/m)                           | No                 | No                                     |                  |
-| [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (2.09 €/m)                        |                    |                                        |                  |
-| [Vultr][vultr-ref]                            | [Skylake 10GB](https://www.vultr.com/pricing) (2.5 \$/m)              | 60-day             | Trial, 10$ or 100$ Credit with &raquo; |                  |
-| [LandVPS](https://landvps.ru)                 | [UFA-1](https://landvps.ru/vps) (2.5 \$/m)                            | No                 | No                                     |                  |
-| [FirstVDS][firstvds-ref]                      | Прогрев (2.5 \$/m)                                                    | No                 | No                                     |                  |
-| [RuVDS][ruvds-ref]                            | Start->Start (2.6 \$/m)                                               | 3-day              | No                                     |                  |
-| [aruba Cloud](https://www.cloud.it)           | [STARTER](https://www.cloud.it/vps.aspx) (2.49 €/m)                   | No                 | No                                     |                  |
-| [HostSailor](https://hostsailor.com)          | [Mini sailor](https://hostsailor.com/vps-hosting/kvm-vps) (2.99 \$/m) | No                 | No                                     |                  |
-| [ihc][ihc-ref]                                | [ssdVPS:1](https://www.ihc.ru/vps.html) (3.23 \$/m)                   | 3-day              | No                                     |                  |
-| [TimeWeb Cloud](https://cloud.timeweb.com) ❌ | Danny (3.25 \$/m)                                                     | No                 | No                                     |                  |
-| [LightSail](https://aws.amazon.com/lightsail) | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)      | 1 Month            | No                                     | Unlimited cloud? |
-| [netcup](https://www.netcup.com)              | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (3.35 €/m)       | No                 | No                                     |                  |
-| [Scaleway](https://www.scaleway.com)          | [Stardust1-s](https://www.scaleway.com/en/pricing) (3.35 €/m)         | No                 | No                                     |                  |
-| [DigitalOcean][do-ref]                        | Standard 512MiB (4 \$/m)                                              | 60-day             | Trial, 200\$ Credit                    |                  |
-| [Kamatera](https://www.kamatera.com) ⛔️      | Simple (4 \$/m)                                                       | 30-day             |                                        |                  |
-| [VPSServer](https://www.vpsserver.com)        | [Starter](https://www.vpsserver.com/plans) (4 \$/m)                   | 30-day             | $100 credit                            |                  |
-| [Hetzner](https://www.hetzner.com) ⛔️        | [See plans](https://www.hetzner.com/cloud) (€ 3.79/m)                 | No                 | No                                     |                  |
-| [RuVPS](https://ruvps.net)                    | [VPS-1](https://ruvps.net/en/vps) (4.5 $/m)                           | No                 | No                                     |                  |
-| [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (4.50 €/m)              | No                 | No                                     |                  |
-| [SSD Nodes](https://www.ssdnodes.com) ⛔️     | [KVM / Small](https://www.ssdnodes.com/pricing) (4.99 \$/m)           | 14-day refund only | No                                     |                  |
-| [Linode](https://www.linode.com) ✅           | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                 | 7-day              | No                                     |                  |
-| [Rackgenius](https://rackgenius.com)          | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)              | No                 | No                                     |                  |
-| [RX-NAME](https://rx-name.net)                | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                         | 14-day             |                                        |                  |
-| [aeza][aeza-ref]                              | [Shared ALBs-1](https://aeza.net/virtual-servers) (4.94 €/m)          |                    |                                        |                  |
-| [Hostworld](https://hostworld.uk)             | [See pricing](https://hostworld.uk/ssd-vps) (4.99 £/m)                | No                 | No                                     |                  |
-| [alwaysdata](https://www.alwaysdata.com/en)   | [Plus](https://www.alwaysdata.com/en/offers) (5 €/m)                  | No                 | Yes                                    |                  |
-| [CloudTTK](https://cloud.ttk.ru)              | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)       | No                 | No                                     |                  |
-| [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                      | No                 | No                                     |                  |
-| [UpCloud][upcloud-ref] ✅                     | [See plans](https://www.upcloud.com/pricing) (7 €/m)                  | ?                  | Trial or 25\$ Credit with referral     |                  |
-| [Adaptable](https://adaptable.io)             | Hobby (7 \$/m)                                                        | No                 | Public-repos only                      |                  |
-| [rdp.monster][rdp-monster-ref]                | [Basic](https://rdp.monster) (9 €/m)                                  | No                 | No                                     |                  |
-| [CloudSigma](https://cloudsigma.com)          | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                   | 7-day              | No                                     |                  |
-| [fly.io](https://fly.io)                      | [Launch](https://fly.io/plans) (29 \$/m)                              | No                 | Yes (3 shared-cpu VM)                  |                  |
+| Name                                          | Minimal plan                                                          | Trial              | Free                     | Open Source      |
+| --------------------------------------------- | --------------------------------------------------------------------- | ------------------ | ------------------------ | ---------------- |
+| [MrVM](https://mrvm.net)                      | [LXC-256](https://mrvm.net/lxc) (0.5 €/m)                             | No                 | No                       |                  |
+| [OVHCloud](https://www.ovhcloud.com)          | [Starter](https://www.ovhcloud.com/en/vps) (0.97 \$/m)                | No                 |                          |                  |
+| [4VPS][4vps-ref]                              | [See pricing][4vps-ref] (1.50 \$/m)                                   | No                 | No                       |                  |
+| [CloudCone][cloudcone-ref]                    | [VPS Plan 1][cloudcone-ref] (1.80 \$/m)                               | No                 | No                       |                  |
+| [AdminVPS][adminvps-ref]                      | [Lite](https://adminvps.ru/vps/vps_russia.php) (1.80 \$/m)            | No                 | No                       |                  |
+| [RackNerd][racknerd-ref]                      | [See pricing](https://www.racknerd.com/kvm-vps) (1.92 \$/m)           | No                 | No                       |                  |
+| [BuyVM](https://buyvm.net)                    | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices) (2 \$/m)   | No                 | No                       |                  |
+| [VDSina][vdsina-ref]                          | Standard (2.10 \$/m)                                                  | No                 | No                       |                  |
+| [VScale](https://www.vscale.io)               | [See pricing](https://vscale.io/cloud/instances/order) (~2.15 \$/m)   | No                 |                          |                  |
+| [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (2.09 €/m)                        |                    |                          |                  |
+| [Vultr][vultr-ref]                            | Skylake 10GB (2.5 \$/m)                                               | 60-day             | Trial, up-to 100$ credit |                  |
+| [LandVPS](https://landvps.ru)                 | [UFA-1](https://landvps.ru/vps) (2.5 \$/m)                            | No                 | No                       |                  |
+| [FirstVDS][firstvds-ref]                      | Прогрев (2.5 \$/m)                                                    | No                 | No                       |                  |
+| [RuVDS][ruvds-ref]                            | Start->Start (2.6 \$/m)                                               | 3-day              | No                       |                  |
+| [aruba Cloud](https://www.cloud.it)           | [STARTER](https://www.cloud.it/vps.aspx) (2.49 €/m)                   | No                 | No                       |                  |
+| [HostSailor](https://hostsailor.com)          | [Mini sailor](https://hostsailor.com/vps-hosting/kvm-vps) (2.99 \$/m) | No                 | No                       |                  |
+| [UpCloud][upcloud-ref] ✅                     | Developer (3 €/m)                                                     | -                  | 25\$ credit              |                  |
+| [Waicore][waicore-ref]                        | Germany EP1 (3 €/m)                                                   | No                 | No                       |                  |
+| [ihc][ihc-ref]                                | ssdVPS:1 (3.23 \$/m)                                                  | 3-day              | No                       |                  |
+| [TimeWeb Cloud](https://cloud.timeweb.com) ❌ | Danny (3.25 \$/m)                                                     | No                 | No                       |                  |
+| [LightSail](https://aws.amazon.com/lightsail) | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)      | 1 Month            | No                       | Unlimited cloud? |
+| [netcup](https://www.netcup.com)              | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (3.35 €/m)       | No                 | No                       |                  |
+| [Scaleway](https://www.scaleway.com)          | [Stardust1-s](https://www.scaleway.com/en/pricing) (3.35 €/m)         | No                 | No                       |                  |
+| [DigitalOcean][do-ref]                        | Standard 512MiB (4 \$/m)                                              | 60-day             | Trial, 200\$ Credit      |                  |
+| [Kamatera](https://www.kamatera.com) ⛔️      | Simple (4 \$/m)                                                       | 30-day             |                          |                  |
+| [VPSServer](https://www.vpsserver.com)        | [Starter](https://www.vpsserver.com/plans) (4 \$/m)                   | 30-day             | $100 credit              |                  |
+| [Hetzner](https://www.hetzner.com) ⛔️        | [See plans](https://www.hetzner.com/cloud) (€ 3.79/m)                 | No                 | No                       |                  |
+| [RuVPS](https://ruvps.net)                    | [VPS-1](https://ruvps.net/en/vps) (4.5 $/m)                           | No                 | No                       |                  |
+| [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (4.50 €/m)              | No                 | No                       |                  |
+| [SSD Nodes](https://www.ssdnodes.com) ⛔️     | [KVM / Small](https://www.ssdnodes.com/pricing) (4.99 \$/m)           | 14-day refund only | No                       |                  |
+| [Linode](https://www.linode.com) ✅           | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                 | 7-day              | No                       |                  |
+| [Rackgenius](https://rackgenius.com)          | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)              | No                 | No                       |                  |
+| [RX-NAME](https://rx-name.net)                | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                         | 14-day             |                          |                  |
+| [aeza][aeza-ref]                              | [Shared ALBs-1](https://aeza.net/virtual-servers) (4.94 €/m)          |                    |                          |                  |
+| [Hostworld](https://hostworld.uk)             | [See pricing](https://hostworld.uk/ssd-vps) (4.99 £/m)                | No                 | No                       |                  |
+| [alwaysdata](https://www.alwaysdata.com/en)   | [Plus](https://www.alwaysdata.com/en/offers) (5 €/m)                  | No                 | Yes                      |                  |
+| [CloudTTK](https://cloud.ttk.ru)              | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)       | No                 | No                       |                  |
+| [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                      | No                 | No                       |                  |
+| [Adaptable](https://adaptable.io)             | Hobby (7 \$/m)                                                        | No                 | Public-repos only        |                  |
+| [rdp.monster][rdp-monster-ref]                | [Basic](https://rdp.monster) (9 €/m)                                  | No                 | No                       |                  |
+| [CloudSigma](https://cloudsigma.com)          | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                   | 7-day              | No                       |                  |
+| [fly.io](https://fly.io)                      | [Launch](https://fly.io/plans) (29 \$/m)                              | No                 | Yes (3 shared-cpu VM)    |                  |
 
 ---
 
@@ -224,8 +224,8 @@ List of all managed databases
 | [Scalingo](https://scalingo.com/databases)                      | Any                    | [Starter 512M](https://scalingo.com/pricing) (€7.20/m)                                           | No     | Yes               |             |
 | [beget](https://beget.com)                                      | MySQL/PostgreSQL       | [Pricing](https://beget.com/en/cloud/dbaas-postgresql) (8.65 €/m)                                | No     | No                |             |
 | [Turso](https://turso.tech)                                     | SQLite                 | [Hobby](https://turso.tech/pricing) (9 \$/m)                                                     | No     | 9Gb total storage |             |
+| [Aiven][aiven-ref]                                              | Any                    | Hobbyist (12 \$/m)                                                                               | Cloud  | `do-nyc` plans    |             |
 | [Nile](https://www.thenile.dev)                                 | PostgreSQL             | [Pro](https://www.thenile.dev/pricing) (15 \$/m)                                                 | No     | Yes               |             |
-| [Aiven][aiven-ref]                                              | Any                    | [Hobbyist](https://aiven.io/pricing) (19 \$/m)                                                   | Cloud  | `do-nyc` plans    |             |
 | [neon](https://neon.tech)                                       | PostgreSQL             | [Launch](https://neon.tech/pricing) (19 \$/m)                                                    | No     | Free tier         |             |
 | [xata](https://xata.io)                                         | API DB                 | [Pro](https://xata.io/pricing) (20 \$/m)                                                         | No     | Yes               |             |
 | [Supabase Database](https://supabase.com/database)              | PostgreSQL             | [Pro](https://supabase.io/pricing) (25 \$/m)                                                     | No     | 500Mb storage     |             |
