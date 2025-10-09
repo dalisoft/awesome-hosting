@@ -141,6 +141,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 
 | Name                                          | Minimal plan                                             | Trial  | Free                                                               | Open Source       | Type   | Lambda |
 | --------------------------------------------- | -------------------------------------------------------- | ------ | ------------------------------------------------------------------ | ----------------- | ------ | ------ |
+| [tiiny.host](https://tiiny.host)              | [Tiny](https://tiiny.host) (5 \$/m)                      | No     | No                                                                 |                   | Static | No     |
 | [Sherpa](https://www.sherpa.sh)               | [Hobby](https://www.sherpa.sh/pricing) (10 \$/m)         | 14-day | Yes                                                                |                   | Static | Yes    |
 | [Netlify](https://www.netlify.com)            | [Pro](https://www.netlify.com/pricing) (19 \$/m)         | No     | Yes                                                                |                   | Static | Yes    |
 | [Vercel](https://vercel.com)                  | [Pro](https://vercel.com/pricing) (20 \$/m)              | No     | Yes                                                                | Increase resource | Static | Yes    |
