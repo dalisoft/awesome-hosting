@@ -65,6 +65,8 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [PocketHost](https://pockethost.io)             | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No     | Yes                                                |             | Dynamic |        |
 | [litegix](https://litegix.com)                  | [Hobby](https://litegix.com/pricing) (5 \$/m)         | No     | Up-to 5 apps?                                      |             | ?       | ?      |
 | [Shiper](https://shiper.app)                    | [Builder](https://shiper.app/#pricing) (5 \$/m)       | $1     | Yes                                                |             | Dynamic | -      |
+| [Sevalla](https://sevalla.com)                  | [Pricing](https://sevalla.com/pricing) (5 \$/m)       | $50    | No                                                 |             | Dynamic | No     |
+| [Leapcell](https://leapcell.io)                 | [Plus](https://leapcell.io/pricing) (6 \$/m)          | No     | Yes                                                |             | Dynamic | -      |
 | [Render](https://render.com)                    | [Services](https://render.com/pricing) (7 \$/m)       | No     | Yes (with few limits)                              |             | Dynamic | No     |
 | [Heroku](https://www.heroku.com)                | [Hobby](https://www.heroku.com/pricing) (7 \$/m)      | No     | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
 | [Sherpa](https://www.sherpa.sh)                 | [Hobby](https://www.sherpa.sh/pricing) (10 \$/m)      | 14-day | Yes                                                |             |
