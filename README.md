@@ -156,7 +156,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [fleek](https://fleek.xyz)                                       | [Pro](https://fleek.xyz/pricing) (20 \$/m)               | No     | Yes (3Gb Storage) |                   | Static | No     |
 | [tinacms](https://tina.io)                                       | [Team](https://tina.io/pricing) (29 \$/user/m)           | No     | -                 |                   | Static | No     |
 | [Surge](https://surge.sh)                                        | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No     | Yes               |                   | Static | No     |
-| [Kinda Static](https://kinsta.com/static-site-hosting)           | [Pricing](https://kinsta.com/pricing) (35 \$/m)          | 30-day | -                 |                   | Static | No     |
+| [Kinda Static](https://kinsta.com/static-site-hosting)           | [Pricing](https://kinsta.com/pricing) (35 \$/m)          | 30-day | No                |                   | Static | No     |
 | [AWS Amplify](https://aws.amazon.com/amplify)                    | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No     | Yes (5Gb)         |                   | Static | ?      |
 | [Firebase Hosting](https://firebase.google.com/products/hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)     | No     | Yes               |                   | Static | No     |
 
