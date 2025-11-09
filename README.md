@@ -155,6 +155,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [Vercel](https://vercel.com)                                     | [Pro](https://vercel.com/pricing) (20 \$/m)              | No     | Yes       | Increase resource | Static | Yes    |
 | [Cloudflare Pages](https://pages.cloudflare.com)                 | [Pro](https://pages.cloudflare.com) (20 \$/m)            | No     | Yes       |                   | Static | No     |
 | [dAppling Network](https://dappling.network)                     | [Grow](https://www.dappling.network) ($20 \$/user/m)     | No     | Yes       |                   | Static | No     |
+| [appwrite Sites](https://appwrite.io/cloud)                      | [Pro](https://appwrite.io/pricing) (25 \$/m)             | No     | Yes       |                   | Static | No     |
 | [tinacms](https://tina.io)                                       | [Team](https://tina.io/pricing) (29 \$/user/m)           | No     | -         |                   | Static | No     |
 | [Surge](https://surge.sh)                                        | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No     | Yes       |                   | Static | No     |
 | [Kinda Static](https://kinsta.com/static-site-hosting)           | [Pricing](https://kinsta.com/pricing) (35 \$/m)          | 30-day | No        |                   | Static | No     |
