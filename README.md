@@ -214,7 +214,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [RuVPS](https://ruvps.net)                    | [VPS-1](https://ruvps.net/en/vps) (4.5 $/m)                                 | No                 | No                    |                  |
 | [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (4.50 €/m)                    | No                 | No                    |                  |
 | [SSD Nodes](https://www.ssdnodes.com) ⛔️     | [KVM / Small](https://www.ssdnodes.com/pricing) (4.99 \$/m)                 | 14-day refund only | No                    |                  |
-| [Linode](https://www.linode.com) ✅           | [Nanode 1GB](https://www.linode.com/pricing) (5 \$/m)                       | 7-day              | No                    |                  |
+| [Linode][linode-ref] ✅                       | [Nanode 1GB][linode-ref] (5 \$/m)                                           | 60-day             | $100 credit           |                  |
 | [Rackgenius](https://rackgenius.com)          | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)                    | No                 | No                    |                  |
 | [RX-NAME](https://rx-name.net)                | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                               | 14-day             |                       |                  |
 | [aeza][aeza-ref]                              | [Shared ALBs-1](https://aeza.net/virtual-servers) (4.94 €/m)                |                    |                       |                  |
@@ -281,7 +281,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [clore](https://clore.ai)                                   | [Pricing](https://clore.ai) (0.20 \$/h)                                | No         |      |             |
 | [TensorDock](https://tensordock.com)                        | [Pricing](https://tensordock.com/cloud-gpus) (0.20 \$/h)               | No         |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)          | $20 credit |      |             |
-| [RunPod](https://runpod.io)                                 | [Pricing](https://runpod.io/gpu-instance/pricing) (0.22 \$/h)          | No         |      |             |
+| [RunPod][runpod-ref]                                        | [Pricing][runpod-ref] (0.22 \$/h)                                      | $5 credit  |      |             |
 | [VastAI][vastai-ref]                                        | [Pricing](https://vast.ai/pricing) (0.30 \$/h)                         | No         |      |             |
 | [CloudTTK](https://cloud.ttk.ru)                            | [Pricing](https://cloud.ttk.ru/computing) (0.375 \$/h)                 | No         |      |             |
 | [VDSina][vdsina-ref]                                        | L4 (0.425 \$/h)                                                        | No         |      |             |
@@ -375,9 +375,11 @@ MIT
 [hyperbolic-ref]: https://app.hyperbolic.ai/invite/homjBxi7b
 [ihc-ref]: https://www.ihc.ru/?ref=423754
 [kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
+[linode-ref]: https://www.linode.com/lp/refer/?r=8aba5a0b35082328df6522752b8bb805536b892e
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [racknerd-ref]: https://my.racknerd.com/aff.php?aff=12402
 [rdp-monster-ref]: https://rdp.monster/?ref=144
+[runpod-ref]: https://runpod.io?ref=r5akk8kx
 [ruvds-ref]: https://ruvds.com/pr3299
 [upcloud-ref]: https://upcloud.com/signup/?promo=D5VUZ2
 [vastai-ref]: https://cloud.vast.ai/?ref_id=187311
