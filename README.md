@@ -276,13 +276,13 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | Name                                                        | Minimal plan                                                           | Trial      | Free | Open Source |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ---------- | ---- | ----------- |
 | [Featherless](https://featherless.ai)                       | [Lite](https://featherless.ai/#pricing) (10 \$/m)                      |            |      |             |
+| [clore][clore-ref]                                          | [Pricing][clore-ref] (1.20 \$/day)                                     | No         |      |             |
 | [Lightning](https://lightning.ai)                           | [Pricing](https://lightning.ai/pricing) (50 \$/m)                      | No         | Yes  |             |
+| [VastAI][vastai-ref]                                        | [Pricing](https://vast.ai/pricing) (0.15 \$/h)                         | No         |      |             |
 | [Salad](https://salad.com)                                  | [Pricing](https://salad.com/pricing) (0.20 \$/h)                       | No         |      |             |
-| [clore](https://clore.ai)                                   | [Pricing](https://clore.ai) (0.20 \$/h)                                | No         |      |             |
 | [TensorDock](https://tensordock.com)                        | [Pricing](https://tensordock.com/cloud-gpus) (0.20 \$/h)               | No         |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)          | $20 credit |      |             |
 | [RunPod][runpod-ref]                                        | [Pricing][runpod-ref] (0.22 \$/h)                                      | $5 credit  |      |             |
-| [VastAI][vastai-ref]                                        | [Pricing](https://vast.ai/pricing) (0.30 \$/h)                         | No         |      |             |
 | [CloudTTK](https://cloud.ttk.ru)                            | [Pricing](https://cloud.ttk.ru/computing) (0.375 \$/h)                 | No         |      |             |
 | [VDSina][vdsina-ref]                                        | L4 (0.425 \$/h)                                                        | No         |      |             |
 | [Jarvislabs](https://jarvislabs.ai)                         | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)                   | No         |      |             |
@@ -369,6 +369,7 @@ MIT
 [aeza-ref]: https://aeza.net/?ref=550011
 [aiven-ref]: https://console.aiven.io/signup?referral_code=c5lqcgdy1bmva03f1jer
 [cerebras-ref]: https://cloud.cerebras.ai?referral_code=d5m9c9m4
+[clore-ref]: https://clore.ai?ref_id=op6qrcpw
 [cloudcone-ref]: https://app.cloudcone.com/?ref=11853
 [do-ref]: https://m.do.co/c/030da2341a70
 [firstvds-ref]: https://firstvds.ru/?from=1025225
