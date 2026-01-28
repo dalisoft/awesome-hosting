@@ -322,7 +322,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- | ----------- |
 | [NanoGPT][nano-gpt-ref]                                     | Prompt-based (1 \$/m)                                                          | -           |      |             |
 | [Chutes](https://chutes.ai)                                 | [Base](https://chutes.ai/pricing) (3 \$/m)                                     | -           |      |             |
-| [synthetic](https://synthetic.new)                          | [Standard](https://synthetic.new/pricing) (20 \$/m)                            | -           |      |             |
+| [synthetic][synthetic-ref]                                  | [Standard][synthetic-ref] (20 \$/m)                                            | -           |      |             |
 | [Featherless](https://featherless.ai)                       | [Lite](https://featherless.ai/#pricing) (25 \$/m)                              |             |      |             |
 | [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               |             |      |             |
 | [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.55/2.19 \$/1M token)                 | $5 credit   |      |             |
@@ -383,6 +383,7 @@ MIT
 [rdp-monster-ref]: https://rdp.monster/?ref=144
 [runpod-ref]: https://runpod.io?ref=r5akk8kx
 [ruvds-ref]: https://ruvds.com/pr3299
+[synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
 [upcloud-ref]: https://upcloud.com/signup/?promo=D5VUZ2
 [vastai-ref]: https://cloud.vast.ai/?ref_id=187311
 [vdsina-ref]: https://www.vdsina.com/?partner=8e5e1gf48t
