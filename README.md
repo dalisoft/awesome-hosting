@@ -316,8 +316,6 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 
 List of LLM/AI inference API's <sup>[1](#status)</sup>
 
-> Minimal plan and/or price is referred for price per million token (input/output) for DeepSeek R1-0528 (or similar) models
-
 #### Subscription
 
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                 |
@@ -336,6 +334,8 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day    |
 
 #### Tokens
+
+> Minimal plan and/or price is referred for price per million token (input/output) for DeepSeek R1-0528 (or similar) models
 
 | Name                                                        | Minimal plan                                                                   | Trial       | Free |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- |
