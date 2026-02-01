@@ -39,7 +39,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 - [Database](#database)
 - [GPU Cloud](#gpu-cloud)
 - [AI LLM/Inference](#llminference-api)
-- [AI Coding Subscription](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#ai-subscriptions)
+- [AI Coding Subscription](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#providers)
 
 ### Web Services Platform
 
@@ -209,12 +209,12 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [netcup](https://www.netcup.com)              | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (3.35 €/m)             | No                 | No                    |                  |
 | [Scaleway](https://www.scaleway.com)          | [Stardust1-s](https://www.scaleway.com/en/pricing) (3.35 €/m)               | No                 | No                    |                  |
 | [DigitalOcean][do-ref]                        | Standard 512MiB (4 \$/m)                                                    | 60-day             | Trial, 200\$ Credit   |                  |
-| [Kamatera](https://www.kamatera.com) ⛔️      | Simple (4 \$/m)                                                             | 30-day             |                       |                  |
+| [Kamatera](https://www.kamatera.com) ⛔️       | Simple (4 \$/m)                                                             | 30-day             |                       |                  |
 | [VPSServer](https://www.vpsserver.com)        | [Starter](https://www.vpsserver.com/plans) (4 \$/m)                         | 30-day             | $100 credit           |                  |
-| [Hetzner](https://www.hetzner.com) ⛔️        | [See plans](https://www.hetzner.com/cloud) (€ 3.79/m)                       | No                 | No                    |                  |
+| [Hetzner](https://www.hetzner.com) ⛔️         | [See plans](https://www.hetzner.com/cloud) (€ 3.79/m)                       | No                 | No                    |                  |
 | [RuVPS](https://ruvps.net)                    | [VPS-1](https://ruvps.net/en/vps) (4.5 $/m)                                 | No                 | No                    |                  |
 | [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (4.50 €/m)                    | No                 | No                    |                  |
-| [SSD Nodes](https://www.ssdnodes.com) ⛔️     | [KVM / Small](https://www.ssdnodes.com/pricing) (4.99 \$/m)                 | 14-day refund only | No                    |                  |
+| [SSD Nodes](https://www.ssdnodes.com) ⛔️      | [KVM / Small](https://www.ssdnodes.com/pricing) (4.99 \$/m)                 | 14-day refund only | No                    |                  |
 | [Linode][linode-ref] ✅                       | [Nanode 1GB][linode-ref] (5 \$/m)                                           | 60-day             | $100 credit           |                  |
 | [Rackgenius](https://rackgenius.com)          | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)                    | No                 | No                    |                  |
 | [RX-NAME](https://rx-name.net)                | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                               | 14-day             |                       |                  |
@@ -318,27 +318,39 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 > Minimal plan and/or price is referred for price per million token (input/output) for DeepSeek R1-0528 (or similar) models
 
-| Name                                                        | Minimal plan                                                                   | Trial       | Free | Open Source |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- | ----------- |
-| [NanoGPT][nano-gpt-ref]                                     | Prompt-based (1 \$/m)                                                          | -           |      |             |
-| [Chutes](https://chutes.ai)                                 | [Base](https://chutes.ai/pricing) (3 \$/m)                                     | -           |      |             |
-| [synthetic][synthetic-ref]                                  | [Standard][synthetic-ref] (20 \$/m)                                            | -           |      |             |
-| [Featherless](https://featherless.ai)                       | [Lite](https://featherless.ai/#pricing) (25 \$/m)                              |             |      |             |
-| [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               |             |      |             |
-| [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.55/2.19 \$/1M token)                 | $5 credit   |      |             |
-| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | $1 credit   |      |             |
-| [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                   | -           |      |             |
-| [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         |             |      |             |
-| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (1.00/3.00 \$/1M token)                    |             | Yes  |             |
-| [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)        | $10 credit  |      |             |
-| [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                | $1 credit   |      |             |
-| [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      |             |      |             |
-| [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (2.55/5.95 \$/1M token)              | $1 credit   |      |             |
-| [Hyperbolic][hyperbolic-ref]                                | Tokens (3.00 \$/1M token)                                                      | $5 credit   |      |             |
-| [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               |             |      |             |
-| [Cerebas][cerebras-ref]                                     | Tokens (4.50/5.50 \$/1M token)                                                 | 200K tokens | Yes  |             |
-| [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)          | $5 credit   |      |             |
-| [Requesty](https://www.requesty.ai)                         | [Pricing](https://www.requesty.ai/pricing)                                     | $6 credit   |      |             |
+#### Subscription
+
+| Name                                          | Minimal plan                                                  | Trial        | Free |
+| --------------------------------------------- | ------------------------------------------------------------- | ------------ | ---- |
+| [Chutes](https://chutes.ai)                   | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            |      |
+| [GLM Coding][z-ai-ref]                        | [Lite][z-ai-ref] (6 \$/m)                                     | 50% discount |      |
+| [NanoGPT][nano-gpt-ref]                       | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |      |
+| [MiniMax Coding][minimax-ref]                 | [Starter][minimax-ref] (10 \$/m)                              | 80% discount |      |
+| [Featherless](https://featherless.ai)         | [Lite](https://featherless.ai/#pricing) (10 \$/m)             | -            |      |
+| [Kimi Coding](https://www.kimi.com)           | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |      |
+| [synthetic][synthetic-ref]                    | [Standard][synthetic-ref] (20 \$/m)                           | -            |      |
+| [Cerebras Code](https://www.cerebras.ai/code) | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | 200K tokens  | Yes  |
+
+#### Tokens
+
+| Name                                                        | Minimal plan                                                                   | Trial       | Free |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- |
+| [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               |             |      |
+| [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.55/2.19 \$/1M token)                 | $5 credit   |      |
+| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | $1 credit   |      |
+| [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                   | -           |      |
+| [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         |             |      |
+| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (1.00/3.00 \$/1M token)                    |             | Yes  |
+| [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)        | $10 credit  |      |
+| [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                | $1 credit   |      |
+| [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      |             |      |
+| [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (2.55/5.95 \$/1M token)              | $1 credit   |      |
+| [Hyperbolic][hyperbolic-ref]                                | Tokens (3.00 \$/1M token)                                                      | $5 credit   |      |
+| [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               |             |      |
+| [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                 | 200K tokens | Yes  |
+| [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)          | $5 credit   |      |
+| [NagaAI][naga-ai-ref]                                       | [Pricing][naga-ai-ref]                                                         | 25% bonus   |      |
+| [Requesty][requesty-ai-ref]                                 | [Pricing][requesty-ai-ref]                                                     | $6 credit   |      |
 
 ---
 
@@ -369,7 +381,6 @@ MIT
 [adminvps-ref]: https://my.adminvps.ru/aff.php?aff=28412
 [aeza-ref]: https://aeza.net/?ref=550011
 [aiven-ref]: https://console.aiven.io/signup?referral_code=c5lqcgdy1bmva03f1jer
-[cerebras-ref]: https://cloud.cerebras.ai?referral_code=d5m9c9m4
 [clore-ref]: https://clore.ai?ref_id=op6qrcpw
 [cloudcone-ref]: https://app.cloudcone.com/?ref=11853
 [do-ref]: https://m.do.co/c/030da2341a70
@@ -378,9 +389,12 @@ MIT
 [ihc-ref]: https://www.ihc.ru/?ref=423754
 [kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
 [linode-ref]: https://www.linode.com/lp/refer/?r=8aba5a0b35082328df6522752b8bb805536b892e
+[minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
+[naga-ai-ref]: https://naga.ac/join?ref=374-UXE
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [racknerd-ref]: https://my.racknerd.com/aff.php?aff=12402
 [rdp-monster-ref]: https://rdp.monster/?ref=144
+[requesty-ai-ref]: https://app.requesty.ai/join?ref=02b543cf
 [runpod-ref]: https://runpod.io?ref=r5akk8kx
 [ruvds-ref]: https://ruvds.com/pr3299
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
@@ -389,3 +403,4 @@ MIT
 [vdsina-ref]: https://www.vdsina.com/?partner=8e5e1gf48t
 [vultr-ref]: https://www.vultr.com/?ref=9628836-8H
 [waicore-ref]: https://waicore.com/?from=3872
+[z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
