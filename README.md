@@ -383,6 +383,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 - <https://lowendbox.com/category/virtual-servers>
 - <https://hostinghub.ru/top/vds/desheviy>
 - <https://cloud-gpus.com>
+- <https://github.com/alpha-one-index/ai-infra-index> — Open-source GPU pricing index: real-time pricing from 12+ cloud providers updated hourly, GPU specs, and benchmarks
 - <https://www.flightcontrol.dev>
 
 ---
