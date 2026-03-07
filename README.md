@@ -290,7 +290,10 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [TensorDock](https://tensordock.com)                        | [Pricing](https://tensordock.com/cloud-gpus) (0.20 \$/h)               | No         |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)          | $20 credit |      |             |
 | [RunPod][runpod-ref]                                        | [Pricing][runpod-ref] (0.22 \$/h)                                      | $5 credit  |      |             |
+| [Akash](https://akash.network)                              | [Pricing](https://akash.network/pricing/gpus) (0.26 \$/h)              |            |      |             |
 | [CloudTTK](https://cloud.ttk.ru)                            | [Pricing](https://cloud.ttk.ru/computing) (0.375 \$/h)                 | No         |      |             |
+| [dCompute](https://dcompute.cloud)                          | [Pricing](https://dcompute.cloud) (0.38 \$/h)                          |            |      |             |
+| [CloudRift](https://www.cloudrift.ai)                       | [Pricing](https://www.cloudrift.ai/pricing) (0.39 \$/h)                |            |      |             |
 | [VDSina][vdsina-ref]                                        | L4 (0.425 \$/h)                                                        | No         |      |             |
 | [Jarvislabs](https://jarvislabs.ai)                         | [Pricing](https://jarvislabs.ai/pricing) (0.44 \$/h)                   | No         |      |             |
 | [Valdi](https://valdi.ai)                                   | [Pricing](https://valdi.ai) (0.45 \$/h)                                | No         |      |             |
@@ -311,8 +314,11 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [LeaderGPU](https://leadergpu.com)                          | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)              | No         |      |             |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (0.84 \$/h)                  | $5 credit  |      |             |
 | [Qoddi](https://qoddi.com)                                  | [GPU-XS](https://qoddi.com/pricing) (0.91 $/h)                         | No         |      |             |
+| [Verda](https://verda.com)                                  | [Pricing](https://verda.com/products) (0.91 $/h)                       |            |      |             |
+| [Lyceum](https://lyceum.technology)                         | [Pricing](https://lyceum.technology) (1.05 \$/m)                       |            |      |             |
 | [crusoe](https://crusoe.ai)                                 | [Pricing](https://crusoe.ai/cloud) (1.10 \$/h)                         | No         |      |             |
 | [Lepton](https://www.lepton.ai)                             | [Pricing](https://www.lepton.ai/pricing) (1.212 $/h)                   | No         |      |             |
+| [Render Network](https://rendernetwork.com)                 | [Pricing](https://rendernetwork.com/pricing) (€ 1.0/m)                 |            |      |             |
 | [ShaktiCloud](https://shakticloud.ai)                       | [Spark](https://shakticloud.ai/pricing.html) (1.52 \$/h)               | No         |      |             |
 | [Nebius](https://nebius.com/gpu-cloud)                      | [Pricing](https://nebius.com/prices) (2.00 \$/h)                       | No         |      |             |
 | [DigitalOcean][do-ref]                                      | [Pricing][do-ref] (2.50 \$/h)                                          | 60-day     |      |             |
@@ -384,6 +390,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 - <https://hostinghub.ru/top/vds/desheviy>
 - <https://cloud-gpus.com>
 - <https://www.flightcontrol.dev>
+- <https://gpus.io>
 
 ---
 
