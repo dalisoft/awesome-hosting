@@ -366,7 +366,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                | $1 credit   |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      |             |      |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (2.55/5.95 \$/1M token)              | $1 credit   |      |
-| [Hyperbolic][hyperbolic-ref]                                | Tokens (3.00 \$/1M token)                                                      | $5 credit   |      |
+| [Hyperbolic][hyperbolic-ref]                                | Tokens (3.00 \$/1M token)                                                      | $101 credit |      |
 | [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               |             |      |
 | [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                 | 200K tokens | Yes  |
 | [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)          | $5 credit   |      |
