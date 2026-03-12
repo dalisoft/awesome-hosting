@@ -165,6 +165,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [Kinda Static](https://kinsta.com/static-site-hosting)           | [Pricing](https://kinsta.com/pricing) (35 \$/m)          | 30-day | No        |                   | Static | No     |
 | [AWS Amplify](https://aws.amazon.com/amplify)                    | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No     | Yes (5Gb) |                   | Static | ?      |
 | [Firebase Hosting](https://firebase.google.com/products/hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)     | No     | Yes       |                   | Static | No     |
+| [ZeroDeploy](https://zerodeploy.dev)                             | [Pro](https://zerodeploy.dev) (29 \$/m)                  | No     | Yes       |                   | Static | No     |
 
 ---
 
