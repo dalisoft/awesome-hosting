@@ -161,6 +161,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [dAppling Network](https://dappling.network)                     | [Grow](https://www.dappling.network) ($20 \$/user/m)     | No     | Yes       |                   | Static | No     |
 | [appwrite Sites](https://appwrite.io/cloud)                      | [Pro](https://appwrite.io/pricing) (25 \$/m)             | No     | Yes       |                   | Static | No     |
 | [tinacms](https://tina.io)                                       | [Team](https://tina.io/pricing) (29 \$/user/m)           | No     | -         |                   | Static | No     |
+| [ZeroDeploy](https://zerodeploy.dev)                             | [Pro](https://zerodeploy.dev) (29 \$/m)                  | No     | Yes       |                   | Static | No     |
 | [Surge](https://surge.sh)                                        | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No     | Yes       |                   | Static | No     |
 | [Kinda Static](https://kinsta.com/static-site-hosting)           | [Pricing](https://kinsta.com/pricing) (35 \$/m)          | 30-day | No        |                   | Static | No     |
 | [AWS Amplify](https://aws.amazon.com/amplify)                    | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No     | Yes (5Gb) |                   | Static | ?      |
