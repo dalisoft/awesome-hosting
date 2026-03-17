@@ -167,6 +167,8 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [AWS Amplify](https://aws.amazon.com/amplify)                    | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No     | Yes (5Gb) |                   | Static | ?      |
 | [Firebase Hosting](https://firebase.google.com/products/hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)     | No     | Yes       |                   | Static | No     |
 
+---
+
 ### WordPress
 
 List of Wordpress hosting <sup>[1](#status)</sup>
