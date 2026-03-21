@@ -48,13 +48,14 @@ List of all Web services platform <sup>[1](#status)</sup>
 | Name                                                                 | Minimal plan                                                     | Trial         | Free                                   | Open Source | Type | Lambda |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | -------------------------------------- | ----------- | ---- | ------ |
 | [Cloudflare Workers](https://workers.cloudflare.com/product/workers) | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m) | No            | Yes                                    |             | All  | Yes    |
+| [Alibaba Cloud][alibaba-cloud-ref]                                   | [Pay-as-you-Go][alibaba-cloud-ref]                               | Yes, 1-year   | 70M free tokens, 200\$ Credit          |             | All  | Yes    |
 | [Amazon Web Services](https://aws.amazon.com)                        | [See plans](https://aws.amazon.com/pricing)                      | Yes, 1-year   | Yes, only AWS Lambda                   |             | All  | Yes    |
 | [Azure Web Services](https://azure.microsoft.com/en-us)              | [See plans](https://azure.microsoft.com/en-us/pricing)           | Yes, 1-year   | Yes (1 App) / Free Tier / 200\$ Credit |             | All  | Yes    |
 | [Google Cloud Platform](https://cloud.google.com)                    | [See plans](https://cloud.google.com/pricing)                    | Yes, 1-year   | Yes (1 App) / Free Tier / 300\$ Credit |             | All  | Yes    |
 | [IBM Cloud](https://www.ibm.com/cloud)                               | [See plans](https://www.ibm.com/cloud/pricing)                   | Yes, 1-year   | Yes (1 App) / Free Tier / 200\$ Credit |             | All  | Yes    |
 | [Oracle Cloud](https://www.oracle.com/cloud) ⚠️                      | [See plans](https://www.oracle.com/cloud/pricing.html)           | Yes (30 days) | Free Tier / 300\$ Credit               |             | All  | Yes    |
-| [Yandex.Cloud](https://cloud.yandex.ru)                              | [Pay-as-you-Go](https://cloud.yandex.ru/prices)                  | Credit-only   | ~60\$ credit                           |             | All  | ?      |
-| [Sber.Cloud](https://cloud.sbercloud.ru)                             | [Pay-as-you-Go](https://cloud.ru/calculator)                     | Credit-only   |                                        |             | All  | ?      |
+| [Sber.Cloud](https://cloud.sbercloud.ru)                             | [Pay-as-you-Go](https://cloud.ru/calculator)                     | Credit-only   |                                        |             | All  | Yes    |
+| [Yandex.Cloud](https://cloud.yandex.ru)                              | [Pay-as-you-Go](https://cloud.yandex.ru/prices)                  | Credit-only   | ~60\$ credit                           |             | All  | Yes    |
 
 ---
 
@@ -336,20 +337,22 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 #### Subscription
 
-| Name                                                      | Minimal plan                                                  | Trial        | Usage                 |
-| --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------- |
-| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day         |
-| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (6 \$/m)                                     | 50% discount | =< 120 prompts / 5-hr |
-| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                       |
-| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr |
-| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models      |
-| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                |
-| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                       |
-| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr  |
-| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -            | <= 100 prompts / 5-hr |
-| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | Free plan    | <= 500 prompts / 5-hr |
-| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr        |
-| [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day    |
+| Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
+| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
+| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
+| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
+| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (10 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
+| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
+| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models          |
+| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                    |
+| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                           |
+| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr      |
+| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -            | <= 100 prompts / 5-hr     |
+| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | Free plan    | <= 500 prompts / 5-hr     |
+| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr            |
+| [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day        |
+| [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= **90,000** req / month |
 
 #### Tokens
 
@@ -405,6 +408,7 @@ MIT
 [adminvps-ref]: https://my.adminvps.ru/aff.php?aff=28412
 [aeza-ref]: https://aeza.net/?ref=550011
 [aiven-ref]: https://console.aiven.io/signup?referral_code=c5lqcgdy1bmva03f1jer
+[alibaba-cloud-ref]: https://www.alibabacloud.com/campaign/benefits?referral_code=A924PN
 [clore-ref]: https://clore.ai?ref_id=op6qrcpw
 [cloudcone-ref]: https://app.cloudcone.com/?ref=11853
 [do-ref]: https://m.do.co/c/030da2341a70
