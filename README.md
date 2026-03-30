@@ -15,7 +15,7 @@ List of awesome hosting sorted by minimal plan price
 
 Donations to project with credits on LLM/AI inferences or such bonuses from providers
 
-- [KiloCode][kilo-code-ref]
+- [KiloCode](https://kilo.ai)
 
 ## Status
 
@@ -324,7 +324,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Render Network](https://rendernetwork.com)                 | [Pricing](https://rendernetwork.com/pricing) (€ 1.0/m)                 |            |      |             |
 | [ShaktiCloud](https://shakticloud.ai)                       | [Spark](https://shakticloud.ai/pricing.html) (1.52 \$/h)               | No         |      |             |
 | [Nebius](https://nebius.com/gpu-cloud)                      | [Pricing](https://nebius.com/prices) (2.00 \$/h)                       | No         |      |             |
-| [DigitalOcean][do-ref]                                      | [Pricing][do-ref] (2.50 \$/h)                                          | 60-day     |      |             |
+| [DigitalOcean][do-ref] ⚠️                                   | [Pricing][do-ref] (2.50 \$/h)                                          | 60-day     |      |             |
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/products/dedicated-endpoints) (2.9 \$/h) | $5 credit  |      |             |
 | [GMICloud](https://www.gmicloud.ai)                         | [Pricing](https://www.gmicloud.ai/pricing)                             |            |      |             |
 | [Cerebrium](https://cerebrium.ai)                           | [Pricing](https://cerebrium.ai/pricing)                                |            |      |             |
@@ -371,7 +371,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                | $1 credit   |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      |             |      |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (2.55/5.95 \$/1M token)              | $1 credit   |      |
-| [Hyperbolic][hyperbolic-ref]                                | Tokens (3.00 \$/1M token)                                                      | $101 credit |      |
+| [Hyperbolic](https://hyperbolic.ai)                         | Tokens (3.00 \$/1M token)                                                      | $1 credit   |      |
 | [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               |             |      |
 | [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                 | 200K tokens | Yes  |
 | [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)          | $5 credit   |      |
@@ -414,9 +414,7 @@ MIT
 [cloudcone-ref]: https://app.cloudcone.com/?ref=11853
 [do-ref]: https://m.do.co/c/030da2341a70
 [firstvds-ref]: https://firstvds.ru/?from=1025225
-[hyperbolic-ref]: https://app.hyperbolic.ai/invite/homjBxi7b
 [ihc-ref]: https://www.ihc.ru/?ref=423754
-[kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
 [linode-ref]: https://www.linode.com/lp/refer/?r=8aba5a0b35082328df6522752b8bb805536b892e
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [naga-ai-ref]: https://naga.ac/join?ref=374-UXE
