@@ -149,6 +149,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 
 | Name                                                             | Minimal plan                                             | Trial  | Free      | Open Source       | Type   | Lambda |
 | ---------------------------------------------------------------- | -------------------------------------------------------- | ------ | --------- | ----------------- | ------ | ------ |
+| [FreeKit](https://freekit.dev)                                   | -                                                        | No     | Yes       |                   | Static | No     |
 | [Github Pages](https://pages.github.com)                         | -                                                        | No     | Yes       |                   | Static | No     |
 | [Rollout](https://rollout.run)                                   | -                                                        | No     | Yes       |                   | Static | No     |
 | [MyVibe](https://myvibe.so)                                      | -                                                        | No     | Yes       |                   | Static | No     |
