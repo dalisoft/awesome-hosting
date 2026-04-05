@@ -151,8 +151,8 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | ---------------------------------------------------------------- | -------------------------------------------------------- | ------ | --------- | ----------------- | ------ | ------ |
 | [FreeKit](https://freekit.dev)                                   | -                                                        | No     | Yes       |                   | Static | No     |
 | [Github Pages](https://pages.github.com)                         | -                                                        | No     | Yes       |                   | Static | No     |
-| [Rollout](https://rollout.run)                                   | -                                                        | No     | Yes       |                   | Static | No     |
 | [MyVibe](https://myvibe.so)                                      | -                                                        | No     | Yes       |                   | Static | No     |
+| [Rollout](https://rollout.run)                                   | -                                                        | No     | Yes       |                   | Static | No     |
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No     | No        |                   | Static | No     |
 | [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | 60-day | Yes       |                   | Static | No     |
 | [qodi](https://qoddi.com)                                        | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No     | 3 apps    |                   | Static | No     |
