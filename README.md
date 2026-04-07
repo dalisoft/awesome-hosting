@@ -388,6 +388,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 ## Resources
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 - <https://free-for.dev/#/?id=web-hosting>
 - <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
 - <https://gist.github.com/bmaupin/d2d243218863320b01b0c1e1ca0cf5f3>
