@@ -342,11 +342,12 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
 | [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
+| [nahcrof](https://ai.nahcrof.com)                         | [Pricing](https://ai.nahcrof.com/pricing) (5 \$/m)            | -            | 500 req / day             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
-| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (10 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
 | [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models          |
+| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                    |
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                           |
 | [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr      |
@@ -362,23 +363,24 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 | Name                                                        | Minimal plan                                                                   | Trial       | Free |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- |
-| [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               |             |      |
+| [nahcrof](https://ai.nahcrof.com)                           | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)              | -           |      |
+| [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               | -           |      |
 | [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.55/2.19 \$/1M token)                 | $5 credit   |      |
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | $1 credit   |      |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                   | -           |      |
-| [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         |             |      |
-| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (1.00/3.00 \$/1M token)                    |             | Yes  |
+| [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         | -           |      |
+| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (1.00/3.00 \$/1M token)                    | -           | Yes  |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)        | $10 credit  |      |
 | [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                | $1 credit   |      |
-| [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      |             |      |
+| [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      | -           |      |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (2.55/5.95 \$/1M token)              | $1 credit   |      |
 | [Hyperbolic](https://hyperbolic.ai)                         | Tokens (3.00 \$/1M token)                                                      | $1 credit   |      |
-| [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               |             |      |
+| [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               | -           |      |
 | [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                 | 200K tokens | Yes  |
 | [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)          | $5 credit   |      |
 | [NagaAI][naga-ai-ref]                                       | [Pricing][naga-ai-ref]                                                         | 25% bonus   |      |
 | [Requesty][requesty-ai-ref]                                 | [Pricing][requesty-ai-ref]                                                     | $6 credit   |      |
-| [OpenRouter](https://openrouter.ai)                         | [Pricing](https://openrouter.ai/models)                                        |             |      |
+| [OpenRouter](https://openrouter.ai)                         | [Pricing](https://openrouter.ai/models)                                        | -           |      |
 
 ---
 
