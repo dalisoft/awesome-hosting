@@ -342,7 +342,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
 | [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
-| [nahcrof](https://ai.nahcrof.com)                         | [Pricing](https://ai.nahcrof.com/pricing) (5 \$/m)            | -            | 500 req / day             |
+| [nahcrof](https://ai.nahcrof.com)                         | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
 | [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
