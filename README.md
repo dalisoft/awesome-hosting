@@ -237,7 +237,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Hostinger](https://hostinger.com)            | [KVM 1](https://hostinger.com/vps-hosting) (14 \$/m)                        | No                 | No                    |                  |
 | [Hosting](https://hosting.com)                | [VPS XS](https://hosting.com/hosting/vps-hosting/unmanaged/linux) (20 \$/m) | 50% off            | No                    |                  |
 | [fly.io](https://fly.io)                      | [Launch](https://fly.io/plans) (29 \$/m)                                    | No                 | Yes (3 shared-cpu VM) |                  |
-
+| [DarkVPS](https://darkvps.pro) | [See plans](https://darkvps.pro/#pricing) (15 \e/m) | No | No | |
 ---
 
 ### Database
