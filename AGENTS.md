@@ -82,7 +82,7 @@ When new entry alphabetically ordered as pricing is same.
 
 ## PR
 
-Create a branch then push to remote if mandatory. Create PR with following guidelines, if possible.
+Create a branch then push to remote is mandatory. Create PR with following guidelines, if possible.
 
 ### PR Branch
 
