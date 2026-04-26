@@ -41,19 +41,27 @@ Trial: not exists
 Free plan: not exists
 Open Source: - (empty)
 
+### Default example
+
 ```diff
-diff --git a/README.md b/README.md
-index f42cec3..9fbc109 100755
---- a/README.md
-+++ b/README.md
-@@ -231,6 +231,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
- | [alwaysdata](https://www.alwaysdata.com/en)   | [Plus](https://www.alwaysdata.com/en/offers) (5 €/m)                        | No                 | Yes                   |                  |
- | [CloudTTK](https://cloud.ttk.ru)              | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)             | No                 | No                    |                  |
  | [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
 +| [Megahost](https://megahost.kz/vps)           | SSD-mini (6.5 \$/m)                                                         | No                 | No                    |                  |
  | [Adaptable](https://adaptable.io)             | Hobby (7 \$/m)                                                              | No                 | Public-repos only     |                  |
  | [rdp.monster][rdp-monster-ref]                | [Basic](https://rdp.monster) (9 €/m)                                        | No                 | No                    |                  |
- | [CloudSigma](https://cloudsigma.com)          | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                         | 7-day              | No                    |                  |
+```
+
+### Lower pricing new VPS provider
+
+```diff
++| [000anon](https://000anon.io)                 | [Pricing](https://000anon.io/?tab=vps) (5 \$/m)                             | No                 | No                    |                  |
+ | [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
+```
+
+### Higher pricing new VPS provider
+
+```diff
+ | [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
++| [BetaHost](https://betahost.io)               | [Pricing](https://betahost.io/?tab=vps) (7 \$/m)                            | No                 | No                    |                  |
 ```
 
 ### Same-pricing new VPS provider
@@ -76,9 +84,16 @@ When new entry alphabetically ordered as pricing is same.
 #### Sub-example 3
 
 ```diff
+ | [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
++| [BetaHost](https://betahost.io)               | [Pricing](https://betahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
+```
+
+#### Sub-example 4
+
+```diff
  | [000anon](https://000anon.io)                 | [Pricing](https://000anon.io/?tab=vps) (6 \$/m)                             | No                 | No                    |                  |
 +| [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
- | [BlfaHost](https://betahost.io)               | [Pricing](https://betahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
+ | [BetaHost](https://betahost.io)               | [Pricing](https://betahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
 ```
 
 ## PR
