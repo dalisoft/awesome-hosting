@@ -84,10 +84,11 @@ When new entry alphabetically ordered as pricing is same.
 ## PR
 
 Create a branch then push to remote is mandatory. Create PR with following guidelines, if possible.
+Always ask user with simple question, like `[YES]/[NO]` to push to remote after finalizing the changes and verified.
 
 ### PR Branch
 
-Use `[type]-[category]/[name]` for branch.
+Always use `[type]-[category]/[name]` for branch.
 
 For example:
 
