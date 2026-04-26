@@ -79,3 +79,37 @@ When new entry alphabetically ordered as pricing is same.
 +| [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
  | [BlfaHost](https://betahost.io)               | [Pricing](https://betahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
 ```
+
+## PR
+
+### PR Branch
+
+Use `[type]-[category]/[name]` for branch.
+
+For example:
+
+- `add-vps/megahost-kz`
+- `remove-gpu/someprovider-xyz`
+- `update-vps/vdsina-com`
+
+### PR title
+
+Use semantic versioning like titles.
+For example:
+
+- docs(vps): add megahost.kz
+- docs(vps): update megahost.kz pricing
+- docs: weekly entries update, 26 April 2026
+- docs(gpu): remove someprovider.xyz
+
+### PR content
+
+Detailed information with metadata, for example
+
+| Name                                | Minimal plan        | Trial | Free | Open Source |
+| ----------------------------------- | ------------------- | ----- | ---- | ----------- |
+| [Megahost](https://megahost.kz/vps) | SSD-mini (6.5 \$/m) | No    | No   |             |
+
+### PR commits
+
+Always should be fresh and rebased from `master` branch
