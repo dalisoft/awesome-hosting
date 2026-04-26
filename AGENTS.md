@@ -7,7 +7,7 @@ Guide on how lists we're made and how it works.
 - Always read latest [README](./README.md) before any action
 - Always run `npx prettier -c README.md --write` after any modification on [README](./README.md)
 - Always fetch actual name, URL, pricing and other fields value of entry before adding, updating or modifying [README](./README.md)
-- Always use month plan pricing as reference, never use temporarily discounts, yearly discounts as permanent pricing
+- Always use **monthly** plan pricing as reference, never use temporarily discounts, yearly discounts as permanent pricing
 - Never assume, always prefer to fetch fresh metadata and check. Always verify before finalize
 - URL last uneless `/` should be striped. No unnecessary `/` on end
 
