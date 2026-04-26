@@ -105,7 +105,7 @@ When new entry alphabetically ordered as pricing is same.
 ## PR
 
 Create a branch then push to remote is mandatory. Create PR with following guidelines, if possible.
-Always ask user with simple question, like `[YES]/[NO]` to push to remote after finalizing the changes and verified.
+Always ask user with tool (Codex: `request_user_input` or similar tool; Claude: `AskUserQuestion`; others use similar tool), with `YES` and `NO` options to push to remote after finalizing the changes and verified.
 
 ### PR Branch
 
