@@ -82,6 +82,8 @@ When new entry alphabetically ordered as pricing is same.
 
 ## PR
 
+Create a branch then push to remote if mandatory. Create PR with following guidelines, if possible.
+
 ### PR Branch
 
 Use `[type]-[category]/[name]` for branch.
@@ -92,7 +94,7 @@ For example:
 - `remove-gpu/someprovider-xyz`
 - `update-vps/vdsina-com`
 
-### PR title
+### PR title / commits
 
 Use semantic versioning like titles.
 For example:
