@@ -2,14 +2,18 @@
 
 Guide on how lists we're made and how it works.
 
+## Refs
+
+REF1: [README](./README.md)
+
 ## Rules
 
-- Always read latest [README](./README.md) before any action
-- Always run `npx prettier -c README.md --write` after any modification on [README](./README.md)
-- Always fetch actual name, URL, pricing and other fields value of entry before adding, updating or modifying [README](./README.md)
+- Always read latest :REF1 before any action
+- Always run `npx prettier -c README.md --write` after any modification on :REF1
+- Always fetch actual name, URL, pricing and other fields value of entry before adding, updating or modifying :REF1
 - Always use **monthly** plan pricing as reference, never use temporarily discounts, yearly discounts as permanent pricing
-- Never assume, always prefer to fetch fresh metadata and check. Always verify before finalize
 - URL last uneless `/` should be striped. No unnecessary `/` on end
+- Never assume, always prefer to fetch fresh metadata and check. Always verify before finalize
 
 ## Columns
 
@@ -22,6 +26,8 @@ Guide on how lists we're made and how it works.
 
 ## Entries
 
+- Provider must be checked with `grep` and case-insensitive
+- New entry must not exist in :REF1
 - All list entries separated by categories (aka topics), see list of [categories](./README.md#contents)
 - Some of list entries should contain **status** to mark project as one of [status](./README.md#status)
 - If entry **Free plan** exists, the **Minimum plan** should not show $0 or any zero value
