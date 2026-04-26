@@ -209,6 +209,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [RuVDS][ruvds-ref]                            | Start->Start (2.6 \$/m)                                                     | 3-day              | No                    |                  |
 | [aruba Cloud](https://www.cloud.it)           | [STARTER](https://www.cloud.it/vps.aspx) (2.49 €/m)                         | No                 | No                    |                  |
 | [HostSailor](https://hostsailor.com)          | [Mini sailor](https://hostsailor.com/vps-hosting/kvm-vps) (2.99 \$/m)       | No                 | No                    |                  |
+| [InterServer](https://www.interserver.net)    | [1 Slice](https://www.interserver.net/vps) (3 \$/m)                         | No                 | No                    |                  |
 | [UpCloud][upcloud-ref] ✅                     | Developer (3 €/m)                                                           | -                  | 25\$ credit           |                  |
 | [Waicore][waicore-ref]                        | Germany EP1 (3 €/m)                                                         | No                 | No                    |                  |
 | [ihc][ihc-ref]                                | ssdVPS:1 (3.23 \$/m)                                                        | 3-day              | No                    |                  |
