@@ -18,9 +18,12 @@ REF1: [README](./README.md)
 ## Columns
 
 - Name: Provider name with URL provided
+  - Do a small typo fixes, if necessary. Example: `[qodi](https://qoddi.com)` -> `[Qoddi](https://qoddi.com)`
 - Minimal plan: minimum paid plan name with pricing
 - Trial: is provider gives free trial
   - Like how DigitalOcean gives 60-day trial or 14-day trials for other providers
+  - Example values: `1-Month` if 1-month free, `$50` credit if provider gives credit on sign-up
+  - Do not include `free`, `trial` suffixes to help compact table
 - Free: Free plan name (if exists)
 - Open Source: Is provider gives discount or free plan to OSS/FOSS projects
 
