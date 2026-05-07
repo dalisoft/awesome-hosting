@@ -106,10 +106,12 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | [DigitalOcean Platform][do-ref]                                       | [Pay-as-you-Go][do-ref] (5 \$/m)                                               | 60-day | Yes                    |             |
 | [Rivet](https://rivet.dev)                                            | [Hobby](https://rivet.dev/pricing) (5 \$/m)                                    | No     | Yes                    |             |
 | [Fly.io Machines](https://fly.io/docs/machines)                       | [Pay-as-you-Go](https://fly.io/pricing)                                        | No     | No                     |             |
+| [DeployBase](https://deploybase.io) | [See plans](https://deploybase.io/pricing) (5 \$/m) | No | No |  |
 
 ### Lambda
 
 List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
+
 
 | Name                                                                 | Minimal plan                                                                                         | Trial  | Free                   | Open Source |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------ | ---------------------- | ----------- |
