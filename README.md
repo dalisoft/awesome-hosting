@@ -16,6 +16,7 @@ List of awesome hosting sorted by minimal plan price
 Donations to project with credits on LLM/AI inferences or such bonuses from providers
 
 - [KiloCode](https://kilo.ai)
+- [nahcrof](https://ai.nahcrof.com)
 
 ## Status
 
@@ -349,7 +350,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
 | [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
-| [nahcrof](https://ai.nahcrof.com)                         | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day             |
+| **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
 | [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
@@ -370,7 +371,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 | Name                                                        | Minimal plan                                                                   | Trial       | Free |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- |
-| [nahcrof](https://ai.nahcrof.com)                           | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)              | -           |      |
+| **[nahcrof](https://ai.nahcrof.com)** ✅                    | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)              | -           |      |
 | [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               | -           |      |
 | [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.55/2.19 \$/1M token)                 | $5 credit   |      |
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | $1 credit   |      |
