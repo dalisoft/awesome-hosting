@@ -110,6 +110,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | [Cloudflare Containers](https://developers.cloudflare.com/containers) | [Pay-as-you-Go](https://developers.cloudflare.com/containers/pricing) (5 \$/m) | No          | No                     |             |
 | [DigitalOcean Platform][do-ref]                                       | [Pay-as-you-Go][do-ref] (5 \$/m)                                               | $200 credit | Yes                    |             |
 | [Rivet](https://rivet.dev)                                            | [Hobby](https://rivet.dev/pricing) (5 \$/m)                                    | No          | Yes                    |             |
+| [DeployBase](https://deploybase.io)                                   | [Starter](https://deploybase.io/pricing) (6 \$/m)                              | No          | No                     |             |
 | [Fly.io Machines](https://fly.io/docs/machines)                       | [Pay-as-you-Go](https://fly.io/pricing)                                        | No          | No                     |             |
 
 ### Lambda
@@ -353,23 +354,23 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 #### Subscription
 
-| Name                                                      | Minimal plan                                                  | Trial | Usage                    |
-| --------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------ |
-| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -     | 300 msg / day            |
-| **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -     | 500 req / day            |
-| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -     |                          |
-| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -     | =< 100 prompts / 5-hr    |
-| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | -     | <= 10,000 prompts / 5-hr |
-| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -     | up-to 15B models         |
-| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -     | =< 120 prompts / 5-hr    |
-| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass) (19 \$/m)       | -     | Tokens                   |
-| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -     |                          |
-| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -     | <= 30 prompts / 5-hr     |
-| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -     | <= 100 prompts / 5-hr    |
-| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | -     | <= 500 prompts / 5-hr    |
-| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -     | 135 msg / 5-hr           |
-| [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -     | 24 M. Tokens / day       |
-| [Aliba0ba AI Coding Plan][alibaba-cloud-ref]              | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -     | <= 90,000 req / month    |
+| Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
+| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
+| **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day             |
+| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
+| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
+| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
+| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models          |
+| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
+| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                    |
+| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                           |
+| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr      |
+| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -            | <= 100 prompts / 5-hr     |
+| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | Free plan    | <= 500 prompts / 5-hr     |
+| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr            |
+| [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day        |
+| [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= **90,000** req / month |
 
 #### Tokens
 
