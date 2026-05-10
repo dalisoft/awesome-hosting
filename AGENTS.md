@@ -37,6 +37,8 @@ REF1: [README](./README.md)
 - As **Minimum plan** should be shown one step higher than **Free plan** price (if free plan exists) or **Lowest paid plan**
 - Allowed currencies are: USD ($) and EUR (€) with their corresponding sign.
   - Any other values should be converted to USD ($) at value of published date.
+  - Example with USD: (5 \$/m)
+  - Example with EUR: (€ 5/m)
 - Entries are sorted by **Price** then by **Name**
 
 ## Examples
