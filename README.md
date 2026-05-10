@@ -48,16 +48,16 @@ List of all Web services platform <sup>[1](#status)</sup>
 
 | Name                                                                 | Minimal plan                                                     | Trial       | Free                      | Open Source | Type | Lambda |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | ------------------------- | ----------- | ---- | ------ |
-| [Northflank](https://northflank.com)                                 | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)       | No          | Developer Sandbox         |             | All  | No     |
 | [Cloudflare Workers](https://workers.cloudflare.com/product/workers) | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m) | No          | Yes                       |             | All  | Yes    |
-| [Flightcontrol](https://www.flightcontrol.dev)                       | [Starter](https://www.flightcontrol.dev/pricing) (97 \$/m)       | 14-day      | No                        |             | All  | No     |
+| [Flightcontrol](https://www.flightcontrol.dev)                       | [Starter](https://www.flightcontrol.dev/pricing) (97 \$/m)       | 14-day      | Yes                       |             | All  | No     |
 | [Alibaba Cloud][alibaba-cloud-ref]                                   | [Pay-as-you-Go][alibaba-cloud-ref]                               | $50 credit  | 70M tokens, $200 credit   |             | All  | Yes    |
 | [Amazon Web Services](https://aws.amazon.com)                        | [See plans](https://aws.amazon.com/pricing)                      | $200 credit | 30+ services              |             | All  | Yes    |
 | [Azure Web Services](https://azure.microsoft.com/en-us)              | [See plans](https://azure.microsoft.com/en-us/pricing)           | $200 credit | 55+ services              |             | All  | Yes    |
 | [Google Cloud Platform](https://cloud.google.com)                    | [See plans](https://cloud.google.com/pricing)                    | $300 credit | 20+ products              |             | All  | Yes    |
 | [IBM Cloud](https://www.ibm.com/cloud)                               | [See plans](https://www.ibm.com/cloud/pricing)                   | $200 credit | 40+ products              |             | All  | Yes    |
+| [Northflank](https://northflank.com)                                 | [Pay-as-you-Go](https://northflank.com/pricing)                  | No          | -                         |             | All  | No     |
 | [Oracle Cloud](https://www.oracle.com/cloud) ⚠️                      | [See plans](https://www.oracle.com/cloud/pricing.html)           | 30-day      | Always Free / $300 credit |             | All  | Yes    |
-| [Sber.Cloud](https://cloud.sbercloud.ru)                             | [Pay-as-you-Go](https://cloud.ru/calculator)                     | Credit-only |                           |             | All  | Yes    |
+| [Sber.Cloud](https://cloud.sbercloud.ru)                             | [Pay-as-you-Go](https://cloud.ru/calculator)                     | Credit-only | -                         |             | All  | Yes    |
 | [Yandex.Cloud](https://cloud.yandex.ru)                              | [Pay-as-you-Go](https://cloud.yandex.ru/prices)                  | Credit-only | ~$60 credit               |             | All  | Yes    |
 
 ---
@@ -66,36 +66,36 @@ List of all Web services platform <sup>[1](#status)</sup>
 
 List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 
-| Name                                                                     | Minimal plan                                                           | Trial       | Free                                               | Open Source | Type    | Lambda |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ----------- | -------------------------------------------------- | ----------- | ------- | ------ |
-| [Northflank](https://northflank.com)                                     | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)             | No          | Developer Sandbox                                  |             | Dynamic | No     |
-| [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m)       | No          | Yes                                                |             | Lambda  | Yes    |
-| [DigitalOcean Platform][do-ref]                                          | [Pay-as-you-Go][do-ref] (5 \$/m)                                       | $200 credit | Yes                                                |             | Static  | No     |
-| [Heroku](https://www.heroku.com)                                         | [Eco](https://www.heroku.com/pricing) (5 \$/m)                         | No          | [No anymore](https://blog.heroku.com/next-chapter) |             | Dynamic | No     |
-| [PocketHost](https://pockethost.io)                                      | [Starter](https://pockethost.io/pricing) (5 \$/m)                      | No          | Yes                                                |             | Dynamic |        |
-| [litegix](https://litegix.com) ⚠️                                        | [Hobby](https://litegix.com/pricing) (5 \$/m)                          | No          | Up-to 5 apps?                                      |             | ?       | ?      |
-| [Sevalla](https://sevalla.com)                                           | [Pricing](https://sevalla.com/pricing) (5 \$/m)                        | $20 credit  | No                                                 |             | Dynamic | No     |
-| [Shiper](https://shiper.app)                                             | [Builder](https://shiper.app/#pricing) (5 \$/m)                        | $1          | Yes                                                |             | Dynamic | -      |
-| [Zerops](https://zerops.io)                                              | [Pricing](https://zerops.io/pricing)                                   | No          | No                                                 |             | Dynamic | No     |
-| [Render](https://render.com)                                             | [Starter](https://render.com/pricing) (7 \$/m)                         | No          | Yes                                                |             | Dynamic | No     |
-| [Netlify Functions](https://www.netlify.com/platform/core/functions)     | [Personal](https://www.netlify.com/pricing) (9 \$/m)                   | No          | 125K request / month                               | Yes         |         |        |
-| [Leapcell](https://leapcell.io)                                          | [Plus](https://leapcell.io/pricing) (12.9 \$/m)                        | No          | Yes                                                |             | Dynamic | -      |
-| [Sherpa](https://www.sherpa.sh)                                          | [Hobby](https://www.sherpa.sh/pricing) (13.99 \$/m)                    | No          | Yes                                                |             | Dynamic |        |
-| [directus](https://directus.io)                                          | [Starter](https://directus.io/pricing) (15 \$/m)                       | No          | [Community Cloud](https://directus.io/pricing)     | Yes         | Dynamic | ?      |
-| [Firebase App Hosting](https://firebase.google.com/products/app-hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)                   | No          | Yes                                                |             | Dynamic | No     |
-| [Vercel](https://vercel.com)                                             | [Pro](https://vercel.com/pricing) (20 \$/m)                            | No          | Yes                                                |             | Dynamic | Yes    |
-| [appwrite Cloud](https://appwrite.io)                                    | [Pro](https://appwrite.io/pricing) (25 \$/m)                           | No          | Yes & Self-hosted                                  | Yes         | Dynamic | ?      |
-| [Supabase](https://supabase.com)                                         | [Pro](https://supabase.com/pricing) (25 \$/m)                          | No          | Yes                                                |             | Dynamic | No     |
-| [Nhost](https://nhost.io)                                                | [Pro](https://nhost.io/pricing) (25 \$/m)                              | No          | Yes                                                | Yes         | Dynamic | Yes    |
-| [back4apps](https://www.back4app.com/pricing/backend-as-a-service)       | [MVP](https://www.back4app.com/pricing/backend-as-a-service) (25 \$/m) | No          | No                                                 |             | Dynamic | -      |
-| [Koyeb](https://koyeb.com)                                               | [Pro](https://koyeb.com/pricing) (29 \$/m)                             | No          | Yes                                                |             | Dynamic | No     |
-| [Bunker](https://getbunker.net)                                          | [Managed](https://getbunker.net/pricing) (30 €/m)                      | No          | Yes (1 project)                                    | Yes         | Dynamic | No     |
-| [PocketBase](https://pocketbase.io)                                      | Your infrastructure                                                    | -           | Self-Hosted                                        |             | Dynamic | -      |
-| [Dokku](https://dokku.com)                                               | Your infrastructure                                                    | -           | Self-Hosted                                        |             | Dynamic | -      |
-| [CapRover](https://caprover.com)                                         | Your infrastructure                                                    | -           | Self-Hosted                                        |             | Dynamic | -      |
-| [Coolify](https://coolify.io)                                            | Your infrastructure                                                    | -           | Self-Hosted                                        |             | Dynamic | -      |
-| [Disco](https://disco.cloud)                                             | Your infrastructure                                                    | -           | Self-Hosted                                        |             | Dynamic | -      |
-| [Dokploy](https://dokploy.com)                                           | Your infrastructure                                                    | -           | Self-Hosted                                        | Yes         | Dynamic | -      |
+| Name                                                                     | Minimal plan                                          | Trial       | Free              | Open Source | Type    | Lambda |
+| ------------------------------------------------------------------------ | ----------------------------------------------------- | ----------- | ----------------- | ----------- | ------- | ------ |
+| [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pro](https://workers.cloudflare.com/plans) (5 \$/m)  | No          | Yes               |             | Lambda  | Yes    |
+| [DigitalOcean Platform][do-ref]                                          | [Pay-as-you-Go][do-ref] (5 \$/m)                      | $200 credit | Yes               |             | Static  | No     |
+| [Heroku](https://www.heroku.com)                                         | [Eco](https://www.heroku.com/pricing) (5 \$/m)        | No          | No                |             | Dynamic | No     |
+| [PocketHost](https://pockethost.io)                                      | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No          | Yes               |             | Dynamic |        |
+| [litegix](https://litegix.com) ⚠️                                        | [Hobby](https://litegix.com/pricing) (5 \$/m)         | No          | Yes               |             | Dynamic | -      |
+| [Sevalla](https://sevalla.com)                                           | [Pricing](https://sevalla.com/pricing) (5 \$/m)       | $20 credit  | No                |             | Dynamic | No     |
+| [Shiper](https://shiper.app)                                             | [Builder](https://shiper.app/#pricing) (5 \$/m)       | $1          | Yes               |             | Dynamic | -      |
+| [Render](https://render.com)                                             | [Starter](https://render.com/pricing) (7 \$/m)        | No          | Yes               |             | Dynamic | No     |
+| [Netlify Functions](https://www.netlify.com/platform/core/functions)     | [Personal](https://www.netlify.com/pricing) (9 \$/m)  | No          | Yes               | Yes         |         |        |
+| [Zerops](https://zerops.io)                                              | [Pricing](https://zerops.io/pricing) (10 \$/m)        | No          | No                |             | Dynamic | No     |
+| [Leapcell](https://leapcell.io)                                          | [Plus](https://leapcell.io/pricing) (12.9 \$/m)       | No          | Yes               |             | Dynamic | -      |
+| [Sherpa](https://www.sherpa.sh)                                          | [Hobby](https://www.sherpa.sh/pricing) (13.99 \$/m)   | No          | Yes               |             | Dynamic |        |
+| [Vercel](https://vercel.com)                                             | [Pro](https://vercel.com/pricing) (20 \$/m)           | No          | Yes               |             | Dynamic | Yes    |
+| [appwrite Cloud](https://appwrite.io)                                    | [Pro](https://appwrite.io/pricing) (25 \$/m)          | No          | Yes & Self-hosted | Yes         | Dynamic | ?      |
+| [Supabase](https://supabase.com)                                         | [Pro](https://supabase.com/pricing) (25 \$/m)         | No          | Yes               |             | Dynamic | No     |
+| [Nhost](https://nhost.io)                                                | [Pro](https://nhost.io/pricing) (25 \$/m)             | No          | Yes               | Yes         | Dynamic | Yes    |
+| [back4apps](https://www.back4app.com)                                    | [MVP](https://www.back4app.com/pricing) (25 \$/m)     | No          | No                |             | Dynamic | -      |
+| [Koyeb](https://koyeb.com)                                               | [Pro](https://koyeb.com/pricing) (29 \$/m)            | No          | Yes               |             | Dynamic | No     |
+| [Bunker](https://getbunker.net)                                          | [Managed](https://getbunker.net/pricing) (30 €/m)     | No          | Yes (1 project)   | Yes         | Dynamic | No     |
+| [directus](https://directus.io)                                          | [Professional](https://directus.io/pricing) (99 \$/m) | No          | Self-Hosted       | Yes         | Dynamic | No     |
+| [Firebase App Hosting](https://firebase.google.com/products/app-hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)  | No          | Yes               |             | Dynamic | No     |
+| [Northflank](https://northflank.com)                                     | [Pay-as-you-Go](https://northflank.com/pricing)       | No          | Developer Sandbox |             | Dynamic | No     |
+| [CapRover](https://caprover.com)                                         | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
+| [Coolify](https://coolify.io)                                            | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
+| [Disco](https://disco.cloud)                                             | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
+| [Dokku](https://dokku.com)                                               | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
+| [Dokploy](https://dokploy.com)                                           | Your infrastructure                                   | -           | Self-Hosted       | Yes         | Dynamic | -      |
+| [PocketBase](https://pocketbase.io)                                      | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
 
 ---
 
