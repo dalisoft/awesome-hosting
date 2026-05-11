@@ -54,6 +54,7 @@ List of all Web services platform <sup>[1](#status)</sup>
 | [Azure Web Services](https://azure.microsoft.com/en-us)              | [See plans](https://azure.microsoft.com/en-us/pricing)           | $200 credit | 55+ services               |             | All  | Yes    |
 | [Google Cloud Platform](https://cloud.google.com)                    | [See plans](https://cloud.google.com/pricing)                    | $300 credit | 20+ products               |             | All  | Yes    |
 | [IBM Cloud](https://www.ibm.com/cloud)                               | [See plans](https://www.ibm.com/cloud/pricing)                   | $200 credit | 40+ products               |             | All  | Yes    |
+| [Northflank](https://northflank.com)                                 | [Pay-as-you-Go](https://northflank.com/pricing)                  | No          | -                         |             | All  | No     |
 | [Oracle Cloud](https://www.oracle.com/cloud) ⚠️                      | [See plans](https://www.oracle.com/cloud/pricing.html)           | 30-day      | Always Free / 300\$ credit |             | All  | Yes    |
 | [Sber.Cloud](https://cloud.sbercloud.ru)                             | [Pay-as-you-Go](https://cloud.ru/calculator)                     | Credit-only |                            |             | All  | Yes    |
 | [Yandex.Cloud](https://cloud.yandex.ru)                              | [Pay-as-you-Go](https://cloud.yandex.ru/prices)                  | Credit-only | ~60\$ credit               |             | All  | Yes    |
