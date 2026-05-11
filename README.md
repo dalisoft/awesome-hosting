@@ -228,7 +228,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Hetzner](https://www.hetzner.com) ⛔️         | [See plans](https://www.hetzner.com/cloud) (€ 4/m)                          | No                 | No                    |                  |
 | [Kamatera](https://www.kamatera.com) ⛔️       | Simple (4 \$/m)                                                             | 30-day             |                       |                  |
 | [VPSServer](https://www.vpsserver.com)        | [Starter](https://www.vpsserver.com/plans) (4 \$/m)                         | 30-day             | $100 credit           |                  |
-| [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (4.5 €/m)                     | No                 | No                    |                  |
+| [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (€ 4.5/m)                     | No                 | No                    |                  |
 | [RuVPS](https://ruvps.net)                    | [VPS-1](https://ruvps.net/en/vps) (4.5 \$/m)                                | No                 | No                    |                  |
 | [Serverspace](https://serverspace.io)         | [vStack](https://serverspace.io/pricing) (4.63 €/m)                         | No                 | No                    |                  |
 | [aeza][aeza-ref]                              | [Shared ALBs-1](https://aeza.net/virtual-servers) (4.94 €/m)                |                    |                       |                  |
