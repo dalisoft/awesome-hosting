@@ -161,8 +161,8 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [MyVibe](https://myvibe.so)                                      | -                                                        | No     | Yes       |                   | Static | No     |
 | [Rollout](https://rollout.run)                                   | -                                                        | No     | Yes       |                   | Static | No     |
 | [Sevalla Static Sites](https://sevalla.com/static-site-hosting)  | -                                                        | No     | Yes       |                   | Static | No     |
+| [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | $200 credit | Yes       |                   | Static | No     |
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No     | No        |                   | Static | No     |
-| [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | 60-day | Yes       |                   | Static | No     |
 | [Qoddi](https://qoddi.com)                                       | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No     | 3 apps    |                   | Static | No     |
 | [Netlify](https://www.netlify.com)                               | [Personal](https://www.netlify.com/pricing) (9 \$/m)     | No     | Yes       | Yes               | Static | Yes    |
 | [Sherpa](https://www.sherpa.sh)                                  | [Hobby](https://www.sherpa.sh/pricing) (13.99 \$/m)      | No     | Yes       |                   | Static | Yes    |
