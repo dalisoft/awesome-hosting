@@ -393,7 +393,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               | -           |      |
 | [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                 | 200K tokens | Yes  |
 | [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)          | $5 credit   |      |
-| [NagaAI][naga-ai-ref]                                       | [Pricing][naga-ai-ref]                                                         | 25% bonus   |      |
+| [NagaAI][naga-ai-ref]                                       | [Pricing][naga-ai-ref]                                                         | -           |      |
 | [Requesty][requesty-ai-ref]                                 | [Pricing][requesty-ai-ref]                                                     | $6 credit   |      |
 | [OpenRouter](https://openrouter.ai)                         | [Pricing](https://openrouter.ai/models)                                        | -           |      |
 
