@@ -330,7 +330,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [CoreWeave](https://coreweave.com)                          | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/h)         | No         |      |             |
 | [Thunder Compute](https://thundercompute.com)               | [Pricing](https://thundercompute.com/pricing) (0.78 \$/h)              | No         |      |             |
 | [Northflank](https://northflank.com)                        | [L4](https://northflank.com/pricing) (0.8 \$/h)                        | No          |      |             |
-| [LeaderGPU](https://leadergpu.com)                          | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)              | No         |      |             |
+| [LeaderGPU](https://leadergpu.com)                          | [Pricing](https://leadergpu.com/#chose-best) (€ 523.38/m)              | No          |      |             |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (0.84 \$/h)                  | $5 credit  |      |             |
 | [Verda](https://verda.com)                                  | [Pricing](https://verda.com/products) (0.91 \$/h)                      |            |      |             |
 | [Qoddi](https://qoddi.com)                                  | [GPU-XS](https://qoddi.com/pricing) (0.98 \$/h)                        | No         |      |             |
