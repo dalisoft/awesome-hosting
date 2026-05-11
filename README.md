@@ -308,6 +308,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)          | $20 credit |      |             |
 | [RunPod][runpod-ref]                                        | [Pricing][runpod-ref] (0.22 \$/h)                                      | $5 credit  |      |             |
 | [Akash](https://akash.network)                              | [Pricing](https://akash.network/pricing/gpus) (0.26 \$/h)              |            |      |             |
+| [CUDO Compute](https://www.cudocompute.com)                 | [Pricing](https://www.cudocompute.com/gpu-rental) (0.35 \$/h)          | No          |      |             |
 | [CloudTTK](https://cloud.ttk.ru)                            | [Pricing](https://cloud.ttk.ru/computing) (0.38 \$/h)                  | No         |      |             |
 | [dCompute](https://dcompute.cloud)                          | [Pricing](https://dcompute.cloud) (0.38 \$/h)                          |            |      |             |
 | [CloudRift](https://www.cloudrift.ai)                       | [Pricing](https://www.cloudrift.ai/pricing) (0.39 \$/h)                |            |      |             |
