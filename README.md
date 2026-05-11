@@ -326,7 +326,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Seimaxim](https://seimaxim.com)                            | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (480 \$/m)       | No         |      |             |
 | [beam](https://beam.cloud)                                  | [Pricing](https://www.beam.cloud/pricing) (0.68 \$/h)                  | No         |      |             |
 | [Cloud4U](https://cloud4u.com)                              | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)           | No         |      |             |
-| [TitanGPU](https://titangpu.com)                            | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)                    | No         |      |             |
+| [TitanGPU](https://titangpu.com)                            | [Pricing](https://titangpu.com/#pricing) (€ 0.69/h)                    | No          |      |             |
 | [CoreWeave](https://coreweave.com)                          | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/h)         | No         |      |             |
 | [Thunder Compute](https://thundercompute.com)               | [Pricing](https://thundercompute.com/pricing) (0.78 \$/h)              | No         |      |             |
 | [LeaderGPU](https://leadergpu.com)                          | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)              | No         |      |             |
