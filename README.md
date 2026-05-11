@@ -225,7 +225,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Scaleway](https://www.scaleway.com)          | [Stardust1-s](https://www.scaleway.com/en/pricing) (€ 3.35/m)               | No                 | No                    |                  |
 | [LightSail](https://aws.amazon.com/lightsail) | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)            | 3-Month            | No                    | Unlimited cloud? |
 | [DigitalOcean][do-ref]                        | Standard 512MiB (4 \$/m)                                                    | $200 credit        | No                    |                  |
-| [Hetzner](https://www.hetzner.com) ⛔️         | [See plans](https://www.hetzner.com/cloud) (4 €/m)                          | No                 | No                    |                  |
+| [Hetzner](https://www.hetzner.com) ⛔️         | [See plans](https://www.hetzner.com/cloud) (€ 4/m)                          | No                 | No                    |                  |
 | [Kamatera](https://www.kamatera.com) ⛔️       | Simple (4 \$/m)                                                             | 30-day             |                       |                  |
 | [VPSServer](https://www.vpsserver.com)        | [Starter](https://www.vpsserver.com/plans) (4 \$/m)                         | 30-day             | $100 credit           |                  |
 | [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (4.5 €/m)                     | No                 | No                    |                  |
