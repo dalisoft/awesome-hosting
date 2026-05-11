@@ -49,7 +49,7 @@ List of all Web services platform <sup>[1](#status)</sup>
 | Name                                                                 | Minimal plan                                                     | Trial       | Free                       | Open Source | Type | Lambda |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | -------------------------- | ----------- | ---- | ------ |
 | [Cloudflare Workers](https://workers.cloudflare.com/product/workers) | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m) | No          | Yes                        |             | All  | Yes    |
-| [Alibaba Cloud][alibaba-cloud-ref]                                   | [Pay-as-you-Go][alibaba-cloud-ref]                               | $50 credit  | 70M tokens, 200\$ credit   |             | All  | Yes    |
+| [Alibaba Cloud][alibaba-cloud-ref]                                   | [Pay-as-you-Go][alibaba-cloud-ref]                               | $50 credit  | 70M tokens, $200 credit   |             | All  | Yes    |
 | [Amazon Web Services](https://aws.amazon.com)                        | [See plans](https://aws.amazon.com/pricing)                      | $200 credit | 30+ services               |             | All  | Yes    |
 | [Azure Web Services](https://azure.microsoft.com/en-us)              | [See plans](https://azure.microsoft.com/en-us/pricing)           | $200 credit | 55+ services               |             | All  | Yes    |
 | [Google Cloud Platform](https://cloud.google.com)                    | [See plans](https://cloud.google.com/pricing)                    | $300 credit | 20+ products               |             | All  | Yes    |
