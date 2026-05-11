@@ -209,7 +209,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (€ 2.09/m)                              |                    |                       |                  |
 | [VDSina][vdsina-ref]                          | Standard (2.1 \$/m)                                                         | No                 | No                    |                  |
 | [VScale](https://www.vscale.io)               | [See pricing](https://vscale.io/cloud/instances/order) (~2.15 \$/m)         | No                 |                       |                  |
-| [U1-Host][u1-host-ref]                        | [DE-PROMO][u1-host-ref] (2.31 €/m)                                          | No                 | No                    |                  |
+| [U1-Host][u1-host-ref]                        | [DE-PROMO][u1-host-ref] (€ 2.31/m)                                          | No                 | No                    |                  |
 | [aruba Cloud](https://www.cloud.it)           | [STARTER](https://www.cloud.it/vps.aspx) (2.49 €/m)                         | No                 | No                    |                  |
 | [FirstVDS][firstvds-ref]                      | Прогрев (2.5 \$/m)                                                          | No                 | No                    |                  |
 | [LandVPS](https://landvps.ru)                 | [UFA-1](https://landvps.ru/vps) (2.5 \$/m)                                  | No                 | No                    |                  |
