@@ -213,7 +213,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [aruba Cloud](https://www.cloud.it)           | [STARTER](https://www.cloud.it/vps.aspx) (€ 2.49/m)                         | No                 | No                    |                  |
 | [FirstVDS][firstvds-ref]                      | Прогрев (2.5 \$/m)                                                          | No                 | No                    |                  |
 | [LandVPS](https://landvps.ru)                 | [UFA-1](https://landvps.ru/vps) (2.5 \$/m)                                  | No                 | No                    |                  |
-| [Vultr][vultr-ref]                            | Skylake 10GB (2.5 \$/m)                                                     | 60-day             | 100$ credit           |                  |
+| [Vultr][vultr-ref]                            | Skylake 10GB (2.5 \$/m)                                                     | $300 credit        | No                    |                  |
 | [RuVDS][ruvds-ref]                            | Start->Start (2.6 \$/m)                                                     | 3-day              | No                    |                  |
 | [HostSailor](https://hostsailor.com)          | [Mini sailor](https://hostsailor.com/vps-hosting/kvm-vps) (3 \$/m)          | No                 | No                    |                  |
 | [InterServer](https://www.interserver.net)    | [1 Slice](https://www.interserver.net/vps) (3 \$/m)                         | No                 | No                    |                  |
