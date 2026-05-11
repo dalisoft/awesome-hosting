@@ -67,7 +67,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 
 | Name                                                                     | Minimal plan                                                           | Trial      | Free                                               | Open Source | Type    | Lambda |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------- | -------------------------------------------------- | ----------- | ------- | ------ |
-| [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m)       | No         | Yes                                                |             | Lambda  | Yes    |
+| [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pro](https://workers.cloudflare.com/plans) (5 \$/m)  | No          | Yes               |             | Lambda  | Yes    |
 | [DigitalOcean Platform][do-ref]                                          | [Pay-as-you-Go][do-ref] (5 \$/m)                                       | 60-day     | Yes                                                |             | Static  | No     |
 | [PocketHost](https://pockethost.io)                                      | [Starter](https://pockethost.io/pricing) (5 \$/m)                      | No         | Yes                                                |             | Dynamic |        |
 | [litegix](https://litegix.com) ⚠️                                        | [Hobby](https://litegix.com/pricing) (5 \$/m)                          | No         | Up-to 5 apps?                                      |             | ?       | ?      |
