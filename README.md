@@ -259,7 +259,7 @@ List of all managed databases <sup>[1](#status)</sup>
 
 | Name                                                            | Type                   | Minimal plan                                                                                     | Trial  | Free             | Open Source |
 | --------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ | ------ | ---------------- | ----------- |
-| [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€3/m)                                                       | No     | 10Mb Storage     |             |
+| [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€ 3/m)                                                      | No          | 10Mb Storage     |             |
 | [freedb.tech](https://freedb.tech)                              | MySQL                  | [PRO](https://freedb.tech) (5 \$/m)                                                              | No     | Yes              |             |
 | [Railway](https://railway.app)                                  | Any                    | [Usage](https://railway.app/pricing) (5 \$/m)                                                    | No     |                  |             |
 | [neon](https://neon.tech)                                       | PostgreSQL             | [Launch](https://neon.tech/pricing) (5 \$/m)                                                     | No     | Yes              |             |
