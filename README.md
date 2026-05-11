@@ -233,6 +233,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Serverspace](https://serverspace.io)         | [vStack](https://serverspace.io/pricing) (€ 4.63/m)                         | No                 | No                    |                  |
 | [aeza][aeza-ref]                              | [Shared ALBs-1](https://aeza.net/virtual-servers) (€ 4.94/m)                |                    |                       |                  |
 | [alwaysdata](https://www.alwaysdata.com/en)   | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                        | No                 | Yes                   |                  |
+| [Akamai Cloud][linode-ref] ✅                 | [Nanode 1GB][linode-ref] (5 \$/m)                                           | $100 credit        | No                    |                  |
 | [Linode][linode-ref] ✅                       | [Nanode 1GB][linode-ref] (5 \$/m)                                           | 60-day             | $100 credit           |                  |
 | [Rackgenius](https://rackgenius.com)          | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)                    | No                 | No                    |                  |
 | [SSD Nodes](https://www.ssdnodes.com) ⛔️      | [KVM / Small](https://www.ssdnodes.com/pricing) (5 \$/m)                    | 14-day refund only | No                    |                  |
