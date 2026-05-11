@@ -381,8 +381,8 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- |
 | **[nahcrof](https://ai.nahcrof.com)** ✅                    | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)              | -           |      |
 | [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               | -           |      |
+| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | -           |      |
 | [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (0.55/2.19 \$/1M token)                 | $5 credit   |      |
-| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | $1 credit   |      |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                   | -           |      |
 | [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         | -           |      |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)        | $10 credit  |      |
