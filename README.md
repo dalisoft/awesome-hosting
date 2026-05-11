@@ -371,6 +371,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr            |
 | [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day        |
 | [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= **90,000** req / month |
+| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                    | -           | Yes  |
 
 #### Tokens
 
@@ -384,7 +385,6 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | $1 credit   |      |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                   | -           |      |
 | [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         | -           |      |
-| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (1.00/3.00 \$/1M token)                    | -           | Yes  |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)        | $10 credit  |      |
 | [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                | $1 credit   |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      | -           |      |
