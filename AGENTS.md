@@ -24,6 +24,7 @@ REF1: [README](./README.md)
   - Like how DigitalOcean gives 60-day trial or 14-day trials for other providers
   - Example values: `1-Month` if 1-month free, `$50` credit if provider gives credit on sign-up
   - Do not include `free`, `trial` suffixes to help compact table
+  - Only include consumer/self-serve sign-up credits. Do not include enterprise, startup, application-only, sales-assisted, or high-value non-consumer credits
 - Free: Free plan name (if exists)
 - Open Source: Is provider gives discount or free plan to OSS/FOSS projects
 
@@ -40,6 +41,15 @@ REF1: [README](./README.md)
   - Example with USD: (5 \$/m)
   - Example with EUR: (€ 5/m)
 - Entries are sorted by **Price** then by **Name**
+
+## Per-section providers
+
+### LLM/Inference API
+
+- Model price is for DeepSeek R1-0528 where available
+- If DeepSeek R1-0528 is unavailable, use closest DeepSeek R1 model or leave pricing link without forced model price
+- Model price schema: `[Pricing](https://groq.com/pricing) (INPUT/OUTPUT \$/1M token)`
+- Model price example: `[Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)`
 
 ## Examples
 
@@ -107,6 +117,12 @@ When new entry alphabetically ordered as pricing is same.
  | [BetaHost](https://betahost.io)               | [Pricing](https://betahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
 ```
 
+## Git
+
+### Commits
+
+- Each entry update is one commit. Never mix two or more updates in single commit
+
 ## PR
 
 Create a branch then push to remote is mandatory. Create PR with following guidelines, if possible.
@@ -127,10 +143,17 @@ For example:
 Use semantic versioning like titles.
 For example:
 
-- docs(vps): add megahost.kz
-- docs(vps): update megahost.kz pricing
-- docs: weekly entries update, 26 April 2026
-- docs(gpu): remove someprovider.xyz
+Add, remove or modify existing entry:
+
+- docs(vps): add `megahost.kz`
+- docs(vps): update `megahost.kz` pricing
+- docs(gpu): remove `someprovider.xyz`
+
+Bulk updates (only for PR title):
+
+- docs: **weekly** entries update, 26 April 2026
+
+And commits keep per-entry for PR for easier track, debug, fix and diff.
 
 ### PR content
 
