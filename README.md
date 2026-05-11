@@ -218,7 +218,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [HostSailor](https://hostsailor.com)          | [Mini sailor](https://hostsailor.com/vps-hosting/kvm-vps) (3 \$/m)          | No                 | No                    |                  |
 | [InterServer](https://www.interserver.net)    | [1 Slice](https://www.interserver.net/vps) (3 \$/m)                         | No                 | No                    |                  |
 | [UpCloud][upcloud-ref] ✅                     | Developer (€ 3/m)                                                           | -                  | $25 credit            |                  |
-| [Waicore][waicore-ref]                        | Germany EP1 (3 €/m)                                                         | No                 | No                    |                  |
+| [Waicore][waicore-ref]                        | Germany EP1 (€ 3/m)                                                         | No                 | No                    |                  |
 | [ihc][ihc-ref]                                | ssdVPS:1 (3.23 \$/m)                                                        | 3-day              | No                    |                  |
 | [TimeWeb Cloud](https://cloud.timeweb.com) ❌ | Danny (3.25 \$/m)                                                           | No                 | No                    |                  |
 | [netcup](https://www.netcup.com)              | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (3.35 €/m)             | No                 | No                    |                  |
