@@ -340,7 +340,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Render Network](https://rendernetwork.com)                 | [Pricing](https://rendernetwork.com/pricing) (€ 1/m)                   |            |      |             |
 | [ShaktiCloud](https://shakticloud.ai)                       | [Spark](https://shakticloud.ai/pricing.html) (1.52 \$/h)               | No         |      |             |
 | [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices) (2 \$/h)                          | No         |      |             |
-| [DigitalOcean][do-ref] ⚠️                                   | [Pricing][do-ref] (2.5 \$/h)                                           | 60-day     |      |             |
+| [DigitalOcean][do-ref] ⚠️                                   | [Pricing][do-ref] (2.5 \$/h)                                           | $200 credit |      |             |
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/products/dedicated-endpoints) (2.9 \$/h) | $5 credit  |      |             |
 | [GMICloud](https://www.gmicloud.ai)                         | [Pricing](https://www.gmicloud.ai/pricing)                             |            |      |             |
 | [Cerebrium](https://cerebrium.ai)                           | [Pricing](https://cerebrium.ai/pricing)                                |            |      |             |
