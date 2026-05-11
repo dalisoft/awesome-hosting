@@ -224,7 +224,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [netcup](https://www.netcup.com)              | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (€ 3.35/m)             | No                 | No                    |                  |
 | [Scaleway](https://www.scaleway.com)          | [Stardust1-s](https://www.scaleway.com/en/pricing) (€ 3.35/m)               | No                 | No                    |                  |
 | [LightSail](https://aws.amazon.com/lightsail) | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)            | 3-Month            | No                    | Unlimited cloud? |
-| [DigitalOcean][do-ref]                        | Standard 512MiB (4 \$/m)                                                    | 60-day             | 200\$ credit          |                  |
+| [DigitalOcean][do-ref]                        | Standard 512MiB (4 \$/m)                                                    | $200 credit        | No                    |                  |
 | [Hetzner](https://www.hetzner.com) ⛔️         | [See plans](https://www.hetzner.com/cloud) (4 €/m)                          | No                 | No                    |                  |
 | [Kamatera](https://www.kamatera.com) ⛔️       | Simple (4 \$/m)                                                             | 30-day             |                       |                  |
 | [VPSServer](https://www.vpsserver.com)        | [Starter](https://www.vpsserver.com/plans) (4 \$/m)                         | 30-day             | $100 credit           |                  |
