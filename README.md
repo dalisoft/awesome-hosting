@@ -125,7 +125,7 @@ List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
 | [Serverless Cloud](https://www.serverless.com/cloud)                 | [Pay-as-you-Go](https://www.serverless.com/pricing) (4 \$/m)                                         | No     |                        |             |
 | [Cloudflare Workers](https://workers.cloudflare.com)                 | [Pay-as-you-Go](https://workers.cloudflare.com) (5 \$/m)                                             | No     | 1M request / month     |             |
 | [Sherpa](https://www.sherpa.sh)                                      | [Hobby](https://www.sherpa.sh/pricing) (13.99 \$/m)                                                  | No     | Yes                    |             |
-| [Netlify Functions](https://www.netlify.com/platform/core/functions) | [Pro](https://www.netlify.com/pricing) (19 \$/user/m)                                                | No     | 125K request / month   | Yes         |
+| [Netlify Functions](https://www.netlify.com/platform/core/functions) | [Personal](https://www.netlify.com/pricing) (9 \$/m)                                                 | No          | 125K request / month   | Yes         |
 | [Deno Deploy](https://deno.com/deploy)                               | [Pro](https://deno.com/deploy/pricing) (20 \$/m)                                                     | No     | 1M requests / month    |             |
 | [Vercel Edge](https://vercel.com/features/edge-functions)            | [Pro](https://vercel.com/pricing) (20 \$/m)                                                          | No     | 1M invocations / month |             |
 
