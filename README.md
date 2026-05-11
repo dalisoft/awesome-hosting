@@ -49,7 +49,6 @@ List of all Web services platform <sup>[1](#status)</sup>
 | Name                                                                 | Minimal plan                                                     | Trial       | Free                      | Open Source | Type | Lambda |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | ------------------------- | ----------- | ---- | ------ |
 | [Cloudflare Workers](https://workers.cloudflare.com/product/workers) | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m) | No          | Yes                       |             | All  | Yes    |
-| [Flightcontrol](https://www.flightcontrol.dev)                       | [Starter](https://www.flightcontrol.dev/pricing) (97 \$/m)       | 14-day      | Yes                       |             | All  | No     |
 | [Alibaba Cloud][alibaba-cloud-ref]                                   | [Pay-as-you-Go][alibaba-cloud-ref]                               | $50 credit  | 70M tokens, $200 credit   |             | All  | Yes    |
 | [Amazon Web Services](https://aws.amazon.com)                        | [See plans](https://aws.amazon.com/pricing)                      | $200 credit | 30+ services              |             | All  | Yes    |
 | [Azure Web Services](https://azure.microsoft.com/en-us)              | [See plans](https://azure.microsoft.com/en-us/pricing)           | $200 credit | 55+ services              |             | All  | Yes    |
@@ -379,10 +378,9 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | Name                                                        | Minimal plan                                                                   | Trial       | Free |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- |
 | [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                    | -           | Yes  |
-| [OpenRouter](https://openrouter.ai)                         | [Pricing](https://openrouter.ai/models) (0.45/2.15 \$/1M token)                | -           |      |
 | **[nahcrof](https://ai.nahcrof.com)** ✅                    | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)              | -           |      |
 | [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               | -           |      |
-| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | $1 credit   |      |
+| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | -           |      |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                   | -           |      |
 | [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         | -           |      |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)        | $10 credit  |      |
