@@ -118,7 +118,7 @@ List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
 
 | Name                                                                 | Minimal plan                                                                                         | Trial  | Free                   | Open Source |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------ | ---------------------- | ----------- |
-| [DigitalOcean Functions][do-ref]                                     | [Pay-as-you-Go][do-ref]                                                                              | 60-day | Yes                    |             |
+| [DigitalOcean Functions][do-ref]                                     | [Pay-as-you-Go][do-ref]                                                                              | $200 credit | Yes                    |             |
 | [Azure Functions](https://azure.microsoft.com/products/functions)    | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No     | 1M invocations / month |             |
 | [AWS Lambda](https://aws.amazon.com/lambda)                          | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing) (0.2 \$/m req)                                | No     | 100K request / day     |             |
 | [Google Functions](https://cloud.google.com/functions)               | [Pay-as-you-Go](https://cloud.google.com/functions/pricing) (0.4 \$/m req)                           | No     | 2M invocations / month |             |
