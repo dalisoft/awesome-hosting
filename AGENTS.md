@@ -24,6 +24,7 @@ REF1: [README](./README.md)
   - Like how DigitalOcean gives 60-day trial or 14-day trials for other providers
   - Example values: `1-Month` if 1-month free, `$50` credit if provider gives credit on sign-up
   - Do not include `free`, `trial` suffixes to help compact table
+  - Only include consumer/self-serve sign-up credits. Do not include enterprise, startup, application-only, sales-assisted, or high-value non-consumer credits
 - Free: Free plan name (if exists)
 - Open Source: Is provider gives discount or free plan to OSS/FOSS projects
 
@@ -37,7 +38,26 @@ REF1: [README](./README.md)
 - As **Minimum plan** should be shown one step higher than **Free plan** price (if free plan exists) or **Lowest paid plan**
 - Allowed currencies are: USD ($) and EUR (€) with their corresponding sign.
   - Any other values should be converted to USD ($) at value of published date.
-- Entries are sorted by **Price** then by **Name**
+  - For sorting, compare prices by normalized USD value, not by the printed number.
+  - When a row uses EUR (€), fetch the current EUR-to-USD exchange rate and use the converted USD value only for ordering.
+  - If two rows show the same numeric price but different currencies, do not treat them as equal; for example, `5 \$/m` sorts before `€ 5/m` when EUR is worth more than USD.
+  - Example with USD: (5 \$/m)
+  - Example with EUR: (€ 5/m)
+- Entries are sorted by normalized **Price** then by **Name**
+- Before finalizing an entry change, check adjacent rows in the affected category for currency-conversion ordering errors.
+
+## Per-section providers
+
+### LLM/Inference API
+
+- Model price is for `gpt-oss-120b` where available
+- Token pricing reference models should be released after 01 August 2025
+- If `gpt-oss-120b` is unavailable, use the closest `gpt-oss` model or leave pricing link without forced model price
+- Before changing the token reference model or calling a model universal, extract every provider from `README.md` `LLM/Inference API` -> `Tokens` and verify the model provider-by-provider.
+- Universal model verification must include all current Tokens providers by name, with evidence/status for each provider; do not skip entries such as `together.ai`, providers with reference-style links, or rows without explicit pricing.
+- If any Tokens provider cannot be verified for the exact model, do not call the model universal; document the missing provider(s) and keep the fallback rule.
+- Model price schema: `[Pricing](https://groq.com/pricing) (INPUT/OUTPUT \$/1M token)`
+- Model price example: `[Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)`
 
 ## Examples
 
@@ -105,10 +125,17 @@ When new entry alphabetically ordered as pricing is same.
  | [BetaHost](https://betahost.io)               | [Pricing](https://betahost.io/?tab=vps) (6 \$/m)                            | No                 | No                    |                  |
 ```
 
+## Git
+
+### Commits
+
+- Each entry update is one commit. Never mix two or more updates in single commit
+
 ## PR
 
 Create a branch then push to remote is mandatory. Create PR with following guidelines, if possible.
 Always ask user with tool (Codex: `request_user_input` or similar tool; Claude: `AskUserQuestion`; others use similar tool), with `YES` and `NO` options to push to remote after finalizing the changes and verified.
+- When updating a branch that already has an active, unmerged PR, update the PR title/body to include the latest branch changes before finalizing.
 
 ### PR Branch
 
@@ -125,10 +152,17 @@ For example:
 Use semantic versioning like titles.
 For example:
 
-- docs(vps): add megahost.kz
-- docs(vps): update megahost.kz pricing
-- docs: weekly entries update, 26 April 2026
-- docs(gpu): remove someprovider.xyz
+Add, remove or modify existing entry:
+
+- docs(vps): add `megahost.kz`
+- docs(vps): update `megahost.kz` pricing
+- docs(gpu): remove `someprovider.xyz`
+
+Bulk updates (only for PR title):
+
+- docs: **weekly** entries update, 26 April 2026
+
+And commits keep per-entry for PR for easier track, debug, fix and diff.
 
 ### PR content
 
