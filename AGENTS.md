@@ -50,8 +50,9 @@ REF1: [README](./README.md)
 
 ### LLM/Inference API
 
-- Model price is for DeepSeek R1-0528 where available
-- If DeepSeek R1-0528 is unavailable, use closest DeepSeek R1 model or leave pricing link without forced model price
+- Model price is for `gpt-oss-120b` where available
+- Token pricing reference models should be released after 01 August 2025
+- If `gpt-oss-120b` is unavailable, use the closest `gpt-oss` model or leave pricing link without forced model price
 - Model price schema: `[Pricing](https://groq.com/pricing) (INPUT/OUTPUT \$/1M token)`
 - Model price example: `[Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)`
 
