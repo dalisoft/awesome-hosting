@@ -38,9 +38,13 @@ REF1: [README](./README.md)
 - As **Minimum plan** should be shown one step higher than **Free plan** price (if free plan exists) or **Lowest paid plan**
 - Allowed currencies are: USD ($) and EUR (€) with their corresponding sign.
   - Any other values should be converted to USD ($) at value of published date.
+  - For sorting, compare prices by normalized USD value, not by the printed number.
+  - When a row uses EUR (€), fetch the current EUR-to-USD exchange rate and use the converted USD value only for ordering.
+  - If two rows show the same numeric price but different currencies, do not treat them as equal; for example, `5 \$/m` sorts before `€ 5/m` when EUR is worth more than USD.
   - Example with USD: (5 \$/m)
   - Example with EUR: (€ 5/m)
-- Entries are sorted by **Price** then by **Name**
+- Entries are sorted by normalized **Price** then by **Name**
+- Before finalizing an entry change, check adjacent rows in the affected category for currency-conversion ordering errors.
 
 ## Per-section providers
 
@@ -127,6 +131,7 @@ When new entry alphabetically ordered as pricing is same.
 
 Create a branch then push to remote is mandatory. Create PR with following guidelines, if possible.
 Always ask user with tool (Codex: `request_user_input` or similar tool; Claude: `AskUserQuestion`; others use similar tool), with `YES` and `NO` options to push to remote after finalizing the changes and verified.
+- When updating a branch that already has an active, unmerged PR, update the PR title/body to include the latest branch changes before finalizing.
 
 ### PR Branch
 
