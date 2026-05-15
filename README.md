@@ -375,25 +375,26 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 > Minimal plan and/or price is referred for price per million token (input/output) for DeepSeek R1-0528 (or similar) models
 
-| Name                                                        | Minimal plan                                                                   | Trial       | Free |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---- |
-| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                    | -           | Yes  |
-| **[nahcrof](https://ai.nahcrof.com)** ✅                    | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)              | -           |      |
-| [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)               | -           |      |
-| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token) | -           |      |
-| [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                   | -           |      |
-| [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)         | -           |      |
-| [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)        | $10 credit  |      |
-| [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                | $1 credit   |      |
-| [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)      | -           |      |
-| [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (2.55/5.95 \$/1M token)              | $1 credit   |      |
-| [Hyperbolic](https://hyperbolic.ai)                         | Tokens (3.00 \$/1M token)                                                      | $1 credit   |      |
-| [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (3.00/7.00 \$/1M token)                 | $5 credit   |      |
-| [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)               | -           |      |
-| [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                 | 200K tokens | Yes  |
-| [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)          | $5 credit   |      |
-| [NagaAI][naga-ai-ref]                                       | [Pricing][naga-ai-ref]                                                         | -           |      |
-| [Requesty][requesty-ai-ref]                                 | [Pricing][requesty-ai-ref]                                                     | $6 credit   |      |
+| Name                                                        | Minimal plan                                                                       | Trial       | Free |
+|-------------------------------------------------------------| ---------------------------------------------------------------------------------- | ----------- | ---- |
+| [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                        | -           | Yes  |
+| **[nahcrof](https://ai.nahcrof.com)** ✅                     | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)                  | -           |      |
+| [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)                   | -           |      |
+| [OpenRouter](https://openrouter.ai)                         | [Pricing](https://openrouter.ai/deepseek/deepseek-r1-0528) (0.50/2.15 \$/1M token) | -           |      |
+| [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token)     | -           |      |
+| [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/pricing) (0.70/2.50 \$/1M token)                       | -           |      |
+| [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices-ai-studio) (0.80/2.40 \$/1M token)             | -           |      |
+| [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (1.00/4.50 \$/1M token)            | $10 credit  |      |
+| [Fireworks.ai](https://fireworks.ai)                        | [Pricing](https://fireworks.ai/pricing) (1.35/5.40 \$/1M token)                    | $1 credit   |      |
+| [AWS Bedrock](https://aws.amazon.com/bedrock)               | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.35/5.40 \$/1M token)          | -           |      |
+| [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (2.55/5.95 \$/1M token)                  | $1 credit   |      |
+| [Hyperbolic](https://hyperbolic.ai)                         | Tokens (3.00 \$/1M token)                                                          | $1 credit   |      |
+| [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (3.00/7.00 \$/1M token)                     | $5 credit   |      |
+| [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)                   | -           |      |
+| [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                     | 200K tokens | Yes  |
+| [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)              | $5 credit   |      |
+| [NagaAI][naga-ai-ref]                                       | [Pricing][naga-ai-ref]                                                             | -           |      |
+| [Requesty][requesty-ai-ref]                                 | [Pricing][requesty-ai-ref]                                                         | $6 credit   |      |
 
 ---
 
