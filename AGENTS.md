@@ -53,6 +53,9 @@ REF1: [README](./README.md)
 - Model price is for `gpt-oss-120b` where available
 - Token pricing reference models should be released after 01 August 2025
 - If `gpt-oss-120b` is unavailable, use the closest `gpt-oss` model or leave pricing link without forced model price
+- Before changing the token reference model or calling a model universal, extract every provider from `README.md` `LLM/Inference API` -> `Tokens` and verify the model provider-by-provider.
+- Universal model verification must include all current Tokens providers by name, with evidence/status for each provider; do not skip entries such as `together.ai`, providers with reference-style links, or rows without explicit pricing.
+- If any Tokens provider cannot be verified for the exact model, do not call the model universal; document the missing provider(s) and keep the fallback rule.
 - Model price schema: `[Pricing](https://groq.com/pricing) (INPUT/OUTPUT \$/1M token)`
 - Model price example: `[Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)`
 
