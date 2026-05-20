@@ -135,6 +135,7 @@ When new entry alphabetically ordered as pricing is same.
 
 Create a branch then push to remote is mandatory. Create PR with following guidelines, if possible.
 Always ask user with tool (Codex: `request_user_input` or similar tool; Claude: `AskUserQuestion`; others use similar tool), with `YES` and `NO` options to push to remote after finalizing the changes and verified.
+
 - When updating a branch that already has an active, unmerged PR, update the PR title/body to include the latest branch changes before finalizing.
 - Do not stop after editing and verifying `README.md`. Before final response, commit the finalized changes, push the branch or verify it is already even with remote, update the active PR title/body with the exact latest changed entries, and verify the PR after editing it.
 - If no new commit or push is needed because the branch is already clean/even with remote, explicitly verify that state with git commands before finalizing.
