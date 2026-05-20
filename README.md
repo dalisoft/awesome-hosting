@@ -397,6 +397,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
 | [NagaAI][naga-ai-ref]                         | [Pricing](https://naga.ac/pricing)                                            | -           |      |
+| [OrcaRouter](https://orcarouter.ai)           | [Pricing](https://orcarouter.ai/pricing)                                      | $5 credit   |      |
 | **[nahcrof](https://ai.nahcrof.com)** ✅      | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
