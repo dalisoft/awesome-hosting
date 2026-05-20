@@ -353,32 +353,32 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 #### Subscription
 
-| Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
-| --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
-| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
-| **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day             |
-| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
-| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
-| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
-| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models          |
-| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
-| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                    |
-| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                           |
-| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr      |
-| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -            | <= 100 prompts / 5-hr     |
-| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | Free plan    | <= 500 prompts / 5-hr     |
-| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr            |
-| [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day        |
-| [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= **90,000** req / month |
+| Name                                                      | Minimal plan                                                  | Trial        | Usage                 |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------- |
+| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day         |
+| **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day         |
+| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                       |
+| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -            | =< 100 prompts / 5-hr |
+| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | $60 usage             |
+| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models      |
+| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -            | =< 120 prompts / 5-hr |
+| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                |
+| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                       |
+| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr  |
+| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -            | <= 100 prompts / 5-hr |
+| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | Free plan    | <= 100 prompts / 5-hr |
+| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr        |
+| [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day    |
+| [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= 90,000 req / month |
 
 #### Tokens
 
 > Minimal plan and/or price is referred for price per million token (input/output) for DeepSeek R1-0528 (or similar) models
 
 | Name                                                        | Minimal plan                                                                       | Trial       | Free |
-|-------------------------------------------------------------| ---------------------------------------------------------------------------------- | ----------- | ---- |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------- | ---- |
 | [Groq](https://groq.com)                                    | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                        | -           | Yes  |
-| **[nahcrof](https://ai.nahcrof.com)** ✅                     | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)                  | -           |      |
+| **[nahcrof](https://ai.nahcrof.com)** ✅                    | [Pricing](https://ai.nahcrof.com/pricing) (0.50/2.10 \$/1M token)                  | -           |      |
 | [Deepinfra](https://deepinfra.com)                          | [Pricing](https://deepinfra.com/pricing) (0.50/2.15 \$/1M token)                   | -           |      |
 | [OpenRouter](https://openrouter.ai)                         | [Pricing](https://openrouter.ai/deepseek/deepseek-r1-0528) (0.50/2.15 \$/1M token) | -           |      |
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/pricing/serverless-endpoints) (0.70 \$/1M token)     | -           |      |
@@ -391,7 +391,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Hyperbolic](https://hyperbolic.ai)                         | Tokens (3.00 \$/1M token)                                                          | $1 credit   |      |
 | [together.ai](https://together.ai)                          | [Pricing](https://together.ai/pricing) (3.00/7.00 \$/1M token)                     | $5 credit   |      |
 | [Replicate](https://replicate.com)                          | [Pricing](https://replicate.com/pricing) (3.75/10.0 \$/1M token)                   | -           |      |
-| [Cerebras](https://www.cerebras.ai)                         | Tokens (4.50/5.50 \$/1M token)                                                     | 200K tokens | Yes  |
+| [Cerebras](https://www.cerebras.ai) ⛔️                      | Tokens (4.50/5.50 \$/1M token)                                                     | 200K tokens | Yes  |
 | [SambaNova](https://sambanova.ai)                           | [Pricing](https://cloud.sambanova.ai/pricing) (5.00/7.00 \$/1M token)              | $5 credit   |      |
 | [NagaAI][naga-ai-ref]                                       | [Pricing][naga-ai-ref]                                                             | -           |      |
 | [Requesty][requesty-ai-ref]                                 | [Pricing][requesty-ai-ref]                                                         | $6 credit   |      |
