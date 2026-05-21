@@ -364,7 +364,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -               | 500 req / day         |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -               |                       |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -               | =< 100 prompts / 5-hr |
-| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount    | $60 usage             |
+| [OpenCode Go][opencode-ref]                               | 10 \$/m                                                       | 50% discount    | $60 usage             |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -               | up-to 15B models      |
 | [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -               | =< 120 prompts / 5-hr |
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus       | Tokens                |
@@ -459,6 +459,7 @@ MIT
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [naga-ai-ref]: https://naga.ac/join?ref=374-UXE
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
+[opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
 [racknerd-ref]: https://my.racknerd.com/aff.php?aff=12402
 [rdp-monster-ref]: https://rdp.monster/?ref=144
 [requesty-ai-ref]: https://app.requesty.ai/join?ref=02b543cf
