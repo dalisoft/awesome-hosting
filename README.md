@@ -365,6 +365,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -            | =< 100 prompts / 5-hr |
 | [OpenCode Go][opencode-ref]                               | 10 \$/m                                                       | 50% discount | $60 usage             |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models      |
+| [wafer](https://wafer.ai)                                 | [Lite](https://www.wafer.ai) (12 \$/m)                        | -            | 100 req / 5-hr        |
 | [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -            | =< 120 prompts / 5-hr |
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                |
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                       |
@@ -392,6 +393,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.15/0.60 \$/1M token)                | $5 credit   |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token) | -           |      |
 | [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)         | $5 credit   |      |
+| [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                       | -           |      |
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                           | No          |      |
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
