@@ -361,6 +361,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------- |
 | [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day         |
 | **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day         |
+| [Xiaomi Token Plan][xiaomi-ref]                           | [Lite][xiaomi-ref] (6 \$/m)                                   | 12% discount | 4B tokens             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                       |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -            | =< 100 prompts / 5-hr |
 | [OpenCode Go][opencode-ref]                               | 10 \$/m                                                       | 50% discount | $60 usage             |
@@ -471,4 +472,5 @@ MIT
 [vdsina-ref]: https://www.vdsina.com/?partner=8e5e1gf48t
 [vultr-ref]: https://www.vultr.com/?ref=9628836-8H
 [waicore-ref]: https://waicore.com/?from=3872
+[xiaomi-ref]: https://platform.xiaomimimo.com?ref=UZWW8Z
 [z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
