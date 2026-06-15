@@ -210,7 +210,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [IONOS](https://ionos.com)                    | [See plans](https://ionos.com/hosting/vps) (2 \$/m)                           | No                 | No                    |                  |
 | [VDSina][vdsina-ref]                          | Standard (2.1 \$/m)                                                           | No                 | No                    |                  |
 | [VScale](https://www.vscale.io)               | [See pricing](https://vscale.io/cloud/instances/order) (~2.15 \$/m)           | No                 |                       |                  |
-| [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (€ 2.09/m)                                |                    |                       |                  |
+| [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (€ 6.6/m)                                 |                    |                       |                  |
 | [FirstVDS][firstvds-ref]                      | Прогрев (2.5 \$/m)                                                            | No                 | No                    |                  |
 | [LandVPS](https://landvps.ru)                 | [UFA-1](https://landvps.ru/vps) (2.5 \$/m)                                    | No                 | No                    |                  |
 | [Vultr][vultr-ref]                            | Regular Performance (2.5 $/m)                                                 | $300 credit        | No                    |                  |
