@@ -326,7 +326,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [FluidStack](https://fluidstack.io)                         | [Pricing](https://fluidstack.io/pricing) (0.59 \$/h)                   | No          |      |             |
 | [MLGPU](https://mlgpu.ru)                                   | [Pricing](https://mlgpu.ru/#pricing) (0.63 \$/h)                       | 3-day       |      |             |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (0.65 \$/h)            | $10 credit  |      |             |
-| [Seimaxim](https://seimaxim.com)                            | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (480 \$/m)       | No          |      |             |
+| [Seimaxim](https://seimaxim.com)                            | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (400 \$/m)       | No          |      |             |
 | [beam](https://beam.cloud)                                  | [Pricing](https://www.beam.cloud/pricing) (0.68 \$/h)                  | No          |      |             |
 | [Cloud4U](https://cloud4u.com)                              | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)           | No          |      |             |
 | [CoreWeave](https://coreweave.com)                          | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/h)         | No          |      |             |
