@@ -213,7 +213,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (€ 2.09/m)                                |                    |                       |                  |
 | [FirstVDS][firstvds-ref]                      | Прогрев (2.5 \$/m)                                                            | No                 | No                    |                  |
 | [LandVPS](https://landvps.ru)                 | [UFA-1](https://landvps.ru/vps) (2.5 \$/m)                                    | No                 | No                    |                  |
-| [Vultr][vultr-ref]                            | Skylake 10GB (2.5 \$/m)                                                       | $300 credit        | No                    |                  |
+| [Vultr][vultr-ref]                            | Regular Performance (2.5 $/m)                                                 | $300 credit        | No                    |                  |
 | [RuVDS][ruvds-ref]                            | Start->Start (2.6 \$/m)                                                       | 3-day              | No                    |                  |
 | [U1-Host][u1-host-ref]                        | [DE-PROMO][u1-host-ref] (€ 2.31/m)                                            | No                 | No                    |                  |
 | [aruba Cloud](https://www.cloud.it)           | [STARTER](https://www.cloud.it/vps.aspx) (€ 2.49/m)                           | No                 | No                    |                  |
@@ -222,7 +222,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [ihc][ihc-ref]                                | ssdVPS:1 (3.23 \$/m)                                                          | 3-day              | No                    |                  |
 | [TimeWeb Cloud](https://cloud.timeweb.com) ❌ | Danny (3.25 \$/m)                                                             | No                 | No                    |                  |
 | [LightSail](https://aws.amazon.com/lightsail) | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)              | 3-Month            | No                    | Unlimited cloud? |
-| [UpCloud][upcloud-ref] ✅                     | Developer (€ 3/m)                                                             | -                  | $25 credit            |                  |
+| [UpCloud][upcloud-ref] ✅                     | Starter (€ 3/m)                                                               | -                  | $25 credit            |                  |
 | [Waicore][waicore-ref]                        | Germany EP1 (€ 3/m)                                                           | No                 | No                    |                  |
 | [netcup](https://www.netcup.com)              | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (€ 3.35/m)               | No                 | No                    |                  |
 | [Scaleway](https://www.scaleway.com)          | [Stardust1-s](https://www.scaleway.com/en/pricing) (€ 3.35/m)                 | No                 | No                    |                  |
@@ -236,7 +236,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Rackgenius](https://rackgenius.com)          | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)                      | No                 | No                    |                  |
 | [SSD Nodes](https://www.ssdnodes.com) ⛔️      | [KVM / Small](https://www.ssdnodes.com/pricing) (5 \$/m)                      | 14-day refund only | No                    |                  |
 | [RX-NAME](https://rx-name.net)                | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                                 | 14-day             |                       |                  |
-| [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (€ 4.5/m)                       | No                 | No                    |                  |
+| [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (€ 4.40/m)                      | No                 | No                    |                  |
 | [Serverspace](https://serverspace.io)         | [vStack](https://serverspace.io/pricing) (€ 4.63/m)                           | No                 | No                    |                  |
 | [aeza][aeza-ref]                              | [Shared ALBs-1](https://aeza.net/virtual-servers) (€ 4.94/m)                  |                    |                       |                  |
 | [alwaysdata](https://www.alwaysdata.com/en)   | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                          | No                 | Yes                   |                  |
@@ -420,7 +420,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
-| [Serverlist](https://serverlist.dev) ⚠️              | VPS  | -         |
+| [Serverlist](https://serverlist.dev)                 | VPS  | -         |
 
 ---
 
