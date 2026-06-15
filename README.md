@@ -205,7 +205,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [4VPS][4vps-ref]                              | [See pricing][4vps-ref] (1.5 \$/m)                                            | No                 | No                    |                  |
 | [AdminVPS][adminvps-ref]                      | [Lite](https://adminvps.ru/vps/vps_russia.php) (1.8 \$/m)                     | No                 | No                    |                  |
 | [CloudCone][cloudcone-ref]                    | [VPS Plan 1][cloudcone-ref] (1.8 \$/m)                                        | No                 | No                    |                  |
-| [RackNerd][racknerd-ref]                      | [See pricing](https://www.racknerd.com/kvm-vps) (1.92 \$/m)                   | No                 | No                    |                  |
+| [RackNerd][racknerd-ref]                      | [See pricing](https://www.racknerd.com/kvm-vps) (2.25 \$/m)                   | No                 | No                    |                  |
 | [BuyVM](https://buyvm.net)                    | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices) (2 \$/m)           | No                 | No                    |                  |
 | [IONOS](https://ionos.com)                    | [See plans](https://ionos.com/hosting/vps) (2 \$/m)                           | No                 | No                    |                  |
 | [VDSina][vdsina-ref]                          | Standard (2.1 \$/m)                                                           | No                 | No                    |                  |
