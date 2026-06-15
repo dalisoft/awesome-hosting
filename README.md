@@ -69,7 +69,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 
 | Name                                                                     | Minimal plan                                          | Trial       | Free              | Open Source | Type    | Lambda |
 | ------------------------------------------------------------------------ | ----------------------------------------------------- | ----------- | ----------------- | ----------- | ------- | ------ |
-| [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pro](https://workers.cloudflare.com/plans) (5 \$/m)  | No          | Yes               |             | Lambda  | Yes    |
+| [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pro](https://workers.cloudflare.com/plans) (20 \$/m) | No          | Yes               |             | Lambda  | Yes    |
 | [DigitalOcean Platform][do-ref]                                          | [Pay-as-you-Go][do-ref] (5 \$/m)                      | $200 credit | Yes               |             | Static  | No     |
 | [Heroku](https://www.heroku.com)                                         | [Eco](https://www.heroku.com/pricing) (5 \$/m)        | No          | No                |             | Dynamic | No     |
 | [PocketHost](https://pockethost.io)                                      | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No          | Yes               |             | Dynamic |        |
@@ -87,8 +87,8 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [Nhost](https://nhost.io)                                                | [Pro](https://nhost.io/pricing) (25 \$/m)             | No          | Yes               | Yes         | Dynamic | Yes    |
 | [back4apps](https://www.back4app.com)                                    | [MVP](https://www.back4app.com/pricing) (25 \$/m)     | No          | No                |             | Dynamic | -      |
 | [Koyeb](https://koyeb.com)                                               | [Pro](https://koyeb.com/pricing) (29 \$/m)            | No          | Yes               |             | Dynamic | No     |
-| [Bunker](https://getbunker.net)                                          | [Managed](https://getbunker.net/pricing) (€ 30/m)     | No          | Yes (1 project)   | Yes         | Dynamic | No     |
-| [directus](https://directus.io)                                          | [Professional](https://directus.io/pricing) (99 \$/m) | No          | Self-Hosted       | Yes         | Dynamic | No     |
+| [Bunker](https://getbunker.net)                                          | [Managed](https://getbunker.net/pricing) (€ 10/m)     | No          | Yes (1 project)   | Yes         | Dynamic | No     |
+| [directus](https://directus.io)                                          | [Core + Cloud](https://directus.io/pricing) (99 \$/m) | No          | Self-Hosted       | Yes         | Dynamic | No     |
 | [Firebase App Hosting](https://firebase.google.com/products/app-hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)  | No          | Yes               |             | Dynamic | No     |
 | [Northflank](https://northflank.com)                                     | [Pay-as-you-Go](https://northflank.com/pricing)       | No          | Developer Sandbox |             | Dynamic | No     |
 | [CapRover](https://caprover.com)                                         | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
@@ -110,7 +110,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | [Northflank](https://northflank.com)                                  | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)                     | No          | Developer Sandbox      |             |
 | [Cloudflare Containers](https://developers.cloudflare.com/containers) | [Pay-as-you-Go](https://developers.cloudflare.com/containers/pricing) (5 \$/m) | No          | No                     |             |
 | [DigitalOcean Platform][do-ref]                                       | [Pay-as-you-Go][do-ref] (5 \$/m)                                               | $200 credit | Yes                    |             |
-| [Rivet](https://rivet.dev)                                            | [Hobby](https://rivet.dev/pricing) (5 \$/m)                                    | No          | Yes                    |             |
+| [Rivet](https://rivet.dev)                                            | [Hobby](https://rivet.dev/cloud) (5 \$/m)                                      | No          | Yes                    |             |
 | [DeployBase](https://deploybase.io)                                   | [Starter](https://deploybase.io/pricing) (6 \$/m)                              | No          | No                     |             |
 | [Fly.io Machines](https://fly.io/docs/machines)                       | [Pay-as-you-Go](https://fly.io/pricing)                                        | No          | No                     |             |
 
@@ -146,7 +146,7 @@ List of all Node.js hosting platform <sup>[1](#status)</sup>
 | [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No     | No                       |             | All  | No     |
 | [Glitch](https://glitch.com) 🛑                     | [Pro](https://glitch.com/pricing) (8 \$/m)                           | No     | Open-source ideas        |             | All  | ?      |
 | [GearHost](https://www.gearhost.com)                | [Hobby](https://www.gearhost.com/pricing) (10 \$/m)                  | No     | Yes (1 App + 1 Database) |             | All  | No     |
-| [StormKit](https://www.stormkit.io)                 | [Starter](https://www.stormkit.io/#pricing) (20 \$/m)                | No     | Yes (1 App)              |             | All  | No     |
+| [StormKit](https://www.stormkit.io)                 | [Premium](https://www.stormkit.io/#pricing) (20 \$/m)                | No     | Yes (1 App)              |             | All  | No     |
 | [upsun](https://upsun.com)                          | [Professional](https://upsun.com/fixed-pricing)                      | ?      | No                       |             | All  | No     |
 | [OpenShift](https://www.openshift.com)              | [Pay-as-you-Go](https://www.openshift.com/products/pricing)          | 30-day | No                       |             | All  | No     |
 
@@ -172,7 +172,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [Vercel](https://vercel.com)                                     | [Pro](https://vercel.com/pricing) (20 \$/m)              | No          | Yes       | Increase resource | Static | Yes    |
 | [appwrite Sites](https://appwrite.io/products/sites)             | [Pro](https://appwrite.io/pricing) (25 \$/m)             | No          | Yes       | Yes               | Static | No     |
 | [Cloudflare Pages](https://pages.cloudflare.com)                 | [Pro](https://pages.cloudflare.com) (25 \$/m)            | No          | Yes       |                   | Static | No     |
-| [tinacms](https://tina.io)                                       | [Team](https://tina.io/pricing) (29 \$/user/m)           | No          | -         |                   | Static | No     |
+| [tinacms](https://tina.io)                                       | [Team](https://tina.io/pricing) (29 \$/m)                | No          | -         |                   | Static | No     |
 | [ZeroDeploy](https://zerodeploy.dev)                             | [Pro](https://zerodeploy.dev) (29 \$/m)                  | No          | Yes       |                   | Static | No     |
 | [Surge](https://surge.sh)                                        | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No          | Yes       |                   | Static | No     |
 | [AWS Amplify](https://aws.amazon.com/amplify)                    | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No          | Yes (5Gb) |                   | Static | ?      |
@@ -187,7 +187,7 @@ List of Wordpress hosting <sup>[1](#status)</sup>
 | Name                                | Minimal Plan                                          | Trial   | Free | Open Source |
 | ----------------------------------- | ----------------------------------------------------- | ------- | ---- | ----------- |
 | [EasyWP](https://www.easywp.com)    | [Starter](https://www.easywp.com/pricing) (9.88 \$/m) | 1-Month |      |             |
-| [Flywheel](https://getflywheel.com) | [Tiny](https://getflywheel.com/pricing) (15 \$/m)     | No      |      |             |
+| [Flywheel](https://getflywheel.com) | [Starter](https://getflywheel.com/pricing) (25 \$/m)  | No      |      |             |
 | [Zabhost](https://zabhost.com) ⚠️   | [Starter](https://zabhost.com/pricing) (20 \$/m)      | No      |      |             |
 | [WP Engine](https://wpengine.com)   | [Startup](https://wpengine.com/plans) (30 \$/m)       | No      |      |             |
 | [Kinsta](https://kinsta.com)        | [Single 20GB](https://kinsta.com/pricing) (35 \$/m)   | 1-Month |      |             |
@@ -205,26 +205,24 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [4VPS][4vps-ref]                              | [See pricing][4vps-ref] (1.5 \$/m)                                            | No                 | No                    |                  |
 | [AdminVPS][adminvps-ref]                      | [Lite](https://adminvps.ru/vps/vps_russia.php) (1.8 \$/m)                     | No                 | No                    |                  |
 | [CloudCone][cloudcone-ref]                    | [VPS Plan 1][cloudcone-ref] (1.8 \$/m)                                        | No                 | No                    |                  |
-| [RackNerd][racknerd-ref]                      | [See pricing](https://www.racknerd.com/kvm-vps) (1.92 \$/m)                   | No                 | No                    |                  |
 | [BuyVM](https://buyvm.net)                    | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices) (2 \$/m)           | No                 | No                    |                  |
 | [IONOS](https://ionos.com)                    | [See plans](https://ionos.com/hosting/vps) (2 \$/m)                           | No                 | No                    |                  |
 | [VDSina][vdsina-ref]                          | Standard (2.1 \$/m)                                                           | No                 | No                    |                  |
 | [VScale](https://www.vscale.io)               | [See pricing](https://vscale.io/cloud/instances/order) (~2.15 \$/m)           | No                 |                       |                  |
-| [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (€ 2.09/m)                                |                    |                       |                  |
+| [RackNerd][racknerd-ref]                      | [See pricing](https://www.racknerd.com/kvm-vps) (2.25 \$/m)                   | No                 | No                    |                  |
 | [FirstVDS][firstvds-ref]                      | Прогрев (2.5 \$/m)                                                            | No                 | No                    |                  |
 | [LandVPS](https://landvps.ru)                 | [UFA-1](https://landvps.ru/vps) (2.5 \$/m)                                    | No                 | No                    |                  |
 | [Vultr][vultr-ref]                            | Regular Performance (2.5 $/m)                                                 | $300 credit        | No                    |                  |
 | [RuVDS][ruvds-ref]                            | Start->Start (2.6 \$/m)                                                       | 3-day              | No                    |                  |
 | [U1-Host][u1-host-ref]                        | [DE-PROMO][u1-host-ref] (€ 2.31/m)                                            | No                 | No                    |                  |
 | [aruba Cloud](https://www.cloud.it)           | [STARTER](https://www.cloud.it/vps.aspx) (€ 2.49/m)                           | No                 | No                    |                  |
-| [HostSailor](https://hostsailor.com)          | [Mini sailor](https://hostsailor.com/vps-hosting/kvm-vps) (3 \$/m)            | No                 | No                    |                  |
+| [HostSailor](https://hostsailor.com)          | [Mini sailor](https://hostsailor.com/vps-hosting/kvm-vps) (2.99 \$/m)         | No                 | No                    |                  |
 | [InterServer](https://www.interserver.net)    | [1 Slice](https://www.interserver.net/vps) (3 \$/m)                           | No                 | No                    |                  |
 | [ihc][ihc-ref]                                | ssdVPS:1 (3.23 \$/m)                                                          | 3-day              | No                    |                  |
 | [TimeWeb Cloud](https://cloud.timeweb.com) ❌ | Danny (3.25 \$/m)                                                             | No                 | No                    |                  |
-| [LightSail](https://aws.amazon.com/lightsail) | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)              | 3-Month            | No                    | Unlimited cloud? |
-| [UpCloud][upcloud-ref] ✅                     | Starter (€ 3/m)                                                               | -                  | $25 credit            |                  |
 | [Waicore][waicore-ref]                        | Germany EP1 (€ 3/m)                                                           | No                 | No                    |                  |
-| [netcup](https://www.netcup.com)              | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (€ 3.35/m)               | No                 | No                    |                  |
+| [UpCloud][upcloud-ref] ✅                     | Starter (€ 3/m)                                                               | -                  | $25 credit            |                  |
+| [LightSail](https://aws.amazon.com/lightsail) | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)              | 3-Month            | No                    | Unlimited cloud? |
 | [Scaleway](https://www.scaleway.com)          | [Stardust1-s](https://www.scaleway.com/en/pricing) (€ 3.35/m)                 | No                 | No                    |                  |
 | [DigitalOcean][do-ref]                        | Standard 512MiB (4 \$/m)                                                      | $200 credit        | No                    |                  |
 | [Kamatera](https://www.kamatera.com) ⛔️       | Simple (4 \$/m)                                                               | 30-day             |                       |                  |
@@ -235,22 +233,24 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Akamai Cloud][linode-ref] ✅                 | [Nanode 1GB][linode-ref] (5 \$/m)                                             | $100 credit        | No                    |                  |
 | [Rackgenius](https://rackgenius.com)          | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)                      | No                 | No                    |                  |
 | [SSD Nodes](https://www.ssdnodes.com) ⛔️      | [KVM / Small](https://www.ssdnodes.com/pricing) (5 \$/m)                      | 14-day refund only | No                    |                  |
-| [RX-NAME](https://rx-name.net)                | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                                 | 14-day             |                       |                  |
 | [Contabo](https://contabo.com/en/vps)         | [See pricing](https://contabo.com/en/pricing) (€ 4.40/m)                      | No                 | No                    |                  |
+| [RX-NAME](https://rx-name.net)                | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                                 | 14-day             |                       |                  |
 | [Serverspace](https://serverspace.io)         | [vStack](https://serverspace.io/pricing) (€ 4.63/m)                           | No                 | No                    |                  |
 | [aeza][aeza-ref]                              | [Shared ALBs-1](https://aeza.net/virtual-servers) (€ 4.94/m)                  |                    |                       |                  |
 | [alwaysdata](https://www.alwaysdata.com/en)   | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                          | No                 | Yes                   |                  |
 | [AlfaHost](https://alfahost.io)               | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                              | No                 | No                    |                  |
 | [CloudTTK](https://cloud.ttk.ru)              | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)               | No                 | No                    |                  |
 | [Megahost](https://megahost.kz/vps)           | [SSD-mini](https://megahost.kz/vps) (6.5 \$/m)                                | No                 | No                    |                  |
+| [netcup](https://www.netcup.com)              | [VPS 500 G12](https://www.netcup.com/en/server/vps) (€ 5.91/m)                | No                 | No                    |                  |
 | [Adaptable](https://adaptable.io)             | Hobby (7 \$/m)                                                                | No                 | Public-repos only     |                  |
 | [Cloudzy](https://cloudzy.com)                | [Basic](https://cloudzy.com/pricing) (7.48 \$/m)                              | 14-day             | No                    |                  |
+| [beget](https://beget.com)                    | [Pricing](https://beget.com/en/vps) (€ 6.6/m)                                 |                    |                       |                  |
 | [Hostworld](https://hostworld.uk)             | [See pricing](https://hostworld.uk/ssd-vps) (9.58 \$/m)                       | No                 | No                    |                  |
+| [Hosting](https://hosting.com)                | [VPS XS](https://hosting.com/hosting/vps-hosting/unmanaged/linux) (9.99 \$/m) | No                 | No                    |                  |
 | [rdp.monster][rdp-monster-ref]                | [Basic](https://rdp.monster) (€ 9/m)                                          | No                 | No                    |                  |
+| [Hostinger](https://hostinger.com)            | [KVM 1](https://hostinger.com/vps-hosting) (11.99 \$/m)                       | No                 | No                    |                  |
 | [CloudSigma](https://cloudsigma.com)          | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                           | 7-day              | No                    |                  |
-| [Hostinger](https://hostinger.com)            | [KVM 1](https://hostinger.com/vps-hosting) (14 \$/m)                          | No                 | No                    |                  |
 | [DarkVPS](https://darkvps.pro)                | [See plans](https://darkvps.pro/#pricing) (€ 15/m)                            | No                 | No                    |                  |
-| [Hosting](https://hosting.com)                | [VPS XS](https://hosting.com/hosting/vps-hosting/unmanaged/linux) (20 \$/m)   | No                 | No                    |                  |
 | [ScalaHosting](https://www.scalahosting.com)  | [Build #1](https://www.scalahosting.com/linux-vps-hosting.html) (24.95 \$/m)  | No                 | No                    |                  |
 | [fly.io](https://fly.io)                      | [Launch](https://fly.io/plans) (29 \$/m)                                      | No                 | Yes (3 shared-cpu VM) |                  |
 
@@ -262,34 +262,34 @@ List of all managed databases <sup>[1](#status)</sup>
 
 | Name                                                            | Type                   | Minimal plan                                                                                     | Trial       | Free             | Open Source |
 | --------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ | ----------- | ---------------- | ----------- |
-| [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€ 3/m)                                                      | No          | 10Mb Storage     |             |
-| [alwaysdata](https://www.alwaysdata.com/en)                     | Any                    | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                                             | No          | Yes              |             |
-| [freedb.tech](https://freedb.tech)                              | MySQL                  | [PRO](https://freedb.tech) (5 \$/m)                                                              | No          | Yes              |             |
-| [neon](https://neon.tech)                                       | PostgreSQL             | [Launch](https://neon.tech/pricing) (5 \$/m)                                                     | No          | Yes              |             |
+| [freedb.tech](https://freedb.tech)                              | MySQL                  | [Persistent](https://freedb.tech) (3 \$/m)                                                       | No          | Yes              |             |
+| [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€ 3.99/m)                                                   | No          | 10Mb Storage     |             |
+| [Turso](https://turso.tech)                                     | SQLite                 | [Developer](https://turso.tech/pricing) (4.99 \$/m)                                              | No          | Yes              |             |
 | [PlanetScale](https://planetscale.com)                          | MySQL/PostgreSQL       | [PS-5](https://planetscale.com/pricing) (5 \$/m)                                                 | No          | No               |             |
 | [Railway](https://railway.app)                                  | Any                    | [Usage](https://railway.app/pricing) (5 \$/m)                                                    | No          |                  |             |
 | [Redis Cloud](https://redis.com/redis-enterprise-cloud)         | Redis                  | [Fixed](https://redis.com/redis-enterprise-cloud/pricing) (5 \$/m)                               | No          | 30Mb storage     |             |
-| [Turso](https://turso.tech)                                     | SQLite                 | [Developer](https://turso.tech/pricing) (5 \$/m)                                                 | No          | Yes              |             |
+| [alwaysdata](https://www.alwaysdata.com/en)                     | Any                    | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                                             | No          | Yes              |             |
 | [clever cloud](https://www.clever-cloud.com/postgresql-hosting) | Any                    | [XXS Small Space](https://www.clever-cloud.com/postgresql-hosting) (€ 5.25/m)                    | No          | 10-256Mb storage |             |
 | [Scalingo](https://scalingo.com/databases)                      | Any                    | [Starter 512M](https://scalingo.com/pricing) (€ 7.2/m)                                           | No          | Yes              |             |
-| [beget](https://beget.com)                                      | MySQL/PostgreSQL       | [Pricing](https://beget.com/en/cloud/dbaas-postgresql) (€ 8.65/m)                                | No          | No               |             |
 | [xata](https://xata.io)                                         | PostgreSQL             | [Pay-as-you-Go](https://xata.io/pricing) (9 \$/m)                                                | No          | No               |             |
 | [Aiven][aiven-ref]                                              | Any                    | Hobbyist (12 \$/m)                                                                               | Cloud       | `do-nyc` plans   |             |
+| [beget](https://beget.com)                                      | MySQL/PostgreSQL       | [Pricing](https://beget.com/en/cloud/dbaas-postgresql) (€ 12/m)                                  | No          | No               |             |
 | [DigitalOcean Database][do-ref]                                 | Any                    | [Pay-as-you-Go][do-ref] (15 \$/m)                                                                | $200 credit | No               |             |
-| [Vultr Database][vultr-ref]                                     | Any                    | [Pay-as-you-Go][vultr-ref] (15 \$/m)                                                             | $300 credit | No               |             |
 | [Nile](https://www.thenile.dev)                                 | PostgreSQL             | [Pro](https://www.thenile.dev/pricing) (15 \$/m)                                                 | No          | Yes              |             |
+| [Rivestack](https://rivestack.io)                               | PostgreSQL             | [Solo](https://rivestack.io/#pricing) (15 \$/m)                                                  | No          | 500Mb Storage    |             |
+| [Vultr Database][vultr-ref]                                     | Any                    | [Pay-as-you-Go][vultr-ref] (15 \$/m)                                                             | $300 credit | No               |             |
 | [Supabase Database](https://supabase.com/database)              | PostgreSQL             | [Pro](https://supabase.com/pricing) (25 \$/m)                                                    | No          | 500Mb storage    |             |
 | [Convex](https://convex.dev)                                    | ?                      | [Professional](https://convex.dev/plans) (25 \$/m)                                               | No          | Starter plan     |             |
 | [fly Postgres](https://fly.io/docs/postgres)                    | PostgreSQL             | [Launch](https://fly.io/plans) (29 \$/m)                                                         | No          |                  |             |
-| [Rivestack](https://rivestack.io)                               | PostgreSQL             | [Starter](https://rivestack.io/#pricing) (35 \$/m)                                               | No          | 500Mb Storage    |             |
+| [Koyeb Database](https://www.koyeb.com/docs/databases)          | PostgreSQL             | [Small](https://koyeb.com/pricing) (29.76 \$/m)                                                  | No          | 1Gb storage      |             |
 | [Atlas](https://www.mongodb.com/atlas/database)                 | MongoDB                | [Dedicated](https://www.mongodb.com/pricing) (57 \$/m)                                           | No          | Shared plan      |             |
-| [Koyeb Database](https://www.koyeb.com/docs/databases)          | PostgreSQL             | [Startup](https://koyeb.com/pricing) (79 \$/m)                                                   | No          | 1Gb storage      |             |
+| [neon](https://neon.tech)                                       | PostgreSQL             | [Launch](https://neon.tech/pricing) (usage-based)                                                | No          | Yes              |             |
 | [Upstash](https://upstash.com)                                  | Redis+Kafka            | Pay-as-you-Go                                                                                    | No          | 10K commands/day |             |
 | [TiDB Serverless](https://www.pingcap.com/tidb-serverless)      | MySQL                  | [Pay-as-you-Go](https://www.pingcap.com/tidb-serverless-pricing-details)                         | No          | 5GB & 50M req/m  |             |
 | [realm](https://realm.io)                                       | SQLite alternative     | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) | No          | 1M req or 500 hr |             |
 | [yugabyteDB](https://www.yugabyte.com)                          | PostgreSQL             | [Standard](https://www.yugabyte.com/pricing) (125 \$/m)                                          | No          | Self-hosted      |             |
 | [DBHub.io](https://dbhub.io)                                    | SQLite                 | Free                                                                                             | No          | Free tier        |             |
-| [CockroachDB](https://www.cockroachlabs.com)                    | PostgreSQL alternative | [Dedicated](https://www.cockroachlabs.com/pricing) (295 \$/m)                                    | 30-Day      | 1M req & 10 GiB  |             |
+| [CockroachDB](https://www.cockroachlabs.com)                    | PostgreSQL alternative | [Standard](https://www.cockroachlabs.com/pricing) (130 \$/m)                                     | 30-Day      | 1M req & 10 GiB  |             |
 | [PocketBase](https://pocketbase.io)                             | ?                      | Self-hosted                                                                                      | No          | Self-hosted      |             |
 
 ---
@@ -326,14 +326,14 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [FluidStack](https://fluidstack.io)                         | [Pricing](https://fluidstack.io/pricing) (0.59 \$/h)                   | No          |      |             |
 | [MLGPU](https://mlgpu.ru)                                   | [Pricing](https://mlgpu.ru/#pricing) (0.63 \$/h)                       | 3-day       |      |             |
 | [Parasail](https://www.saas.parasail.io/i/perskn6ipykbqr9w) | [Pricing](https://www.saas.parasail.io/pricing) (0.65 \$/h)            | $10 credit  |      |             |
-| [Seimaxim](https://seimaxim.com)                            | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (480 \$/m)       | No          |      |             |
+| [Seimaxim](https://seimaxim.com)                            | [Pricing](https://seimaxim.com/dedicated-servers/gpu) (400 \$/m)       | No          |      |             |
 | [beam](https://beam.cloud)                                  | [Pricing](https://www.beam.cloud/pricing) (0.68 \$/h)                  | No          |      |             |
 | [Cloud4U](https://cloud4u.com)                              | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)           | No          |      |             |
 | [CoreWeave](https://coreweave.com)                          | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/h)         | No          |      |             |
 | [Thunder Compute](https://thundercompute.com)               | [Pricing](https://thundercompute.com/pricing) (0.78 \$/h)              | No          |      |             |
 | [Northflank](https://northflank.com)                        | [L4](https://northflank.com/pricing) (0.8 \$/h)                        | No          |      |             |
 | [TitanGPU](https://titangpu.com)                            | [Pricing](https://titangpu.com/#pricing) (€ 0.69/h)                    | No          |      |             |
-| [LeaderGPU](https://leadergpu.com)                          | [Pricing](https://leadergpu.com/#chose-best) (€ 523.38/m)              | No          |      |             |
+| [LeaderGPU](https://leadergpu.com)                          | [Pricing](https://leadergpu.com/#chose-best) (€ 199/m)                 | No          |      |             |
 | [Baseten](https://www.baseten.co)                           | [Pricing](https://www.baseten.co/pricing) (0.84 \$/h)                  | $5 credit   |      |             |
 | [Verda](https://verda.com)                                  | [Pricing](https://verda.com/products) (0.91 \$/h)                      |             |      |             |
 | [Qoddi](https://qoddi.com)                                  | [GPU-XS](https://qoddi.com/pricing) (0.98 \$/h)                        | No          |      |             |
@@ -359,7 +359,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                 |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------- |
-| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day         |
+| [Chutes](https://chutes.ai)                               | [Plus](https://chutes.ai/pricing) (10 \$/m)                   | -            | 300 msg / day         |
 | **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day         |
 | [Xiaomi Token Plan][xiaomi-ref]                           | [Lite][xiaomi-ref] (6 \$/m)                                   | 12% discount | 4B tokens             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                       |
