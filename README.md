@@ -187,7 +187,7 @@ List of Wordpress hosting <sup>[1](#status)</sup>
 | Name                                | Minimal Plan                                          | Trial   | Free | Open Source |
 | ----------------------------------- | ----------------------------------------------------- | ------- | ---- | ----------- |
 | [EasyWP](https://www.easywp.com)    | [Starter](https://www.easywp.com/pricing) (9.88 \$/m) | 1-Month |      |             |
-| [Flywheel](https://getflywheel.com) | [Tiny](https://getflywheel.com/pricing) (15 \$/m)     | No      |      |             |
+| [Flywheel](https://getflywheel.com) | [Starter](https://getflywheel.com/pricing) (25 \$/m)  | No      |      |             |
 | [Zabhost](https://zabhost.com) ⚠️   | [Starter](https://zabhost.com/pricing) (20 \$/m)      | No      |      |             |
 | [WP Engine](https://wpengine.com)   | [Startup](https://wpengine.com/plans) (30 \$/m)       | No      |      |             |
 | [Kinsta](https://kinsta.com)        | [Single 20GB](https://kinsta.com/pricing) (35 \$/m)   | 1-Month |      |             |
