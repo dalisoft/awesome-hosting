@@ -289,7 +289,7 @@ List of all managed databases <sup>[1](#status)</sup>
 | [realm](https://realm.io)                                       | SQLite alternative     | [Pay-as-you-Go](https://www.mongodb.com/docs/atlas/app-services/billing/#std-label-billing-sync) | No          | 1M req or 500 hr |             |
 | [yugabyteDB](https://www.yugabyte.com)                          | PostgreSQL             | [Standard](https://www.yugabyte.com/pricing) (125 \$/m)                                          | No          | Self-hosted      |             |
 | [DBHub.io](https://dbhub.io)                                    | SQLite                 | Free                                                                                             | No          | Free tier        |             |
-| [CockroachDB](https://www.cockroachlabs.com)                    | PostgreSQL alternative | [Dedicated](https://www.cockroachlabs.com/pricing) (295 \$/m)                                    | 30-Day      | 1M req & 10 GiB  |             |
+| [CockroachDB](https://www.cockroachlabs.com)                    | PostgreSQL alternative | [Standard](https://www.cockroachlabs.com/pricing) (0.18 \$/h)                                    | 30-Day      | 50M RU & 10 GiB  |             |
 | [PocketBase](https://pocketbase.io)                             | ?                      | Self-hosted                                                                                      | No          | Self-hosted      |             |
 
 ---
