@@ -166,6 +166,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | $200 credit | Yes       |                   | Static | No     |
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No          | No        |                   | Static | No     |
 | [Qoddi](https://qoddi.com)                                       | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No          | 3 apps    |                   | Static | No     |
+| [Stacktree](https://stacktr.ee)                                  | [Pro](https://stacktr.ee/pricing) (8 \$/m)               | No          | Yes       |                   | Static | No     |
 | [Netlify](https://www.netlify.com)                               | [Personal](https://www.netlify.com/pricing) (9 \$/m)     | No          | Yes       | Yes               | Static | Yes    |
 | [Sherpa](https://www.sherpa.sh)                                  | [Hobby](https://www.sherpa.sh/pricing) (13.99 \$/m)      | No          | Yes       |                   | Static | Yes    |
 | [dAppling Network](https://dappling.network)                     | [Grow](https://www.dappling.network) (20 \$/user/m)      | No          | Yes       |                   | Static | No     |
