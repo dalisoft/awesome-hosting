@@ -50,7 +50,7 @@ List of all Web services platform <sup>[1](#status)</sup>
 
 | Name                                                                 | Minimal plan                                                     | Trial       | Free                      | Open Source | Type | Lambda |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | ------------------------- | ----------- | ---- | ------ |
-| [Cloudflare Workers](https://workers.cloudflare.com/product/workers) | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m) | No          | Yes                       |             | All  | Yes    |
+| [Cloudflare Workers](https://workers.cloudflare.com/product/workers) | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m) | No          | Yes  
 | [Alibaba Cloud][alibaba-cloud-ref]                                   | [Pay-as-you-Go][alibaba-cloud-ref]                               | $50 credit  | 70M tokens, $200 credit   |             | All  | Yes    |
 | [Amazon Web Services](https://aws.amazon.com)                        | [See plans](https://aws.amazon.com/pricing)                      | $200 credit | 30+ services              |             | All  | Yes    |
 | [Azure Web Services](https://azure.microsoft.com/en-us)              | [See plans](https://azure.microsoft.com/en-us/pricing)           | $200 credit | 55+ services              |             | All  | Yes    |
@@ -73,6 +73,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [DigitalOcean Platform][do-ref]                                          | [Pay-as-you-Go][do-ref] (5 \$/m)                      | $200 credit | Yes               |             | Static  | No     |
 | [Heroku](https://www.heroku.com)                                         | [Eco](https://www.heroku.com/pricing) (5 \$/m)        | No          | No                |             | Dynamic | No     |
 | [PocketHost](https://pockethost.io)                                      | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No          | Yes               |             | Dynamic |        |
+| [ApexWeave](https://apexweave.com) | [Plans](https://apexweave.com/compare) (4 \$/m) | Yes | Yes | | Dynamic | No |                     |             | All  | Yes    |
 | [litegix](https://litegix.com) ⚠️                                        | [Hobby](https://litegix.com/pricing) (5 \$/m)         | No          | Yes               |             | Dynamic | -      |
 | [Sevalla](https://sevalla.com)                                           | [Pricing](https://sevalla.com/pricing) (5 \$/m)       | $20 credit  | No                |             | Dynamic | No     |
 | [Shiper](https://shiper.app)                                             | [Builder](https://shiper.app/#pricing) (5 \$/m)       | $1          | Yes               |             | Dynamic | -      |
@@ -97,6 +98,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [Dokku](https://dokku.com)                                               | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
 | [Dokploy](https://dokploy.com)                                           | Your infrastructure                                   | -           | Self-Hosted       | Yes         | Dynamic | -      |
 | [PocketBase](https://pocketbase.io)                                      | Your infrastructure                                   | -           | Self-Hosted       |             | Dynamic | -      |
+
 
 ---
 
@@ -475,3 +477,4 @@ MIT
 [waicore-ref]: https://waicore.com/?from=3872
 [xiaomi-ref]: https://platform.xiaomimimo.com?ref=UZWW8Z
 [z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
+| [ApexWeave](https://apexweave.com) | [Plans](https://apexweave.com/compare) (4 \$/m) | Yes | Yes | | Dynamic | No |
