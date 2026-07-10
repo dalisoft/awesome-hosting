@@ -13,10 +13,15 @@ List of awesome hosting sorted by minimal plan price
 
 ## Sponsors
 
-Donations to project with credits on LLM/AI inferences or such bonuses from providers
+Donations to project with credits on LLM/AI inferences or such bonuses from providers.
 
-- [KiloCode](https://kilo.ai)
-- [nahcrof](https://ai.nahcrof.com)
+> There amount are not real money, it is credits within sponsor platform.
+
+| Name                                          | Status           | Amount |
+| --------------------------------------------- | ---------------- | ------ |
+| [KiloCode](https://kilo.ai)                   | Previous sponsor | $100+  |
+| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | $20+   |
+| [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | $100+  |
 
 ## Status
 
@@ -356,14 +361,30 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 
 List of LLM/AI inference API's <sup>[1](#status)</sup>
 
+#### Proxy services
+
+> The proxy services and providers are not guaranteed to being geninue nor legally. Please check your country and company legal terms before using these proxy services
+
+| Name                                         | Minimal plan                                  | Trial | Usage       |
+| -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
+| [Cavoti][proxy-cavoti-ref]                   | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
+| [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
+| [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
+| [ccapi][proxy-ccapi-ref]                     | [Pricing][proxy-cavoti-ref] (<= 93% off)      | -     | -           |
+| [CCode](https://www.ccode.dev)               | [Pricing](https://www.ccode.dev) (<= 88% off) | -     | -           |
+| [Packy][proxy-packy-ref]                     | [Pricing][proxy-packy-ref] (<= 71% off)       | -     | -           |
+| [Code0][proxy-code0-ref]                     | [Pricing][proxy-code0-ref] (<= 65% off)       | -     | -           |
+| [ClaudeAPI][proxy-claudeapi-ref]             | [Pricing][proxy-claudeapi-ref] (<= 20% off)   | -     | -           |
+| [B AI](https://b.ai)                         | [Pricing](https://b.ai) (<= unknown)          | -     | -           |
+| [VisionCoder](https://coder.visioncoder.cn)  | -                                             | -     | -           |
+
 #### Subscription
 
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                 |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------- |
-| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day         |
-| **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day         |
 | [Xiaomi Token Plan][xiaomi-ref]                           | [Lite][xiaomi-ref] (6 \$/m)                                   | 12% discount | 4B tokens             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                       |
+| [Chutes](https://chutes.ai)                               | [Plus](https://chutes.ai/pricing) (10 \$/m)                   | -            | 300 msg / day         |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -            | =< 100 prompts / 5-hr |
 | [OpenCode Go][opencode-ref]                               | 10 \$/m                                                       | 50% discount | $60 usage             |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models      |
@@ -402,7 +423,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
 | [NagaAI][naga-ai-ref]                         | [Pricing](https://naga.ac/pricing)                                            | -           |      |
 | [OrcaRouter](https://orcarouter.ai)           | [Pricing](https://orcarouter.ai/pricing)                                      | $5 credit   |      |
-| **[nahcrof](https://ai.nahcrof.com)** ✅      | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
+| [nahcrof](https://ai.nahcrof.com)             | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
 
@@ -461,6 +482,12 @@ MIT
 [naga-ai-ref]: https://naga.ac/join?ref=374-UXE
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
+[proxy-aerolink-ref]: https://aerolink.lat/register?ref=ITZKKUI
+[proxy-cavoti-ref]: https://cavoti.com/register?aff=K6XBNP53XWY9
+[proxy-ccapi-ref]: https://ccapi.us/register?aff=wnpz7zef
+[proxy-claudeapi-ref]: https://console.claudeapi.com/register?aff=Lnhb
+[proxy-code0-ref]: https://console.code0.ai/register?aff=WkDx
+[proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
 [racknerd-ref]: https://my.racknerd.com/aff.php?aff=12402
 [rdp-monster-ref]: https://rdp.monster/?ref=144
 [requesty-ai-ref]: https://app.requesty.ai/join?ref=02b543cf
