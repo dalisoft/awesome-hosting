@@ -76,9 +76,9 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | ------------------------------------------------------------------------ | ----------------------------------------------------- | ----------- | ----------------- | ----------- | ------- | ------ |
 | [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pro](https://workers.cloudflare.com/plans) (5 \$/m)  | No          | Yes               |             | Lambda  | Yes    |
 | [DigitalOcean Platform][do-ref]                                          | [Pay-as-you-Go][do-ref] (5 \$/m)                      | $200 credit | Yes               |             | Static  | No     |
+| [ApexWeave](https://apexweave.com)                                       | [Plans](https://apexweave.com/compare) (5 \$/m)       | Yes         | Yes               |             | Dynamic | No     |
 | [Heroku](https://www.heroku.com)                                         | [Eco](https://www.heroku.com/pricing) (5 \$/m)        | No          | No                |             | Dynamic | No     |
 | [PocketHost](https://pockethost.io)                                      | [Starter](https://pockethost.io/pricing) (5 \$/m)     | No          | Yes               |             | Dynamic |        |
-| [ApexWeave](https://apexweave.com)                                       | [Plans](https://apexweave.com/compare) (4 \$/m)       | Yes         | Yes               |             | Dynamic | No     |
 | [litegix](https://litegix.com) ⚠️                                        | [Hobby](https://litegix.com/pricing) (5 \$/m)         | No          | Yes               |             | Dynamic | -      |
 | [Sevalla](https://sevalla.com)                                           | [Pricing](https://sevalla.com/pricing) (5 \$/m)       | $20 credit  | No                |             | Dynamic | No     |
 | [Shiper](https://shiper.app)                                             | [Builder](https://shiper.app/#pricing) (5 \$/m)       | $1          | Yes               |             | Dynamic | -      |
