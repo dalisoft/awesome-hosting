@@ -437,6 +437,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 | Name                                                 | Type | Providers |
 | ---------------------------------------------------- | ---- | --------- |
+| [Cheap VPS Finder](https://cheapvpsfinder.com)       | VPS  | 4+        |
 | [Cheap VPS List](https://cheapvpslist.com)           | VPS  | 4+        |
 | [Cloud GPUs](https://cloud-gpus.com)                 | GPU  | ~5        |
 | [Cloudorado](https://www.cloudorado.com) ⚠️          | VPS  | -         |
