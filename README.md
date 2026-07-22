@@ -437,6 +437,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 | Name                                                 | Type | Providers |
 | ---------------------------------------------------- | ---- | --------- |
+| [Cheap VPS Finder](https://cheapvpsfinder.com)       | VPS  | 4+        |
 | [Cheap VPS List](https://cheapvpslist.com)           | VPS  | 4+        |
 | [Cloud GPUs](https://cloud-gpus.com)                 | GPU  | ~5        |
 | [Cloudorado](https://www.cloudorado.com) ⚠️          | VPS  | -         |
@@ -455,8 +456,6 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 - **Open Source** column means is hosting provides free tier or discounts for **Open Source** projects
 
 ## Resources
-
-- [Cheap VPS Finder](https://cheapvpsfinder.com/) - Public index for comparing low-cost VPS plans and pricing.
 
 - <https://free-for.dev/#/?id=web-hosting>
 - <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
