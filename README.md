@@ -403,6 +403,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                                                                         | -            | 135 msg / 5-hr        |
 | [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                                                               | -            | 24 M. Tokens / day    |
 | [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                                                                          | -            | <= 90,000 req / month |
+| [Zyloo](https://zyloo.io)                                 | [PRO](https://zyloo.io/subscription) (76 \$/m)                                                              | -            | -                     |
 
 #### Tokens
 
@@ -421,6 +422,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)    | -           |      |
 | [Requesty][requesty-ai-ref]                   | [Pricing](https://www.requesty.ai/pricing) (0.15/0.60 \$/1M token)            | $6 credit   |      |
 | [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.15/0.60 \$/1M token)                | $5 credit   |      |
+| [Zyloo](https://zyloo.io)                     | [Pricing](https://zyloo.io/models) (0.15/0.60 \$/1M token)                    | -           |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token) | -           |      |
 | [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)         | $5 credit   |      |
 | [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                       | -           |      |
