@@ -413,7 +413,6 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | Name                                          | Minimal plan                                                                  | Trial       | Free |
 | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
 | [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.039/0.19 \$/1M token)             | -           |      |
-| [OpenRouter](https://openrouter.ai)           | [Pricing](https://openrouter.ai/pricing) (0.039/0.18 \$/1M token)             | -           |      |
 | [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                  | -           |      |
 | [aster](https://www.asterlab.ai)              | [Pricing](https://www.asterlab.ai/inference) (0.15/0.60 \$/1M token)          | -           |      |
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)             | $1 credit   |      |
@@ -421,9 +420,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)     |             |      |
 | [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                   | -           | Yes  |
 | [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)    | -           |      |
-| [Requesty][requesty-ai-ref]                   | [Pricing](https://www.requesty.ai/pricing) (0.15/0.60 \$/1M token)            | $6 credit   |      |
 | [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.15/0.60 \$/1M token)                | $5 credit   |      |
-| [Zyloo](https://zyloo.io)                     | [Pricing](https://zyloo.io/models) (0.15/0.60 \$/1M token)                    | -           |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token) | -           |      |
 | [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)         | $5 credit   |      |
 | [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                       | -           |      |
@@ -431,11 +428,22 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
-| [NagaAI][naga-ai-ref]                         | [Pricing](https://naga.ac/pricing)                                            | -           |      |
-| [OrcaRouter](https://orcarouter.ai)           | [Pricing](https://orcarouter.ai/pricing)                                      | $5 credit   |      |
 | [nahcrof](https://ai.nahcrof.com)             | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
+
+#### Gateway
+
+| Name                                                         | Minimal plan                                    | Trial     | Free |
+| ------------------------------------------------------------ | ----------------------------------------------- | --------- | ---- |
+| [Cloudflare](https://www.cloudflare.com/products/ai-gateway) | -                                               | -         | -    |
+| [NagaAI][naga-ai-ref]                                        | [Pricing](https://naga.ac/pricing)              | -         |      |
+| [OpenRouter](https://openrouter.ai)                          | [Pricing](https://openrouter.ai/pricing)        | -         |      |
+| [OrcaRouter](https://orcarouter.ai)                          | [Pricing](https://orcarouter.ai/pricing)        | $5 credit |      |
+| [Requesty][requesty-ai-ref]                                  | [Pricing](https://www.requesty.ai/pricing)      | $6 credit |      |
+| [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
+| [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
+| [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
 
 ---
 
