@@ -414,6 +414,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
 | [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.039/0.19 \$/1M token)             | -           |      |
 | [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                  | -           |      |
+| [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.13/0.27 \$/1M token)          | -           | -    |
 | [aster](https://www.asterlab.ai)              | [Pricing](https://www.asterlab.ai/inference) (0.15/0.60 \$/1M token)          | -           |      |
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)             | $1 credit   |      |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)               | $1 credit   |      |
