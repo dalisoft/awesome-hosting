@@ -458,6 +458,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Cloud GPUs](https://cloud-gpus.com)                 | GPU  | ~5        |
 | [Cloudorado](https://www.cloudorado.com) ⚠️          | VPS  | -         |
 | [CompareVPS](https://www.comparevps.com)             | VPS  | 4+        |
+| [FindHost](https://www.findhost.app)                 | All  | 218       |
 | [GetDeploying](https://getdeploying.com)             | All  | 10+       |
 | [GPUs](https://gpus.io)                              | GPU  | ~5        |
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
