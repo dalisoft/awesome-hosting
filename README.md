@@ -462,7 +462,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [FindHost](https://www.findhost.app)                 | All  | 218       |
 | [GetDeploying](https://getdeploying.com)             | All  | 10+       |
 | [GPUs](https://gpus.io)                              | GPU  | ~5        |
-| [GPUVista](https://gpuvista.com) | GPU | 12+ |
+| [GPUVista](https://gpuvista.com)                     | GPU  | 12+       |
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
