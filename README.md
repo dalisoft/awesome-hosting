@@ -485,6 +485,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 - <https://hostingshortlist.com/data/price-index>
 - <https://www.flightcontrol.dev>
 - <https://www.vpsbenchmarks.com>
+- <https://shielddigest.com/web-hosting>
 
 ---
 
