@@ -260,6 +260,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [rdp.monster][rdp-monster-ref]                | [Basic](https://rdp.monster) (€ 9/m)                                          | No                 | No                    |                  |
 | [CloudSigma](https://cloudsigma.com)          | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                           | 7-day              | No                    |                  |
 | [Hostinger](https://hostinger.com)            | [KVM 1](https://hostinger.com/vps-hosting) (14 \$/m)                          | No                 | No                    |                  |
+| [DotMoose](https://dotmoose.com/vps)          | [VPS 2](https://dotmoose.com/vps) (14.44 \$/m)                                | No                 | No                    |                  |
 | [DarkVPS](https://darkvps.pro)                | [See plans](https://darkvps.pro/#pricing) (€ 15/m)                            | No                 | No                    |                  |
 | [Hosting](https://hosting.com)                | [VPS XS](https://hosting.com/hosting/vps-hosting/unmanaged/linux) (20 \$/m)   | No                 | No                    |                  |
 | [ScalaHosting](https://www.scalahosting.com)  | [Build #1](https://www.scalahosting.com/linux-vps-hosting.html) (24.95 \$/m)  | No                 | No                    |                  |
