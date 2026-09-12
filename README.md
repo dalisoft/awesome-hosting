@@ -369,7 +369,8 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 #### Proxy services
 
-> The proxy services and providers are not guaranteed to being geninue nor legally. Please check your country and company legal terms before using these proxy services
+> The proxy services and providers are not guaranteed to being geninue nor legally.
+> Please check your country and company legal terms before using these proxy services
 
 | Name                                         | Minimal plan                                  | Trial | Usage       |
 | -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
@@ -412,7 +413,8 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 
 #### Tokens
 
-> Minimal plan and/or price is referred for price per million token (input/output) for gpt-oss-120b
+> Minimal plan and/or price is referred for price per million token (input/output)
+> for gpt-oss-120b
 
 | Name                                          | Minimal plan                                                                  | Trial       | Free |
 | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
@@ -449,6 +451,34 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
+
+### Intelligent Model Router
+
+This method known as: Auto-switch, Auto Router
+
+| Name                                                                | Fee          | Trial | Tied to                     |
+| ------------------------------------------------------------------- | ------------ | ----- | --------------------------- |
+| [BTL Runtime](https://runtime.badtheorylabs.com)                    | 4%           | $5    | -                           |
+| [Factory Router](https://factory.ai/news/factory-router)            | 0%           | -     | [Droid](https://factory.ai) |
+| [Kilo Auto Efficient](https://kilo.ai/auto-model)                   | 0%           | -     | -                           |
+| [NadirClaw](https://github.com/NadirRouter/NadirClaw)               | -            | -     | -                           |
+| [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                           |
+| [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
+| [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
+
+### Fusion Model Router
+
+This method known as: Fusion, Smart Router.
+
+How it works: it asks Advisor (smart) model for hard question or planning
+while executes with Build (cheap) model.
+
+| Name                                                         | Fee          | Trial | Tied to                                   |
+| ------------------------------------------------------------ | ------------ | ----- | ----------------------------------------- |
+| [Anthropic Advisor](https://code.claude.com/docs/en/advisor) | Model fee    | -     | [Claude API](https://platform.claude.com) |
+| [Devin Fusion](https://cognition.com/blog/devin-fusion)      | 0%           | -     | [Devin CLI](https://devin.ai/cli)         |
+| [OpenRouter Fusion](https://openrouter.ai/openrouter/fusion) | Platform Fee | -     | -                                         |
+| [Sakana Fugu](https://sakana.ai/fugu)                        | Fixed rate   | -     |                                           |
 
 ---
 
