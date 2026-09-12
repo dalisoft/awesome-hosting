@@ -45,7 +45,13 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 - [Database](#database)
 - [GPU Cloud](#gpu-cloud)
 - [AI LLM/Inference](#llminference-api)
-- [AI Coding Subscription](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#providers)
+  - [AI Coding Subscription](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#providers) `[E]`
+  - [Proxy services](#proxy-services)
+  - [Subscriptions](#subscriptions)
+  - [Tokens](#tokens)
+  - [Gateways](#gateways)
+  - [Intelligent Model Routers](#intelligent-model-routers)
+  - [Fusion Model Routers](#fusion-model-routers)
 - [Aggregators](#aggregators)
 - [Resources](#resources)
 
@@ -385,7 +391,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [B AI](https://b.ai)                         | [Pricing](https://b.ai) (<= unknown)          | -     | -           |
 | [VisionCoder](https://coder.visioncoder.cn)  | -                                             | -     | -           |
 
-#### Subscription
+#### Subscriptions
 
 | Name                                                      | Minimal plan                                                                                                | Trial        | Usage                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------ | --------------------- |
@@ -439,7 +445,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
 
-#### Gateway
+#### Gateways
 
 | Name                                                         | Minimal plan                                    | Trial     | Free |
 | ------------------------------------------------------------ | ----------------------------------------------- | --------- | ---- |
@@ -452,7 +458,7 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
 
-### Intelligent Model Router
+#### Intelligent Model Routers
 
 This method known as: Auto-switch, Auto Router
 
@@ -466,7 +472,7 @@ This method known as: Auto-switch, Auto Router
 | [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
 | [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
 
-### Fusion Model Router
+#### Fusion Model Routers
 
 This method known as: Fusion, Smart Router.
 
