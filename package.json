@@ -11,13 +11,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^22.10.1",
-    "prettier": "^3.4.2"
+    "@types/bun": "^1.4.2",
+    "@types/node": "^22.20.2",
+    "prettier": "^3.9.6",
+    "typescript": "^7.0.2"
   },
   "dependencies": {
-    "@sinclair/typebox": "^0.34.11",
-    "csv": "^6.3.11",
-    "openai": "^4.76.0",
-    "puppeteer": "^23.10.1"
+    "@ai-sdk/google": "^4.0.69",
+    "@asteasolutions/zod-to-openapi": "^9.1.0",
+    "ai": "^7.0.99",
+    "zod": "^4.6.2"
   }
 }
