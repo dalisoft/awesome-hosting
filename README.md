@@ -507,7 +507,7 @@ while executes with Build (cheap) model.
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
-| [serverlist.dev](https://serverlist.dev)                 | All  | 44         |
+| [serverlist.dev](https://serverlist.dev)             | All  | 44        |
 
 ---
 
