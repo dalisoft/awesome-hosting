@@ -19,6 +19,7 @@
   "dependencies": {
     "@ai-sdk/google": "^4.0.69",
     "@asteasolutions/zod-to-openapi": "^9.1.0",
+    "@google/genai": "^2.22.0",
     "ai": "^7.0.99",
     "zod": "^4.6.2"
   }
