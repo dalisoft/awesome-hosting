@@ -45,9 +45,9 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 - [Database](#database)
 - [GPU Cloud](#gpu-cloud)
 - [AI LLM/Inference](#llminference-api)
-  - [AI Coding Subscription](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#providers) `[E]`
+  - [AI Coding Providers](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#providers) `[E]`
+  - [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#subscriptions) `[E]`
   - [Proxy services](#proxy-services)
-  - [Subscriptions](#subscriptions)
   - [Tokens](#tokens)
   - [Gateways](#gateways)
   - [Intelligent Model Routers](#intelligent-model-routers)
@@ -373,6 +373,14 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 
 List of LLM/AI inference API's <sup>[1](#status)</sup>
 
+#### AI Coding providers
+
+See [AI Coding Providers](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#providers) `[E]`
+
+#### AI Coding subscriptions
+
+See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#subscriptions) `[E]`
+
 #### Proxy services
 
 > The proxy services and providers are not guaranteed to being geninue nor legally.
@@ -390,35 +398,6 @@ List of LLM/AI inference API's <sup>[1](#status)</sup>
 | [ClaudeAPI][proxy-claudeapi-ref]             | [Pricing][proxy-claudeapi-ref] (<= 20% off)   | -     | -           |
 | [B AI](https://b.ai)                         | [Pricing](https://b.ai) (<= unknown)          | -     | -           |
 | [VisionCoder](https://coder.visioncoder.cn)  | -                                             | -     | -           |
-
-#### Subscriptions
-
-| Name                                                      | Minimal plan                                                                                                | Trial        | Usage                 |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------ | --------------------- |
-| [Xiaomi Token Plan][xiaomi-ref]                           | [Lite][xiaomi-ref] (6 \$/m)                                                                                 | 12% discount | 4B tokens             |
-| [Alibaba Token Plan][alibaba-token-ref]                   | [Lite][alibaba-token-ref] (8 \$/m)                                                                          | 2$ off       | -                     |
-| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                                                                | -            | -                     |
-| [Chutes](https://chutes.ai)                               | [Plus](https://chutes.ai/pricing) (10 \$/m)                                                                 | -            | 300 msg / day         |
-| [CommandCode GOAT](https://commandcode.ai)                | [GOAT](https://commandcode.ai/pricing) (10 \$/m)                                                            | -            | $70 usage             |
-| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                                                                            | -            | =< 100 prompts / 5-hr |
-| [OpenCode Go][opencode-ref]                               | [Go][opencode-ref] (10 \$/m)                                                                                | -            | $60 usage             |
-| [Cline Pass](https://cline.bot/cline-pass)                | 10 \$/m                                                                                                     | 50% discount | -                     |
-| [GMICloud](https://www.gmicloud.ai)                       | [Lite](https://www.gmicloud.ai/en/blog/kimi-k3-is-day-0-coming-to-gmi-and-its-in-our-coding-plan) (10 \$/m) |              |                       |
-| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)                                                          | -            | up-to 15B models      |
-| [wafer](https://wafer.ai) ⛔️                              | [Lite](https://www.wafer.ai) (12 \$/m)                                                                      | -            | 100 req / 5-hr        |
-| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                                                                  | -            | =< 120 prompts / 5-hr |
-| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)                                                      | 50% bonus    | Tokens                |
-| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m)                                               | -            | -                     |
-| [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    | ?            | $20 value             |
-| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                                                               | -            | <= 100 prompts / 5-hr |
-| [Claude Code][claude-ref]                                 | [Pro][claude-ref] (20 \$/m)                                                                                 | -            | <= 30 prompts / 5-hr  |
-| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m)                                               | Free plan    | <= 100 prompts / 5-hr |
-| [Nous Portal](https://portal.nousresearch.com)            | [PLUS](https://portal.nousresearch.com) (20 \$/m)                                                           | -            | $22 usage             |
-| [Ollama Cloud](https://ollama.com/pricing)                | [Pro](https://ollama.com/pricing) (20 \$/m)                                                                 | -            | -                     |
-| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                                                                         | -            | 135 msg / 5-hr        |
-| [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                                                               | -            | 24 M. Tokens / day    |
-| [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                                                                          | -            | <= 90,000 req / month |
-| [Zyloo](https://zyloo.io)                                 | [PRO](https://zyloo.io/subscription) (76 \$/m)                                                              | -            | -                     |
 
 #### Tokens
 
@@ -539,18 +518,13 @@ MIT
 [aeza-ref]: https://aeza.net/?ref=550011
 [aiven-ref]: https://console.aiven.io/signup?referral_code=c5lqcgdy1bmva03f1jer
 [alibaba-cloud-ref]: https://www.alibabacloud.com/campaign/benefits?referral_code=A924PN
-[alibaba-token-ref]: https://www.alibabacloud.com/en/campaign/ai-landing-page-token?referral_code=A924PN
-[claude-ref]: https://claude.ai/referral/W6Wu0V7qvA
 [clore-ref]: https://clore.ai?ref_id=op6qrcpw
 [cloudcone-ref]: https://app.cloudcone.com/?ref=11853
 [do-ref]: https://m.do.co/c/030da2341a70
 [firstvds-ref]: https://firstvds.ru/?from=1025225
 [ihc-ref]: https://www.ihc.ru/?ref=423754
 [linode-ref]: https://www.linode.com/lp/refer/?r=8aba5a0b35082328df6522752b8bb805536b892e
-[minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [naga-ai-ref]: https://naga.ac/join?ref=374-UXE
-[nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
-[opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
 [proxy-aerolink-ref]: https://aerolink.lat/register?ref=ITZKKUI
 [proxy-cavoti-ref]: https://cavoti.com/register?aff=K6XBNP53XWY9
 [proxy-ccapi-ref]: https://ccapi.us/register?aff=wnpz7zef
@@ -562,12 +536,9 @@ MIT
 [requesty-ai-ref]: https://app.requesty.ai/join?ref=02b543cf
 [runpod-ref]: https://runpod.io?ref=r5akk8kx
 [ruvds-ref]: https://ruvds.com/pr3299
-[synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
 [u1-host-ref]: https://u1host.com/?from=30122
 [upcloud-ref]: https://upcloud.com/signup/?promo=D5VUZ2
 [vastai-ref]: https://cloud.vast.ai/?ref_id=187311
 [vdsina-ref]: https://www.vdsina.com/?partner=8e5e1gf48t
 [vultr-ref]: https://www.vultr.com/?ref=9628836-8H
 [waicore-ref]: https://waicore.com/?from=3872
-[xiaomi-ref]: https://platform.xiaomimimo.com?ref=UZWW8Z
-[z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
