@@ -100,7 +100,8 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [Nhost](https://nhost.io)                                                | [Pro](https://nhost.io/pricing) (25 \$/m)                     | No          | Yes               | Yes         | Dynamic | Yes    |
 | [back4apps](https://www.back4app.com)                                    | [MVP](https://www.back4app.com/pricing) (25 \$/m)             | No          | No                |             | Dynamic | -      |
 | [Koyeb](https://koyeb.com)                                               | [Pro](https://koyeb.com/pricing) (29 \$/m)                    | No          | Yes               |             | Dynamic | No     |
-| [Bunker](https://getbunker.net)                                          | [Managed](https://getbunker.net/pricing) (€ 30/m)             | No          | Yes (1 project)   | Yes         | Dynamic | No     |
+| [Bunker](https://getbunker.net)                                          | [Managed](https://getbunker.net/pricing) (€ 30/m)             | No          | Yes (1 project)   | Yes         | Dyna| [Raven Host](https://ravenhost.space) | Free (permanent) | No | Yes (24/7) | | Bot/Server | No |
+mic | No     |
 | [directus](https://directus.io)                                          | [Professional](https://directus.io/pricing) (99 \$/m)         | No          | Self-Hosted       | Yes         | Dynamic | No     |
 | [Firebase App Hosting](https://firebase.google.com/products/app-hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)          | No          | Yes               |             | Dynamic | No     |
 | [Northflank](https://northflank.com)                                     | [Pay-as-you-Go](https://northflank.com/pricing)               | No          | Developer Sandbox |             | Dynamic | No     |
