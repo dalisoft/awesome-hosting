@@ -15,13 +15,16 @@ List of awesome hosting sorted by minimal plan price
 
 Donations to project with credits on LLM/AI inferences or such bonuses from providers.
 
+_**This project and project author [Qwen Ambassador](https://qwen.ai/ambassador) member.
+thank you Alibaba Qwen team**_
+
 > There amount are not real money, it is credits within sponsor platform.
 
-| Name                                          | Status           | Amount |
-| --------------------------------------------- | ---------------- | ------ |
-| [KiloCode](https://kilo.ai)                   | Previous sponsor | $100+  |
-| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | $20+   |
-| [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | $100+  |
+| Name                                          | Status           | Tier     |
+| --------------------------------------------- | ---------------- | -------- |
+| [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | Platinum |
+| [KiloCode](https://kilo.ai)                   | Previous sponsor | Silver   |
+| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | Basic    |
 
 ## Status
 
