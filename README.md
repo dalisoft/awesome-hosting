@@ -24,7 +24,6 @@ thank you Alibaba Qwen team**_
 | --------------------------------------------- | ---------------- | -------- |
 | [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | Platinum |
 | [KiloCode](https://kilo.ai)                   | Previous sponsor | Silver   |
-| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | Basic    |
 
 ## Status
 
@@ -427,7 +426,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
-| [nahcrof](https://ai.nahcrof.com)             | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
+| [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
 
