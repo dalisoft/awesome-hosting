@@ -15,13 +15,15 @@ List of awesome hosting sorted by minimal plan price
 
 Donations to project with credits on LLM/AI inferences or such bonuses from providers.
 
+_**This project and project author [Qwen Ambassador](https://qwen.ai/ambassador) member.
+thank you Alibaba Qwen team**_
+
 > There amount are not real money, it is credits within sponsor platform.
 
-| Name                                          | Status           | Amount |
-| --------------------------------------------- | ---------------- | ------ |
-| [KiloCode](https://kilo.ai)                   | Previous sponsor | $100+  |
-| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | $20+   |
-| [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | $100+  |
+| Name                                          | Status           | Tier     |
+| --------------------------------------------- | ---------------- | -------- |
+| [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | Platinum |
+| [KiloCode](https://kilo.ai)                   | Previous sponsor | Silver   |
 
 ## Status
 
@@ -424,7 +426,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
-| [nahcrof](https://ai.nahcrof.com)             | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
+| [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
 
@@ -484,6 +486,7 @@ while executes with Build (cheap) model.
 | [GetDeploying](https://getdeploying.com)             | All  | 10+       |
 | [GPUs](https://gpus.io)                              | GPU  | ~5        |
 | [GPUVista](https://gpuvista.com)                     | GPU  | 12+       |
+| [GrabGPU](https://grabgpu.com)                       | GPU  | 22        |
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
