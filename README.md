@@ -260,6 +260,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Serverspace](https://serverspace.io)             | [vStack](https://serverspace.io/pricing) (€ 4.63/m)                           | No                 | No                    |                  |
 | [aeza][aeza-ref]                                  | [Shared ALBs-1](https://aeza.net/virtual-servers) (€ 4.94/m)                  |                    |                       |                  |
 | [alwaysdata](https://www.alwaysdata.com/en)       | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                          | No                 | Yes                   |                  |
+| [Evolution Host](https://evolution-host.com)      | [Starter](https://evolution-host.com/vps) (€ 5/m)                             | No                 | No                    |                  |
 | [AlfaHost](https://alfahost.io)                   | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                              | No                 | No                    |                  |
 | [CloudTTK](https://cloud.ttk.ru)                  | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)               | No                 | No                    |                  |
 | [Hyonix](https://hyonix.com)                      | HS-1 (6.5 \$/m)                                                               | No                 | No                    |                  |
