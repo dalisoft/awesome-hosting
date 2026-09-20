@@ -262,6 +262,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [alwaysdata](https://www.alwaysdata.com/en)       | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                          | No                 | Yes                   |                  |
 | [AlfaHost](https://alfahost.io)                   | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                              | No                 | No                    |                  |
 | [CloudTTK](https://cloud.ttk.ru)                  | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)               | No                 | No                    |                  |
+| [GreenCloud](https://greencloudvps.com)           | [SSDKVM-1](https://greencloudvps.com/budget-kvm-vps.php) (6 \$/m)             | No                 | No                    |                  |
 | [Megahost](https://megahost.kz/vps)               | [SSD-mini](https://megahost.kz/vps) (6.5 \$/m)                                | No                 | No                    |                  |
 | [Adaptable](https://adaptable.io)                 | Hobby (7 \$/m)                                                                | No                 | Public-repos only     |                  |
 | [Cloudzy](https://cloudzy.com)                    | [Basic](https://cloudzy.com/pricing) (7.48 \$/m)                              | 14-day             | No                    |                  |
