@@ -263,6 +263,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Evolution Host](https://evolution-host.com)      | [Starter](https://evolution-host.com/vps) (€ 5/m)                             | No                 | No                    |                  |
 | [AlfaHost](https://alfahost.io)                   | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                              | No                 | No                    |                  |
 | [CloudTTK](https://cloud.ttk.ru)                  | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)               | No                 | No                    |                  |
+| [GreenCloud](https://greencloudvps.com)           | [SSDKVM-1](https://greencloudvps.com/budget-kvm-vps.php) (6 \$/m)             | No                 | No                    |                  |
 | [Hyonix](https://hyonix.com)                      | HS-1 (6.5 \$/m)                                                               | No                 | No                    |                  |
 | [Megahost](https://megahost.kz/vps)               | [SSD-mini](https://megahost.kz/vps) (6.5 \$/m)                                | No                 | No                    |                  |
 | [Adaptable](https://adaptable.io)                 | Hobby (7 \$/m)                                                                | No                 | Public-repos only     |                  |
