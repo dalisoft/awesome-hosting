@@ -330,6 +330,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [clore][clore-ref]                                          | [Pricing][clore-ref] (1.2 \$/day)                                      | No          |      |             |
 | [Lightning](https://lightning.ai)                           | [Pricing](https://lightning.ai/pricing) (50 \$/m)                      | No          | Yes  |             |
 | [VastAI][vastai-ref]                                        | [Pricing](https://vast.ai/pricing) (0.15 \$/h)                         | No          |      |             |
+| [Lium](https://lium.io/?utm_source=awesome-hosting&utm_medium=listing) | [Pricing](https://lium.io/pricing) (0.16 \$/h)                         | No          |      |             |
 | [Salad](https://salad.com)                                  | [Pricing](https://salad.com/pricing) (0.2 \$/h)                        | No          |      |             |
 | [TensorDock](https://tensordock.com)                        | [Pricing](https://tensordock.com/cloud-gpus) (0.2 \$/h)                | No          |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)          | $20 credit  |      |             |
