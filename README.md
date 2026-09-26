@@ -416,8 +416,10 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 > model is available.
 
 See the [September 2026 X-only inference review](research/fast-inference-2026-09/README.md)
-for launch dates, model-specific speed claims and evidence. For entries added or
-refreshed by that review, `-` means the field was not verified from X.
+for the supplied shortlist first, followed by additional findings, launch dates
+and model-specific speed evidence. For entries added or refreshed by that review,
+`-` means the field was not verified from X. Announced services, specialized APIs
+and local inference have separate categories below.
 
 | Name                                          | Minimal plan                                                                  | Trial       | Free |
 | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |

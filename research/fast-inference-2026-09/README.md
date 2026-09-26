@@ -6,17 +6,85 @@ earlier introductions. Dates use the post's UTC timestamp, which can differ by a
 day from the date displayed in the browser. A model update, public API launch,
 company introduction and first hardware shipment are recorded as separate events.
 
-The strongest recent public-API introductions found are LithosAI, RunAnywhere's
-Wally, Prism, Inco AI, Isoquant, Inception's Mercury 2.5 and Fast Inference.
-Sciforium adds a recent optimized-endpoint announcement. RunInfra's beta was
-already announced in June; Aster's API introduction was in July. Existing
-providers' new model endpoints are included, with their existing status stated.
+The user-supplied providers, APIs and startups are collected first below. The
+additional research findings follow in their own table. All **27 supplied names**
+covered here, including Z.ai referenced in the original comparisons, now appear
+in the main README with their appropriate product or availability category.
 
-This review adds **13 products** to the hosting list: **10 model APIs, 2 gateways
-and 1 API access subscription**. It updates the existing RunInfra and Aster rows
-and fixes GMI Cloud's position in the price ordering. Each provider/project has
-its own commit and evidence file; this overview is a separate documentation
-commit. No PR or remote push is part of this review.
+Across both passes, the review adds **20 entries**: **10 model APIs, 3 gateways,
+2 API access subscriptions, 1 specialized API, 2 announced APIs and 2 local
+inference projects**. It also refreshes the existing RunInfra and Aster rows and
+fixes GMI Cloud's price ordering. Provider additions and updates are committed
+separately; overview documentation has its own commits. Nothing has been pushed
+and no PR has been created.
+
+## Supplied providers, APIs and startups
+
+The order below follows the supplied shortlist first. The main README continues
+to sort each category by price and name. Existing entries are identified rather
+than duplicated. Announced services, waitlists, specialized endpoints and local
+projects are included with explicit availability or product type.
+
+| Provider / project                            | Observed event date                                           | Repository placement              |
+| --------------------------------------------- | ------------------------------------------------------------- | --------------------------------- |
+| [LithosAI](lithosai.md)                       | 2026-09-09 inferred; 2026-09-24 speed update                  | Tokens                            |
+| [RunAnywhere / Wally](runanywhere-wally.md)   | 2026-09-21                                                    | Tokens                            |
+| [Prism](prism.md)                             | 2026-09-24                                                    | Tokens                            |
+| [Inco AI](inco-ai.md)                         | 2026-09-03 beta; 2026-09-17 model addition                    | Tokens                            |
+| [Fast Inference](fast-inference.md)           | 2026-08-27                                                    | API access subscriptions          |
+| [B.AI](b-ai.md)                               | 2026-09-21                                                    | Proxy services, existing B AI row |
+| [packet.ai / Token Factory](packet-ai.md)     | 2026-08-17 waitlist; 2026-09-23 reminder                      | Announced inference APIs          |
+| [Aster](aster.md)                             | 2026-07-16                                                    | Tokens, existing row updated      |
+| [The Singularity Layer](singularity-layer.md) | 2026-06-10 network; 2026-09-24 SystemOne                      | Specialized inference APIs        |
+| [ScitiX](scitix.md)                           | 2026-08-27 model launch; 2026-09-16 benchmark                 | Tokens                            |
+| [Nousenlabs](nousenlabs.md)                   | 2026-09-02 introduction; 2026-09-23 speed claim               | Local inference                   |
+| [Underdog AI / Husky](underdog-husky.md)      | 2026-09-21 engine; 2026-09-23 app update                      | Local inference                   |
+| [RunInfra](runinfra.md)                       | 2026-06-30; model launches 2026-08-15–30                      | Tokens, existing row updated      |
+| [Cerebras](cerebras.md)                       | 2026-08-13 partner preview; 2026-09-13 developer demo         | Tokens, existing row              |
+| [Groq](groq.md)                               | 2026-08-24 hardware update; 2025-12-24 ownership context only | Tokens, existing row              |
+| [SambaNova](sambanova.md)                     | 2026-09-21 hardware update                                    | Tokens, existing row              |
+| [Fireworks](fireworks.md)                     | 2026-07-27                                                    | Tokens, existing row              |
+| [Together AI](together-ai.md)                 | 2026-07-29                                                    | Tokens, existing row              |
+| [Nebius](nebius.md)                           | 2026-09-21 competitor comparison                              | Tokens, existing row              |
+| [Sciforium](sciforium.md)                     | 2026-09-25                                                    | Tokens                            |
+| [Command Code](command-code.md)               | 2026-08-05 GOAT plan; 2026-09-19 fast endpoint                | API access subscriptions          |
+| [INFER](infer.md)                             | 2026-09-24                                                    | Announced inference APIs          |
+| [Chutes](chutes.md)                           | 2026-07-29; 2026-08-25 model additions                        | Tokens                            |
+| [Surplus Intelligence](surplus.md)            | 2026-05-17 public API-key post; 2026-07-30 marketplace update | Gateways                          |
+| [UsePod.ai](usepod.md)                        | 2026-08-27 model addition; earlier marketplace                | Gateways                          |
+| [Venice](venice.md)                           | 2026-09-22 API model update; earlier 2026-07-21 discussion    | Gateways                          |
+| [Z.ai](z-ai.md)                               | 2026-09-21 fast endpoint                                      | Tokens                            |
+
+The seven supplied names previously kept only in research now have README rows:
+Command Code, Venice, packet.ai / Token Factory, INFER, The Singularity Layer,
+Underdog / Husky and Nousenlabs. The current Command Code post supplies a $10/month
+GOAT plan; its API-eligibility reply establishes the minimum eligible plan.
+Venice's official API model posts establish current API offerings. Neither is
+assigned an unsupported gpt-oss token price or a new universal speed ranking.
+
+The supplied Ollama, vLLM, LM Studio and Antigravity/Gemma mentions are also
+recorded under search coverage below as runtime/tooling leads. No dated X source
+establishing a new hosted API launch for them was verified in this review.
+
+## Additional research findings
+
+These findings were collected in addition to the supplied shortlist. Isoquant
+and Inception have model API entries; other rows cover an existing provider
+update, optimization technology, specialized products, hardware or an
+out-of-window launch. Each note states what was verified and its list decision.
+
+| Provider / project                    | Observed event date                                           | Repository placement           |
+| ------------------------------------- | ------------------------------------------------------------- | ------------------------------ |
+| [Baseten](baseten.md)                 | 2026-08-18                                                    | Tokens, existing row           |
+| [Dreamscale Labs](dreamscale-labs.md) | 2026-09-22                                                    | Research note only             |
+| [Etched](etched.md)                   | 2026-06-30 public introduction; 2026-08-18 rack shipment      | Research note only             |
+| [Fastino Labs](fastino.md)            | 2026-09-24                                                    | Research note only             |
+| [GMI Cloud](gmi-cloud.md)             | 2026-07-27                                                    | Tokens, existing row reordered |
+| [Inception](inception.md)             | 2026-09-08                                                    | Tokens                         |
+| [Intent Lab](intent-lab.md)           | 2026-07-28                                                    | Research note only             |
+| [Isoquant](isoquant.md)               | 2026-09-24                                                    | Tokens                         |
+| [Nari Labs](nari-labs.md)             | 2026-09-11                                                    | Research note only             |
+| [Taalas](taalas.md)                   | 2026-02-19 launch outside window; 2026-08-06 corporate update | Research note only             |
 
 ## What the speed claims establish
 
@@ -104,56 +172,13 @@ plan. Wally's $5 no-card signup credit is the verified self-serve exception.
 Prism's DM-based credit offers, ScitiX's event rewards, packet.ai's waitlist and
 Z.ai's application-based Coding Plan trial are not automatic API signup credits.
 
-Live hosted APIs go under Tokens; routed marketplaces go under Gateways; monthly
-API access goes under API access subscriptions. Existing providers are not
-duplicated. Waitlisted or unverified services, local engines, robotics, speech,
-typed-decision models and hardware-only introductions remain in research. New
-entries receive no author trust badge.
-
-## Provider/project inventory
-
-Every row links to an individual note containing primary X posts, relevant
-replies, availability evidence and reasons for its repository disposition.
-
-| Provider / project                            | Observed event date                                           | Repository disposition                      |
-| --------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------- |
-| [Aster](aster.md)                             | 2026-07-16                                                    | Existing Tokens row refreshed               |
-| [B.AI](b-ai.md)                               | 2026-09-21                                                    | Research only; see evidence and limitations |
-| [Baseten](baseten.md)                         | 2026-08-18                                                    | Research only; see evidence and limitations |
-| [Cerebras](cerebras.md)                       | 2026-08-13 partner preview; 2026-09-13 developer demo         | Research only; see evidence and limitations |
-| [Chutes](chutes.md)                           | 2026-07-29; 2026-08-25 model additions                        | Added to Tokens                             |
-| [Command Code](command-code.md)               | 2026-09-19                                                    | Research only; see evidence and limitations |
-| [Dreamscale Labs](dreamscale-labs.md)         | 2026-09-22                                                    | Research only; see evidence and limitations |
-| [Etched](etched.md)                           | 2026-06-30 public introduction; 2026-08-18 rack shipment      | Research only; see evidence and limitations |
-| [Fast Inference](fast-inference.md)           | 2026-08-27                                                    | Added to API access subscriptions           |
-| [Fastino Labs](fastino.md)                    | 2026-09-24                                                    | Research only; see evidence and limitations |
-| [Fireworks](fireworks.md)                     | 2026-07-27                                                    | Research only; see evidence and limitations |
-| [GMI Cloud](gmi-cloud.md)                     | 2026-07-27                                                    | Existing Tokens row reordered               |
-| [Groq](groq.md)                               | 2026-08-24 hardware update; 2025-12-24 ownership context only | Research only; see evidence and limitations |
-| [Inception](inception.md)                     | 2026-09-08                                                    | Added to Tokens                             |
-| [Inco AI](inco-ai.md)                         | 2026-09-03 beta; 2026-09-17 model addition                    | Added to Tokens                             |
-| [INFER](infer.md)                             | 2026-09-24                                                    | Research only; see evidence and limitations |
-| [Intent Lab](intent-lab.md)                   | 2026-07-28                                                    | Research only; see evidence and limitations |
-| [Isoquant](isoquant.md)                       | 2026-09-24                                                    | Added to Tokens                             |
-| [LithosAI](lithosai.md)                       | 2026-09-09 inferred; 2026-09-24 speed update                  | Added to Tokens                             |
-| [Nari Labs](nari-labs.md)                     | 2026-09-11                                                    | Research only; see evidence and limitations |
-| [Nebius](nebius.md)                           | 2026-09-21 competitor comparison                              | Research only; see evidence and limitations |
-| [nousenlabs](nousenlabs.md)                   | 2026-09-23                                                    | Research only; see evidence and limitations |
-| [packet.ai / Token Factory](packet-ai.md)     | 2026-08-17 waitlist; 2026-09-23 reminder                      | Research only; see evidence and limitations |
-| [Prism](prism.md)                             | 2026-09-24                                                    | Added to Tokens                             |
-| [RunAnywhere / Wally](runanywhere-wally.md)   | 2026-09-21                                                    | Added to Tokens                             |
-| [RunInfra](runinfra.md)                       | 2026-06-30; model launches 2026-08-15–30                      | Existing Tokens row refreshed               |
-| [SambaNova](sambanova.md)                     | 2026-09-21 hardware update                                    | Research only; see evidence and limitations |
-| [Sciforium](sciforium.md)                     | 2026-09-25                                                    | Added to Tokens                             |
-| [ScitiX](scitix.md)                           | 2026-08-27 model launch; 2026-09-16 benchmark                 | Added to Tokens                             |
-| [Surplus Intelligence](surplus.md)            | 2026-05-17 public API-key post; 2026-07-30 marketplace update | Added to Gateways                           |
-| [Taalas](taalas.md)                           | 2026-02-19 launch outside window; 2026-08-06 corporate update | Research only; see evidence and limitations |
-| [The Singularity Layer](singularity-layer.md) | 2026-06-10 network; 2026-09-24 SystemOne                      | Research only; see evidence and limitations |
-| [Together AI](together-ai.md)                 | 2026-07-29                                                    | Research only; see evidence and limitations |
-| [Underdog AI / Husky](underdog-husky.md)      | 2026-09-21                                                    | Research only; see evidence and limitations |
-| [UsePod.ai](usepod.md)                        | 2026-08-27 model addition; earlier marketplace                | Added to Gateways                           |
-| [Venice](venice.md)                           | 2026-07-21 discussion                                         | Research only; see evidence and limitations |
-| [Z.ai](z-ai.md)                               | 2026-09-21 fast endpoint                                      | Added to Tokens                             |
+Live model APIs go under Tokens; routed model services go under Gateways; monthly
+API access goes under API access subscriptions. The supplied waitlisted and
+unverified API introductions go under Announced inference APIs, with availability
+explicit. The published SystemOne endpoint goes under Specialized inference APIs,
+and the supplied local products/research go under Local inference. Existing
+providers are not duplicated. Other related findings retain the placement
+explained in their evidence notes. New entries receive no author trust badge.
 
 ## Search coverage and remaining uncertainty
 
@@ -179,7 +204,8 @@ does not prove a provider did not launch. This is the collected, source-backed
 candidate review, not a claim to have enumerated every post on X.
 
 The supplied review's July 6 Singularity AI Machines date remains unverified.
-Venice's captured discussion does not establish a new fast endpoint. INFER lacks
+Venice's captured discussion does not establish a new fast endpoint, although
+its official model posts establish current API offerings. INFER lacks
 verified public availability in the examined introduction. packet.ai remains
 waitlisted in the latest captured launch-window post. Taalas' first product
 announcement predates the six-month cutoff.
@@ -206,7 +232,7 @@ slashes, date-window labels, numerical USD ordering and alphabetical unpriced
 ordering. All prices in the affected priced groups are USD; no EUR conversion is
 needed for the affected adjacencies. The reference model is unchanged.
 
-All 98 distinct post citations in the provider notes, plus the additional
+All 103 distinct post citations in the provider notes, plus the additional
 Perplexity citation in this overview, matched posts captured directly from X.
 The two cited posts before the six-month cutoff are explicitly labeled as
 Groq ownership context and Taalas' out-of-window first product launch.
