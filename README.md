@@ -51,6 +51,7 @@ thank you Alibaba Qwen team**_
   - [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#subscriptions) `[E]`
   - [Proxy services](#proxy-services)
   - [Tokens](#tokens)
+  - [API access subscriptions](#api-access-subscriptions)
   - [Gateways](#gateways)
   - [Intelligent Model Routers](#intelligent-model-routers)
   - [Fusion Model Routers](#fusion-model-routers)
@@ -442,6 +443,15 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Sciforium](https://sciforium.com)            | [Pricing / API](https://console.sciforium.com/on-demand)                      | -           | -    |
 | [ScitiX](https://scitix.ai)                   | [Pricing / API](https://scitix.ai/inference)                                  | -           | -    |
 | [Z.ai](https://z.ai)                          | [Pricing / API](https://z.ai)                                                 | -           | -    |
+
+#### API access subscriptions
+
+Monthly API access prices are separate from per-token prices; included usage and
+overage terms must be checked with the provider.
+
+| Name                                         | Minimal plan                                      | Trial | Free |
+| -------------------------------------------- | ------------------------------------------------- | ----- | ---- |
+| [Fast Inference](https://fast.inference.net) | [API access](https://fast.inference.net) (9 \$/m) | -     | -    |
 
 #### Gateways
 
