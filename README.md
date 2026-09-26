@@ -435,6 +435,7 @@ and local inference have separate categories below.
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                           | No          |      |
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Chutes](https://chutes.ai)                   | [Pricing / API](https://chutes.ai)                                            | -           | -    |
+| [Fast Inference](https://fast.inference.net)  | [API access](https://fast.inference.net)                                      | -           | -    |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing / API](https://inceptionlabs.ai)                                     | -           | -    |
@@ -456,10 +457,9 @@ and local inference have separate categories below.
 Monthly API access prices are separate from per-token prices; included usage and
 overage terms must be checked with the provider.
 
-| Name                                         | Minimal plan                                      | Trial | Free |
-| -------------------------------------------- | ------------------------------------------------- | ----- | ---- |
-| [Fast Inference](https://fast.inference.net) | [API access](https://fast.inference.net) (9 \$/m) | -     | -    |
-| [Command Code](https://commandcode.ai)       | [GOAT](https://commandcode.ai) (10 \$/m)          | -     | -    |
+| Name                                   | Minimal plan                             | Trial | Free |
+| -------------------------------------- | ---------------------------------------- | ----- | ---- |
+| [Command Code](https://commandcode.ai) | [GOAT](https://commandcode.ai) (10 \$/m) | -     | -    |
 
 #### Gateways
 
