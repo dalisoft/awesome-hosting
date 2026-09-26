@@ -441,6 +441,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [RunInfra](https://runinfra.ai)               | [Pricing / API](https://runinfra.ai/inference-api)                            | -           | -    |
 | [Sciforium](https://sciforium.com)            | [Pricing / API](https://console.sciforium.com/on-demand)                      | -           | -    |
 | [ScitiX](https://scitix.ai)                   | [Pricing / API](https://scitix.ai/inference)                                  | -           | -    |
+| [Z.ai](https://z.ai)                          | [Pricing / API](https://z.ai)                                                 | -           | -    |
 
 #### Gateways
 
