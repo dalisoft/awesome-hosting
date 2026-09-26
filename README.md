@@ -55,6 +55,7 @@ thank you Alibaba Qwen team**_
   - [Gateways](#gateways)
   - [Specialized inference APIs](#specialized-inference-apis)
   - [Announced inference APIs](#announced-inference-apis)
+  - [Local inference](#local-inference)
   - [Intelligent Model Routers](#intelligent-model-routers)
   - [Fusion Model Routers](#fusion-model-routers)
 - [Aggregators](#aggregators)
@@ -495,6 +496,15 @@ available API.
 | ---------------------------------------------- | ---------------------------------------------------------------------- | ----- | ---- | -------------------------------- |
 | [INFER](https://tryinfer.co)                   | [API announcement](https://x.com/try_infer/status/2103158265509265795) | -     | -    | Announced; public API unverified |
 | [packet.ai / Token Factory](https://packet.ai) | [API / waitlist](https://packet.ai/token-factory)                      | -     | -    | Waitlist                         |
+
+#### Local inference
+
+On-device products and CPU model research. These are separate from hosted APIs;
+public access and release status are shown explicitly.
+
+| Name                                       | Minimal plan               | Trial | Free | Availability               |
+| ------------------------------------------ | -------------------------- | ----- | ---- | -------------------------- |
+| [Underdog AI / Husky](https://underdog.ai) | [App](https://underdog.ai) | -     | -    | On-device; invite required |
 
 #### Intelligent Model Routers
 
