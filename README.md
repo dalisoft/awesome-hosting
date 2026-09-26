@@ -414,7 +414,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
 | [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.039/0.19 \$/1M token)             | -           |      |
 | [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                  | -           |      |
-| [aster](https://www.asterlab.ai)              | [Pricing](https://www.asterlab.ai/inference) (0.15/0.60 \$/1M token)          | -           |      |
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)             | $1 credit   |      |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)               | $1 credit   |      |
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)     |             |      |
@@ -424,6 +423,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token) | -           |      |
 | [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)         | $5 credit   |      |
 | [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                       | -           |      |
+| [Aster](https://asterlab.ai)                  | [Pricing / API](https://asterlab.ai/inference)                                | -           | -    |
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                           | No          |      |
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
