@@ -53,6 +53,7 @@ thank you Alibaba Qwen team**_
   - [Tokens](#tokens)
   - [API access subscriptions](#api-access-subscriptions)
   - [Gateways](#gateways)
+  - [Announced inference APIs](#announced-inference-apis)
   - [Intelligent Model Routers](#intelligent-model-routers)
   - [Fusion Model Routers](#fusion-model-routers)
 - [Aggregators](#aggregators)
@@ -474,6 +475,15 @@ overage terms must be checked with the provider.
 | [Venice](https://venice.ai)                                  | [Pricing / API](https://venice.ai)              | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
+
+#### Announced inference APIs
+
+Announced services and waitlists. Availability below does not imply a generally
+available API.
+
+| Name                                           | Minimal plan                                      | Trial | Free | Availability |
+| ---------------------------------------------- | ------------------------------------------------- | ----- | ---- | ------------ |
+| [packet.ai / Token Factory](https://packet.ai) | [API / waitlist](https://packet.ai/token-factory) | -     | -    | Waitlist     |
 
 #### Intelligent Model Routers
 
