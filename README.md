@@ -457,6 +457,7 @@ overage terms must be checked with the provider.
 | Name                                         | Minimal plan                                      | Trial | Free |
 | -------------------------------------------- | ------------------------------------------------- | ----- | ---- |
 | [Fast Inference](https://fast.inference.net) | [API access](https://fast.inference.net) (9 \$/m) | -     | -    |
+| [Command Code](https://commandcode.ai)       | [GOAT](https://commandcode.ai) (10 \$/m)          | -     | -    |
 
 #### Gateways
 
