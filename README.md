@@ -409,7 +409,12 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 #### Tokens
 
 > Minimal plan and/or price is referred for price per million token (input/output)
-> for gpt-oss-120b
+> for gpt-oss-120b. Pricing/API links without a numeric rate do not imply that this
+> model is available.
+
+See the [September 2026 X-only inference review](research/fast-inference-2026-09/README.md)
+for launch dates, model-specific speed claims and evidence. For entries added or
+refreshed by that review, `-` means the field was not verified from X.
 
 | Name                                          | Minimal plan                                                                  | Trial       | Free |
 | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
