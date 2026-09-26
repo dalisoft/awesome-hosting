@@ -471,6 +471,7 @@ overage terms must be checked with the provider.
 | [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing / API](https://surplusintelligence.ai) | -         | -    |
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing / API](https://usepod.ai)              | -         | -    |
+| [Venice](https://venice.ai)                                  | [Pricing / API](https://venice.ai)              | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
 
