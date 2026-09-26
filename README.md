@@ -411,12 +411,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 > for gpt-oss-120b. Pricing/API links without a numeric rate do not imply that this
 > model is available.
 
-See the [September 2026 X-only inference review](research/fast-inference-2026-09/README.md)
-for the supplied shortlist first, followed by additional findings, launch dates
-and model-specific speed evidence. For entries added or refreshed by that review,
-`-` means the field was not verified from X. Announced services, specialized APIs
-and local inference have separate categories below.
-
 | Name                                          | Minimal plan                                                                  | Trial       | Free |
 | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
 | [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.039/0.19 \$/1M token)             | -           |      |
