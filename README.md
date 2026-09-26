@@ -432,6 +432,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
+| [RunAnywhere / Wally](https://runanywhere.ai) | [Pricing / API](https://runanywhere.ai)                                       | $5 credit   | -    |
 | [RunInfra](https://runinfra.ai)               | [Pricing / API](https://runinfra.ai/inference-api)                            | -           | -    |
 
 #### Gateways
