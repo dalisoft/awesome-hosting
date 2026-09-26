@@ -53,6 +53,7 @@ thank you Alibaba Qwen team**_
   - [Tokens](#tokens)
   - [API access subscriptions](#api-access-subscriptions)
   - [Gateways](#gateways)
+  - [Specialized inference APIs](#specialized-inference-apis)
   - [Announced inference APIs](#announced-inference-apis)
   - [Intelligent Model Routers](#intelligent-model-routers)
   - [Fusion Model Routers](#fusion-model-routers)
@@ -475,6 +476,15 @@ overage terms must be checked with the provider.
 | [Venice](https://venice.ai)                                  | [Pricing / API](https://venice.ai)              | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
+
+#### Specialized inference APIs
+
+Endpoints for decisions or other specialized tasks; their prices and metrics are
+separate from text-generation token prices.
+
+| Name                                          | Minimal plan                                                            | Trial | Free | Type                 |
+| --------------------------------------------- | ----------------------------------------------------------------------- | ----- | ---- | -------------------- |
+| [The Singularity Layer](https://x402layer.cc) | [SystemOne API](https://docs.x402layer.cc/api-reference/grid-systemone) | -     | -    | Laya typed decisions |
 
 #### Announced inference APIs
 
