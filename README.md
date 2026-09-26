@@ -438,6 +438,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
 | [RunAnywhere / Wally](https://runanywhere.ai) | [Pricing / API](https://runanywhere.ai)                                       | $5 credit   | -    |
 | [RunInfra](https://runinfra.ai)               | [Pricing / API](https://runinfra.ai/inference-api)                            | -           | -    |
+| [Sciforium](https://sciforium.com)            | [Pricing / API](https://console.sciforium.com/on-demand)                      | -           | -    |
 
 #### Gateways
 
