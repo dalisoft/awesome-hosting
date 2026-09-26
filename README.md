@@ -428,6 +428,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
+| [Inception](https://inceptionlabs.ai)         | [Pricing / API](https://inceptionlabs.ai)                                     | -           | -    |
 | [Inco AI](https://inco.ai)                    | [Pricing / API](https://platform.inco.ai)                                     | -           | -    |
 | [Isoquant](https://isoquant.ai)               | [Pricing / API](https://isoquant.ai)                                          | -           | -    |
 | [LithosAI](https://lithosai.com)              | [Pricing / API](https://console.lithosai.cloud)                               | -           | -    |
