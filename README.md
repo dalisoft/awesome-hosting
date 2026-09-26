@@ -481,9 +481,10 @@ overage terms must be checked with the provider.
 Announced services and waitlists. Availability below does not imply a generally
 available API.
 
-| Name                                           | Minimal plan                                      | Trial | Free | Availability |
-| ---------------------------------------------- | ------------------------------------------------- | ----- | ---- | ------------ |
-| [packet.ai / Token Factory](https://packet.ai) | [API / waitlist](https://packet.ai/token-factory) | -     | -    | Waitlist     |
+| Name                                           | Minimal plan                                                           | Trial | Free | Availability                     |
+| ---------------------------------------------- | ---------------------------------------------------------------------- | ----- | ---- | -------------------------------- |
+| [INFER](https://tryinfer.co)                   | [API announcement](https://x.com/try_infer/status/2103158265509265795) | -     | -    | Announced; public API unverified |
+| [packet.ai / Token Factory](https://packet.ai) | [API / waitlist](https://packet.ai/token-factory)                      | -     | -    | Waitlist                         |
 
 #### Intelligent Model Routers
 
