@@ -51,7 +51,6 @@ thank you Alibaba Qwen team**_
   - [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=readme-ov-file#subscriptions) `[E]`
   - [Proxy services](#proxy-services)
   - [Tokens](#tokens)
-  - [API access subscriptions](#api-access-subscriptions)
   - [Gateways](#gateways)
   - [Intelligent Model Routers](#intelligent-model-routers)
   - [Fusion Model Routers](#fusion-model-routers)
@@ -436,6 +435,7 @@ and local inference have separate categories below.
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Chutes](https://chutes.ai)                   | [Pricing / API](https://chutes.ai)                                            | -           | -    |
 | [Fast Inference](https://fast.inference.net)  | [API access](https://fast.inference.net)                                      | -           | -    |
+| [Command Code](https://commandcode.ai)        | [GOAT API access](https://commandcode.ai)                                     | -           | -    |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing / API](https://inceptionlabs.ai)                                     | -           | -    |
@@ -451,15 +451,6 @@ and local inference have separate categories below.
 | [Sciforium](https://sciforium.com)            | [Pricing / API](https://console.sciforium.com/on-demand)                      | -           | -    |
 | [ScitiX](https://scitix.ai)                   | [Pricing / API](https://scitix.ai/inference)                                  | -           | -    |
 | [Z.ai](https://z.ai)                          | [Pricing / API](https://z.ai)                                                 | -           | -    |
-
-#### API access subscriptions
-
-Monthly API access prices are separate from per-token prices; included usage and
-overage terms must be checked with the provider.
-
-| Name                                   | Minimal plan                             | Trial | Free |
-| -------------------------------------- | ---------------------------------------- | ----- | ---- |
-| [Command Code](https://commandcode.ai) | [GOAT](https://commandcode.ai) (10 \$/m) | -     | -    |
 
 #### Gateways
 
