@@ -502,9 +502,10 @@ available API.
 On-device products and CPU model research. These are separate from hosted APIs;
 public access and release status are shown explicitly.
 
-| Name                                       | Minimal plan               | Trial | Free | Availability               |
-| ------------------------------------------ | -------------------------- | ----- | ---- | -------------------------- |
-| [Underdog AI / Husky](https://underdog.ai) | [App](https://underdog.ai) | -     | -    | On-device; invite required |
+| Name                                       | Minimal plan                        | Trial | Free | Availability                           |
+| ------------------------------------------ | ----------------------------------- | ----- | ---- | -------------------------------------- |
+| [Nousenlabs](https://nousenlabs.com)       | [Project](https://x.com/nousenlabs) | -     | -    | CPU model research; release unverified |
+| [Underdog AI / Husky](https://underdog.ai) | [App](https://underdog.ai)          | -     | -    | On-device; invite required             |
 
 #### Intelligent Model Routers
 
