@@ -503,6 +503,7 @@ while executes with Build (cheap) model.
 - **Open Source** column means is hosting provides free tier or discounts for **Open Source** projects
 
 ## Resources
+- <https://hostdealradar.com>
 
 - <https://free-for.dev/#/?id=web-hosting>
 - <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
