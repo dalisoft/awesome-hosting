@@ -503,16 +503,16 @@ while executes with Build (cheap) model.
 - **Open Source** column means is hosting provides free tier or discounts for **Open Source** projects
 
 ## Resources
-- <https://hostdealradar.com>
 
 - <https://free-for.dev/#/?id=web-hosting>
 - <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
 - <https://gist.github.com/bmaupin/d2d243218863320b01b0c1e1ca0cf5f3>
 - <https://github.com/anaibol/awesome-serverless#hosting-and-code-execution-in-the-cloud>
+- <https://hostdealradar.com>
 - <https://hostingshortlist.com/data/price-index>
+- <https://shielddigest.com/web-hosting>
 - <https://www.flightcontrol.dev>
 - <https://www.vpsbenchmarks.com>
-- <https://shielddigest.com/web-hosting>
 
 ---
 
