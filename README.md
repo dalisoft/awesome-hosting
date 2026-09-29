@@ -436,7 +436,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                                | -           |      |
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                                    | No          |      |
 | [Chutes](https://chutes.ai)                   | [Pricing](https://chutes.ai/pricing)                                                   | -           | -    |
-| [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                         | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                                    | -           | -    |
 | [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                                    | -           | -    |
 | [LithosAI](https://lithosai.com)              | [Pricing](https://www.lithosai.com/pricing)                                            | -           | -    |
