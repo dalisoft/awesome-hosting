@@ -424,6 +424,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                             | -           | Yes  |
 | [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)              | -           |      |
 | [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com/pricing) (0.15/0.50 \$/1M token) for GLM-5.3-Flash | -           | -    |
+| [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference) (0.15/0.50 \$/1M token) for GLM-5.3-Flash        | -           | -    |
 | [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.15/0.60 \$/1M token)                          | $5 credit   |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token)           | -           |      |
 | [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)                   | $5 credit   |      |
@@ -441,7 +442,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                                         | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                                | -           |      |
 | [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                                      | -           | -    |
-| [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference)                                                  | -           | -    |
 | [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                                       | $5 credit   | -    |
 
 #### Gateways
