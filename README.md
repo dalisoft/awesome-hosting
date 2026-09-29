@@ -453,7 +453,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [OpenRouter](https://openrouter.ai)                          | [Pricing](https://openrouter.ai/pricing)        | -         |      |
 | [OrcaRouter](https://orcarouter.ai)                          | [Pricing](https://orcarouter.ai/pricing)        | $5 credit |      |
 | [Requesty][requesty-ai-ref]                                  | [Pricing](https://www.requesty.ai/pricing)      | $6 credit |      |
-| [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing / API](https://surplusintelligence.ai) | -         | -    |
+| [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing](https://surplusintelligence.ai)       | -         | -    |
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing / API](https://usepod.ai)              | -         | -    |
 | [Venice](https://venice.ai)                                  | [Pricing / API](https://venice.ai)              | -         | -    |
