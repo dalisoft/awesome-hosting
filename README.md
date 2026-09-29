@@ -408,6 +408,8 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 
 #### Tokens
 
+Multi-model inference APIs billed by token usage.
+
 > Minimal plan and/or price is referred for price per million token (input/output)
 > for gpt-oss-120b. Pricing/API links without a numeric rate do not imply that this
 > model is available.
@@ -429,7 +431,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                           | No          |      |
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Chutes](https://chutes.ai)                   | [Pricing / API](https://chutes.ai)                                            | -           | -    |
-| [Command Code](https://commandcode.ai)        | [GOAT API access](https://commandcode.ai)                                     | -           | -    |
 | [Fast Inference](https://fast.inference.net)  | [API access](https://fast.inference.net)                                      | -           | -    |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
