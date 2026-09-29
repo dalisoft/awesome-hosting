@@ -466,6 +466,7 @@ This method known as: Auto-switch, Auto Router
 | ------------------------------------------------------------------- | ------------ | ----- | --------------------------- |
 | [BTL Runtime](https://runtime.badtheorylabs.com)                    | 4%           | $5    | -                           |
 | [Factory Router](https://factory.ai/news/factory-router)            | 0%           | -     | [Droid](https://factory.ai) |
+| [FireRouter](https://app.fireworks.ai/fire-router)                  | -            | $1    | -                           |
 | [Kilo Auto Efficient](https://kilo.ai/auto-model)                   | 0%           | -     | -                           |
 | [NadirClaw](https://github.com/NadirRouter/NadirClaw)               | -            | -     | -                           |
 | [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                           |
