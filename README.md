@@ -456,7 +456,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing](https://surplusintelligence.ai)       | -         | -    |
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing](https://usepod.ai)                    | -         | -    |
-| [Venice](https://venice.ai)                                  | [Pricing / API](https://venice.ai)              | -         | -    |
+| [Venice](https://venice.ai)                                  | [Pricing](https://venice.ai)                    | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
 
