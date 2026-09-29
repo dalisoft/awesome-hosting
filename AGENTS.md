@@ -50,6 +50,7 @@ REF1: [README](./README.md)
 
 ### LLM/Inference API
 
+- Tokens includes APIs offering multiple open-weight model families with per-token pricing. Exclude providers offering only their own model family, subscription-only access, or GPU compute without a multi-model token-priced API.
 - Model price is for `gpt-oss-120b` where available, including provider variants such as `gpt-oss-120b-fast`
 - Token pricing reference models should be released after 01 August 2025
 - If `gpt-oss-120b` or its provider variants are unavailable, use verified `GLM-5.3-Flash` pricing as the alternative. If neither model can be verified, leave a pricing link without a forced model price.
