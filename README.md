@@ -425,7 +425,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token) | -           |      |
 | [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)         | $5 credit   |      |
 | [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                       | -           |      |
-| [Aster](https://asterlab.ai)                  | [Pricing / API](https://asterlab.ai/inference)                                | -           | -    |
+| [Aster](https://asterlab.ai)                  | [Pricing](https://asterlab.ai/inference)                                      | -           | -    |
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                           | No          |      |
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                    | 200K tokens | Yes  |
 | [Chutes](https://chutes.ai)                   | [Pricing / API](https://chutes.ai)                                            | -           | -    |
