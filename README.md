@@ -423,10 +423,10 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token)          | -           | -    |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing) (0.15/0.50 \$/1M token)                | -           |      |
 | [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com/pricing) (0.15/0.50 \$/1M token)         | -           | -    |
+| [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference) (0.15/0.50 \$/1M token)                | -           | -    |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)               | $1 credit   |      |
 | [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                   | -           | Yes  |
 | [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)    | -           |      |
-| [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference) (0.15/0.50 \$/1M token)                | -           | -    |
 | [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.15/0.60 \$/1M token)                | $5 credit   |      |
 | [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token) | -           |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/openai/gpt-oss-120b) (0.18/0.72 \$/1M token)  | -           |      |
