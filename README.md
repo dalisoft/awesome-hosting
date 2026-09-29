@@ -412,36 +412,36 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 > Minimal plan and/or price is referred for price per million token (input/output)
 > for gpt-oss-120b
 
-| Name                                          | Minimal plan                                                                           | Trial       | Free |
-| --------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- | ---- |
-| [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.037/0.17 \$/1M token)                      | -           |      |
-| [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                           | -           |      |
-| [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai) (0.07/0.20 \$/1M token)                                 | -           | -    |
-| [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)                      | $1 credit   |      |
-| [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)              |             |      |
-| [Parasail](https://parasail.io)               | [Pricing](https://www.parasail.io/pricing) (0.10/0.75 \$/1M token)                     | $10 credit  |      |
-| [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token)                   | -           | -    |
-| [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)                        | $1 credit   |      |
-| [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing) (0.15/0.50 \$/1M token)                         | -           |      |
-| [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                            | -           | Yes  |
-| [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)             | -           |      |
-| [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com/pricing) (0.15/0.50 \$/1M token)                  | -           | -    |
-| [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference) (0.15/0.50 \$/1M token)                         | -           | -    |
-| [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.15/0.60 \$/1M token)                         | $5 credit   |      |
-| [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token)          | -           |      |
-| [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/openai/gpt-oss-120b) (0.18/0.72 \$/1M token)           | -           |      |
-| [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)                  | $5 credit   |      |
-| [Aster](https://asterlab.ai)                  | [Pricing](https://asterlab.ai/inference) (0.30/1.20 \$/1M token) for gpt-oss-120b-fast | -           | -    |
-| [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing) (0.35/0.75 \$/1M token)                     | 200K tokens | Yes  |
-| [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                                | -           |      |
-| [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                                    | No          |      |
-| [Chutes](https://chutes.ai)                   | [Pricing](https://chutes.ai/pricing)                                                   | -           | -    |
-| [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                                    | -           | -    |
-| [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                                    | -           | -    |
-| [LithosAI](https://lithosai.com)              | [Pricing](https://www.lithosai.com/pricing)                                            | -           | -    |
-| [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                              | -           |      |
-| [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                                     | -           | -    |
-| [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                                      | $5 credit   | -    |
+| Name                                          | Minimal plan                                                                  | Trial       | Free |
+| --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
+| [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.037/0.17 \$/1M token)             | -           |      |
+| [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                  | -           |      |
+| [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai) (0.07/0.20 \$/1M token)                        | -           | -    |
+| [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)             | $1 credit   |      |
+| [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)     |             |      |
+| [Parasail](https://parasail.io)               | [Pricing](https://www.parasail.io/pricing) (0.10/0.75 \$/1M token)            | $10 credit  |      |
+| [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token)          | -           | -    |
+| [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)               | $1 credit   |      |
+| [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing) (0.15/0.50 \$/1M token)                | -           |      |
+| [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                   | -           | Yes  |
+| [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)    | -           |      |
+| [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com/pricing) (0.15/0.50 \$/1M token)         | -           | -    |
+| [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference) (0.15/0.50 \$/1M token)                | -           | -    |
+| [together.ai](https://together.ai)            | [Pricing](https://together.ai/pricing) (0.15/0.60 \$/1M token)                | $5 credit   |      |
+| [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (0.1545/0.6180 \$/1M token) | -           |      |
+| [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/openai/gpt-oss-120b) (0.18/0.72 \$/1M token)  | -           |      |
+| [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)         | $5 credit   |      |
+| [Aster](https://asterlab.ai)                  | [Pricing](https://asterlab.ai/inference) (0.30/1.20 \$/1M token)              | -           | -    |
+| [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing) (0.35/0.75 \$/1M token)            | 200K tokens | Yes  |
+| [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                       | -           |      |
+| [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                           | No          |      |
+| [Chutes](https://chutes.ai)                   | [Pricing](https://chutes.ai/pricing)                                          | -           | -    |
+| [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                           | -           | -    |
+| [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                           | -           | -    |
+| [LithosAI](https://lithosai.com)              | [Pricing](https://www.lithosai.com/pricing)                                   | -           | -    |
+| [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
+| [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                            | -           | -    |
+| [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                             | $5 credit   | -    |
 
 #### Gateways
 
