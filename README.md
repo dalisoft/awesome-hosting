@@ -438,10 +438,10 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com)                                         | -           | -    |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                      | -           |      |
-| [RunAnywhere](https://runanywhere.ai)         | [Pricing](https://runanywhere.ai)                                             | $5 credit   | -    |
 | [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api)                                  | -           | -    |
 | [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                            | -           | -    |
 | [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference)                                        | -           | -    |
+| [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                             | $5 credit   | -    |
 
 #### Gateways
 
