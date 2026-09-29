@@ -432,9 +432,9 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/openai/gpt-oss-120b) (0.18/0.72 \$/1M token)            | -           |      |
 | [SambaNova](https://sambanova.ai)             | [Pricing](https://cloud.sambanova.ai/pricing) (0.22/0.59 \$/1M token)                   | $5 credit   |      |
 | [Aster](https://asterlab.ai)                  | [Pricing](https://asterlab.ai/inference) (0.30/1.20 \$/1M token) for gpt-oss-120b-fast  | -           | -    |
+| [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing) (0.35/0.75 \$/1M token)                      | 200K tokens | Yes  |
 | [wafer](https://wafer.ai)                     | [Pricing](https://www.wafer.ai) (0.60/3.60 \$/1M token)                                 | -           |      |
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                                     | No          |      |
-| [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                              | 200K tokens | Yes  |
 | [Chutes](https://chutes.ai)                   | [Pricing](https://chutes.ai)                                                            | -           | -    |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                          | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                                     | -           | -    |
