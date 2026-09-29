@@ -420,7 +420,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)                       | $1 credit   |      |
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)               |             |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.parasail.io/pricing) (0.10/0.75 \$/1M token)                      | $10 credit  |      |
-| [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token) for GLM-5.3-Flash  | -           | -    |
+| [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token)                    | -           | -    |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)                         | $1 credit   |      |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing) (0.15/0.50 \$/1M token) for GLM-5.3-Flash        | -           |      |
 | [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                             | -           | Yes  |
