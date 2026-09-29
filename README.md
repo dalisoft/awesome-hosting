@@ -422,6 +422,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Parasail](https://parasail.io)               | [Pricing](https://www.parasail.io/pricing) (0.10/0.75 \$/1M token)            | $10 credit  |      |
 | [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token)          | -           | -    |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing) (0.15/0.50 \$/1M token)                | -           |      |
+| [LithosAI](https://lithosai.com)              | [Pricing](https://www.lithosai.com/pricing) (0.15/0.50 \$/1M token)           | -           | -    |
 | [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com/pricing) (0.15/0.50 \$/1M token)         | -           | -    |
 | [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference) (0.15/0.50 \$/1M token)                | -           | -    |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)               | $1 credit   |      |
@@ -438,7 +439,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Chutes](https://chutes.ai)                   | [Pricing](https://chutes.ai/pricing)                                          | -           | -    |
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                           | -           | -    |
 | [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                           | -           | -    |
-| [LithosAI](https://lithosai.com)              | [Pricing](https://www.lithosai.com/pricing)                                   | -           | -    |
 | [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                            | -           | -    |
 | [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                             | $5 credit   | -    |
