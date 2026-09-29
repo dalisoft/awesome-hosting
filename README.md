@@ -462,15 +462,16 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 
 This method known as: Auto-switch, Auto Router
 
-| Name                                                                | Fee          | Trial | Tied to                     |
-| ------------------------------------------------------------------- | ------------ | ----- | --------------------------- |
-| [BTL Runtime](https://runtime.badtheorylabs.com)                    | 4%           | $5    | -                           |
-| [Factory Router](https://factory.ai/news/factory-router)            | 0%           | -     | [Droid](https://factory.ai) |
-| [Kilo Auto Efficient](https://kilo.ai/auto-model)                   | 0%           | -     | -                           |
-| [NadirClaw](https://github.com/NadirRouter/NadirClaw)               | -            | -     | -                           |
-| [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                           |
-| [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
-| [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
+| Name                                                                | Fee          | Trial | Tied to                           |
+| ------------------------------------------------------------------- | ------------ | ----- | --------------------------------- |
+| [BTL Runtime](https://runtime.badtheorylabs.com)                    | 4%           | $5    | -                                 |
+| [Factory Router](https://factory.ai/news/factory-router)            | 0%           | -     | [Droid](https://factory.ai)       |
+| [FireRouter](https://app.fireworks.ai/fire-router)                  | -            | $1    | [Fireworks](https://fireworks.ai) |
+| [Kilo Auto Efficient](https://kilo.ai/auto-model)                   | 0%           | -     | -                                 |
+| [NadirClaw](https://github.com/NadirRouter/NadirClaw)               | -            | -     | -                                 |
+| [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                                 |
+| [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                                 |
+| [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                                 |
 
 #### Fusion Model Routers
 
