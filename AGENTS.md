@@ -53,7 +53,7 @@ REF1: [README](./README.md)
 - Model price is for `gpt-oss-120b` where available, including provider variants such as `gpt-oss-120b-fast`
 - Token pricing reference models should be released after 01 August 2025
 - If `gpt-oss-120b` or its provider variants are unavailable, use verified `GLM-5.3-Flash` pricing as the alternative. If neither model can be verified, leave a pricing link without a forced model price.
-- Keep the Tokens description unchanged. Do not append `for GLM-5.3-Flash` to README pricing cells; record the reference model and pricing source in the provider's commit body.
+- Keep the Tokens description unchanged. Never append model names or `for <model>` suffixes to README pricing cells, including `for gpt-oss-120b-fast`, `for GLM-5.3-Flash`, or `for GLM-5.3-Fast`. Record the reference model and pricing source in the provider's commit body instead.
 - Before changing the token reference model or calling a model universal, extract every provider from `README.md` `LLM/Inference API` -> `Tokens` and verify the model provider-by-provider.
 - Universal model verification must include all current Tokens providers by name, with evidence/status for each provider; do not skip entries such as `together.ai`, providers with reference-style links, or rows without explicit pricing.
 - If any Tokens provider cannot be verified for the exact model, do not call the model universal; document the missing provider(s) and keep the fallback rule.
