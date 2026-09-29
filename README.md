@@ -432,7 +432,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                   | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                           | -           | -    |
-| [Inco AI](https://inco.ai)                    | [Pricing / API](https://platform.inco.ai)                                     | -           | -    |
+| [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                           | -           | -    |
 | [Isoquant](https://isoquant.ai)               | [Pricing / API](https://isoquant.ai)                                          | -           | -    |
 | [LithosAI](https://lithosai.com)              | [Pricing / API](https://console.lithosai.cloud)                               | -           | -    |
 | [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
