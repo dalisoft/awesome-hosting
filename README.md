@@ -419,6 +419,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai) (0.07/0.20 \$/1M token) for GLM-5.3-Flash                | -           | -    |
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)                       | $1 credit   |      |
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)               |             |      |
+| [Parasail](https://parasail.io)               | [Pricing](https://www.parasail.io/pricing) (0.10/0.75 \$/1M token)                      | $10 credit  |      |
 | [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token) for GLM-5.3-Flash  | -           | -    |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)                         | $1 credit   |      |
 | [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing) (0.15/0.50 \$/1M token) for GLM-5.3-Flash        | -           |      |
@@ -439,7 +440,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                                     | -           | -    |
 | [LithosAI](https://lithosai.com)              | [Pricing](https://console.lithosai.cloud)                                               | -           | -    |
 | [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                               | -           |      |
-| [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                                         | $10 credit  |      |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                                | -           |      |
 | [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                                      | -           | -    |
 | [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                                       | $5 credit   | -    |
