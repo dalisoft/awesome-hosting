@@ -59,6 +59,7 @@ REF1: [README](./README.md)
 - If any Tokens provider cannot be verified for the exact model, do not call the model universal; document the missing provider(s) and keep the fallback rule.
 - Model price schema: `[Pricing](https://groq.com/pricing) (INPUT/OUTPUT \$/1M token)`
 - Model price example: `[Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)`
+- Sort Tokens by input price, then output price, then provider name (case-insensitive). Keep pricing-link-only rows after priced rows, sorted by name.
 
 ## Examples
 
