@@ -445,7 +445,6 @@ Multi-model inference APIs billed by token usage.
 | [RunInfra](https://runinfra.ai)               | [Pricing / API](https://runinfra.ai/inference-api)                            | -           | -    |
 | [Sciforium](https://sciforium.com)            | [Pricing / API](https://console.sciforium.com/on-demand)                      | -           | -    |
 | [ScitiX](https://scitix.ai)                   | [Pricing / API](https://scitix.ai/inference)                                  | -           | -    |
-| [Z.ai](https://z.ai)                          | [Pricing / API](https://z.ai)                                                 | -           | -    |
 
 #### Gateways
 
