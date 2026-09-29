@@ -439,7 +439,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                          | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                                     | -           | -    |
 | [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                                     | -           | -    |
-| [LithosAI](https://lithosai.com)              | [Pricing](https://console.lithosai.cloud)                                               | -           | -    |
+| [LithosAI](https://lithosai.com)              | [Pricing](https://www.lithosai.com/pricing)                                             | -           | -    |
 | [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                               | -           |      |
 | [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                                      | -           | -    |
 | [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                                       | $5 credit   | -    |
