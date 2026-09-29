@@ -416,6 +416,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | --------------------------------------------- | --------------------------------------------------------------------------------------- | ----------- | ---- |
 | [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.039/0.19 \$/1M token)                       | -           |      |
 | [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                            | -           |      |
+| [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai) (0.07/0.20 \$/1M token) for GLM-5.3-Flash                | -           | -    |
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)                       | $1 credit   |      |
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)               |             |      |
 | [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token) for GLM-5.3-Flash  | -           | -    |
@@ -435,7 +436,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                          | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                                     | -           | -    |
 | [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                                     | -           | -    |
-| [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai)                                                          | -           | -    |
 | [LithosAI](https://lithosai.com)              | [Pricing](https://console.lithosai.cloud)                                               | -           | -    |
 | [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                               | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                                         | $10 credit  |      |
