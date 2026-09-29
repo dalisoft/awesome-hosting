@@ -408,8 +408,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 
 #### Tokens
 
-Multi-model inference APIs billed by token usage.
-
 > Minimal plan and/or price is referred for price per million token (input/output)
 > for gpt-oss-120b. Pricing/API links without a numeric rate do not imply that this
 > model is available.
