@@ -421,6 +421,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)               |             |      |
 | [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token) for GLM-5.3-Flash  | -           | -    |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)                         | $1 credit   |      |
+| [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing) (0.15/0.50 \$/1M token) for GLM-5.3-Flash        | -           |      |
 | [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                             | -           | Yes  |
 | [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)              | -           |      |
 | [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com/pricing) (0.15/0.50 \$/1M token) for GLM-5.3-Flash | -           | -    |
@@ -433,7 +434,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Atlas Cloud](https://www.atlascloud.ai)      | [Pricing](https://www.atlascloud.ai/pricing/models)                                     | No          |      |
 | [Cerebras](https://www.cerebras.ai) ⛔️        | [Pricing](https://www.cerebras.ai/pricing)                                              | 200K tokens | Yes  |
 | [Chutes](https://chutes.ai)                   | [Pricing](https://chutes.ai)                                                            | -           | -    |
-| [Friendli](https://friendli.ai)               | [Pricing](https://friendli.ai/pricing/serverless-endpoints)                             | -           |      |
 | [Hyperbolic](https://hyperbolic.ai)           | [Pricing](https://www.hyperbolic.ai/inference)                                          | $1 credit   |      |
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                                     | -           | -    |
 | [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                                     | -           | -    |
