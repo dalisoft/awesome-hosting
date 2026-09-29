@@ -128,7 +128,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | [DigitalOcean Platform][do-ref]                                       | [Pay-as-you-Go][do-ref] (5 \$/m)                                               | $200 credit | Yes                    |             |
 | [Rivet](https://rivet.dev)                                            | [Hobby](https://rivet.dev/pricing) (5 \$/m)                                    | No          | Yes                    |             |
 | [DeployBase](https://deploybase.io)                                   | [Starter](https://deploybase.io/pricing) (6 \$/m)                              | No          | No                     |             |
-| [SnapDeploy](https://snapdeploy.dev)                                  | [Always-On Small](https://snapdeploy.dev/pricing) (12 \$/m)                    | No          | 100 h / month     |             |
+| [SnapDeploy](https://snapdeploy.dev)                                  | [Always-On Small](https://snapdeploy.dev/pricing) (12 \$/m)                    | No          | 100 h / month          |             |
 | [Fly.io Machines](https://fly.io/docs/machines)                       | [Pay-as-you-Go](https://fly.io/pricing)                                        | No          | No                     |             |
 
 ### Lambda
