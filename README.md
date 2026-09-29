@@ -434,7 +434,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Inception](https://inceptionlabs.ai)         | [Pricing](https://inceptionlabs.ai)                                           | -           | -    |
 | [Inco AI](https://inco.ai)                    | [Pricing](https://platform.inco.ai)                                           | -           | -    |
 | [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai)                                                | -           | -    |
-| [LithosAI](https://lithosai.com)              | [Pricing / API](https://console.lithosai.cloud)                               | -           | -    |
+| [LithosAI](https://lithosai.com)              | [Pricing](https://console.lithosai.cloud)                                     | -           | -    |
 | [nahcrof](https://ai.nahcrof.com) ❌          | [Pricing](https://ai.nahcrof.com/pricing)                                     | -           |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                               | $10 credit  |      |
 | [Prism](https://prisminference.com)           | [Pricing / API](https://prisminference.com)                                   | -           | -    |
