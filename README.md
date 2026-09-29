@@ -416,7 +416,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | --------------------------------------------- | --------------------------------------------------------------------------------------- | ----------- | ---- |
 | [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.037/0.17 \$/1M token)                       | -           |      |
 | [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                            | -           |      |
-| [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai) (0.07/0.20 \$/1M token) for GLM-5.3-Flash                | -           | -    |
+| [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai) (0.07/0.20 \$/1M token)                                  | -           | -    |
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)                       | $1 credit   |      |
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)               |             |      |
 | [Parasail](https://parasail.io)               | [Pricing](https://www.parasail.io/pricing) (0.10/0.75 \$/1M token)                      | $10 credit  |      |
