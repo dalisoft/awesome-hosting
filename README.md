@@ -418,6 +418,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                           | -           |      |
 | [Baseten](https://www.baseten.co)             | [Pricing](https://www.baseten.co/pricing) (0.10/0.50 \$/1M token)                      | $1 credit   |      |
 | [GMICloud](https://www.gmicloud.ai)           | [Pricing](https://www.gmicloud.ai/en/models/maas) (0.10/0.50 \$/1M token)              |             |      |
+| [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api) (0.11/0.45 \$/1M token) for GLM-5.3-Flash | -           | -    |
 | [Fireworks.ai](https://fireworks.ai)          | [Pricing](https://fireworks.ai/pricing) (0.15/0.60 \$/1M token)                        | $1 credit   |      |
 | [Groq](https://groq.com)                      | [Pricing](https://groq.com/pricing) (0.15/0.60 \$/1M token)                            | -           | Yes  |
 | [Nebius](https://nebius.com)                  | [Pricing](https://nebius.com/token-factory/prices) (0.15/0.60 \$/1M token)             | -           |      |
@@ -439,7 +440,6 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [Parasail](https://parasail.io)               | [Pricing](https://www.saas.parasail.io/pricing)                                        | $10 credit  |      |
 | [Prism](https://prisminference.com)           | [Pricing](https://prisminference.com)                                                  | -           | -    |
 | [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing)                                               | -           |      |
-| [RunInfra](https://runinfra.ai)               | [Pricing](https://runinfra.ai/inference-api)                                           | -           | -    |
 | [Sciforium](https://sciforium.com)            | [Pricing](https://console.sciforium.com/on-demand)                                     | -           | -    |
 | [ScitiX](https://scitix.ai)                   | [Pricing](https://scitix.ai/inference)                                                 | -           | -    |
 | [Wally](https://runwally.com)                 | [Pricing](https://runanywhere.ai)                                                      | $5 credit   | -    |
