@@ -111,6 +111,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [Disco](https://disco.cloud)                                             | Your infrastructure                                           | -           | Self-Hosted       |             | Dynamic | -      |
 | [Dokku](https://dokku.com)                                               | Your infrastructure                                           | -           | Self-Hosted       |             | Dynamic | -      |
 | [Dokploy](https://dokploy.com)                                           | Your infrastructure                                           | -           | Self-Hosted       | Yes         | Dynamic | -      |
+| [Peon](https://peon.sh)                                                  | Your infrastructure                                           | -           | Self-Hosted       | Yes         | Dynamic | -      |
 | [PocketBase](https://pocketbase.io)                                      | Your infrastructure                                           | -           | Self-Hosted       |             | Dynamic | -      |
 | [ServerKit](https://www.serverkit.ai)                                    | Your infrastructure                                           | -           | Self-Hosted       | Yes         | Dynamic | -      |
 
