@@ -193,6 +193,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [Vercel](https://vercel.com)                                     | [Pro](https://vercel.com/pricing) (20 \$/m)              | No          | Yes       | Increase resource | Static | Yes    |
 | [appwrite Sites](https://appwrite.io/products/sites)             | [Pro](https://appwrite.io/pricing) (25 \$/m)             | No          | Yes       | Yes               | Static | No     |
 | [Cloudflare Pages](https://pages.cloudflare.com)                 | [Pro](https://pages.cloudflare.com) (25 \$/m)            | No          | Yes       |                   | Static | No     |
+| [Shipvela](https://shipvela.com)                                 | [Pro](https://shipvela.com/#pricing) (29 \$/m)           | No          | Hobby     |                   | Static | No     |
 | [tinacms](https://tina.io)                                       | [Team](https://tina.io/pricing) (29 \$/user/m)           | No          | -         |                   | Static | No     |
 | [ZeroDeploy](https://zerodeploy.dev)                             | [Pro](https://zerodeploy.dev) (29 \$/m)                  | No          | Yes       |                   | Static | No     |
 | [Surge](https://surge.sh)                                        | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No          | Yes       |                   | Static | No     |
