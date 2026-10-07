@@ -529,6 +529,7 @@ while executes with Build (cheap) model.
 - <https://hostingshortlist.com/data/price-index>
 - <https://shielddigest.com/web-hosting>
 - <https://www.flightcontrol.dev>
+- <https://www.stackscan.com/blog/web-hosting-statistics>
 - <https://www.vpsbenchmarks.com>
 
 ---
