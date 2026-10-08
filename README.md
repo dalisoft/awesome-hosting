@@ -164,6 +164,7 @@ List of all Node.js hosting platform <sup>[1](#status)</sup>
 | [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No     | No                       |             | All  | No     |
 | [Glitch](https://glitch.com) 🛑                     | [Pro](https://glitch.com/pricing) (8 \$/m)                           | No     | Open-source ideas        |             | All  | ?      |
 | [GearHost](https://www.gearhost.com)                | [Hobby](https://www.gearhost.com/pricing) (10 \$/m)                  | No     | Yes (1 App + 1 Database) |             | All  | No     |
+| [Prisma Compute](https://www.prisma.io/compute)     | [Starter](https://www.prisma.io/pricing) (10 \$/m)                   | No     | Yes (1M req / month)     |             | All  | No     |
 | [StormKit](https://www.stormkit.io)                 | [Starter](https://www.stormkit.io/#pricing) (20 \$/m)                | No     | Yes (1 App)              |             | All  | No     |
 | [upsun](https://upsun.com)                          | [Professional](https://upsun.com/fixed-pricing)                      | ?      | No                       |             | All  | No     |
 | [OpenShift](https://www.openshift.com)              | [Pay-as-you-Go](https://www.openshift.com/products/pricing)          | 30-day | No                       |             | All  | No     |
@@ -302,6 +303,7 @@ List of all managed databases <sup>[1](#status)</sup>
 | [Scalingo](https://scalingo.com/databases)                      | Any                    | [Starter 512M](https://scalingo.com/pricing) (€ 7.2/m)                                           | No          | Yes              |             |
 | [beget](https://beget.com)                                      | MySQL/PostgreSQL       | [Pricing](https://beget.com/en/cloud/dbaas-postgresql) (€ 8.65/m)                                | No          | No               |             |
 | [xata](https://xata.io)                                         | PostgreSQL             | [Pay-as-you-Go](https://xata.io/pricing) (9 \$/m)                                                | No          | No               |             |
+| [Prisma Postgres](https://www.prisma.io/postgres)               | PostgreSQL             | [Starter](https://www.prisma.io/pricing) (10 \$/m)                                               | No          | 1Gb storage      |             |
 | [Aiven][aiven-ref]                                              | Any                    | Hobbyist (12 \$/m)                                                                               | Cloud       | `do-nyc` plans   |             |
 | [DigitalOcean Database][do-ref]                                 | Any                    | [Pay-as-you-Go][do-ref] (15 \$/m)                                                                | $200 credit | No               |             |
 | [Vultr Database][vultr-ref]                                     | Any                    | [Pay-as-you-Go][vultr-ref] (15 \$/m)                                                             | $300 credit | No               |             |
