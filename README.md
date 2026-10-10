@@ -160,6 +160,7 @@ List of all Node.js hosting platform <sup>[1](#status)</sup>
 | --------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------------------------ | ----------- | ---- | ------ |
 | [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No     | Developer Sandbox        |             | All  | No     |
 | [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No     | Yes (1 app)              |             | All  | Yes    |
+| [Ownkube](https://ownkube.io)                       | [Personal](https://ownkube.io/pricing) (5 \$/m)                      | No     | No                       |             | All  | No     |
 | [Railway](https://railway.com)                      | [Hobby](https://railway.com/pricing) (5 \$/m)                        | No     | No                       |             | All  | Yes    |
 | [Qoddi](https://qoddi.com)                          | [XS](https://qoddi.com/pricing) (6 \$/m)                             | No     | Static-only              |             | All  | No     |
 | [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No     | No                       |             | All  | No     |
@@ -293,6 +294,7 @@ List of all managed databases <sup>[1](#status)</sup>
 | Name                                                            | Type                   | Minimal plan                                                                                     | Trial       | Free             | Open Source |
 | --------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ | ----------- | ---------------- | ----------- |
 | [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€ 3/m)                                                      | No          | 10Mb Storage     |             |
+| [Ownkube](https://ownkube.io)                                   | PostgreSQL             | [DB 0.5](https://ownkube.io/pricing) (4 \$/m)                                                    | No          | No               |             |
 | [alwaysdata](https://www.alwaysdata.com/en)                     | Any                    | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                                             | No          | Yes              |             |
 | [freedb.tech](https://freedb.tech)                              | MySQL                  | [PRO](https://freedb.tech) (5 \$/m)                                                              | No          | Yes              |             |
 | [neon](https://neon.tech)                                       | PostgreSQL             | [Launch](https://neon.tech/pricing) (5 \$/m)                                                     | No          | Yes              |             |
