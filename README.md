@@ -160,6 +160,7 @@ List of all Node.js hosting platform <sup>[1](#status)</sup>
 | --------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------------------------ | ----------- | ---- | ------ |
 | [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No     | Developer Sandbox        |             | All  | No     |
 | [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No     | Yes (1 app)              |             | All  | Yes    |
+| [Ownkube](https://ownkube.io)                       | [Personal](https://ownkube.io/pricing) (5 \$/m)                      | No     | No                       |             | All  | No     |
 | [Railway](https://railway.com)                      | [Hobby](https://railway.com/pricing) (5 \$/m)                        | No     | No                       |             | All  | Yes    |
 | [Qoddi](https://qoddi.com)                          | [XS](https://qoddi.com/pricing) (6 \$/m)                             | No     | Static-only              |             | All  | No     |
 | [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No     | No                       |             | All  | No     |
