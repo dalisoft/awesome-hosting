@@ -158,6 +158,7 @@ List of all Node.js hosting platform <sup>[1](#status)</sup>
 
 | Name                                                | Minimal plan                                                         | Trial  | Free                     | Open Source | Type | Lambda |
 | --------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------------------------ | ----------- | ---- | ------ |
+| [FadeHost](https://fadehost.com/app-hosting/)       | [Starter](https://fadehost.com/plans-and-limits/) (2 \$/m)            | No     | Yes (1 app, 256 MB)      |             | All  | No     |
 | [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No     | Developer Sandbox        |             | All  | No     |
 | [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No     | Yes (1 app)              |             | All  | Yes    |
 | [Railway](https://railway.com)                      | [Hobby](https://railway.com/pricing) (5 \$/m)                        | No     | No                       |             | All  | Yes    |
