@@ -1,7 +1,7 @@
 {
-  "model": "claude-sonnet-4-6",
+  "model": "sonnet",
   "env": {
-    "ANTHROPIC_MODEL": "claude-sonnet-4-6"
+    "ANTHROPIC_MODEL": "sonnet"
   },
   "effortLevel": "low",
   "availableModels": ["sonnet", "haiku"]
