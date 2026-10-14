@@ -1,8 +1,6 @@
 [global]
-# Docs keep one paragraph per line.
-disable = []
+disable = ["MD013", "MD033"]
 
 [MD060]
-# Keep table columns aligned so `rumdl fmt` formats tables.
 enabled = true
 style = "aligned"
