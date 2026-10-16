@@ -538,6 +538,7 @@ while executes with Build (cheap) model.
 - <https://hostdealradar.com>
 - <https://hostingshortlist.com/data/price-index>
 - <https://shielddigest.com/web-hosting>
+- <https://vpshostreview.com>
 - <https://www.flightcontrol.dev>
 - <https://www.vpsbenchmarks.com>
 
