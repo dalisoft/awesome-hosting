@@ -126,7 +126,6 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---------------------- | ----------- |
 | [Google Run](https://cloud.google.com/run)                            | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)           | No          | 2M invocations / month |             |
 | [Northflank](https://northflank.com)                                  | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)                     | No          | Developer Sandbox      |             |
-| [The Vibe Hosting](https://thevibehosting.com)                        | [Pay-as-you-Go](https://thevibehosting.com/pricing) (3.6 \$/m per GB RAM)      | No          | 512 MB 24/7, 1 GB disk |             |
 | [podway](https://podway.io)                                           | [Mini](https://podway.io/apps) (4 \$/m)                                        | No          | 1 app                  |             |
 | [Cloudflare Containers](https://developers.cloudflare.com/containers) | [Pay-as-you-Go](https://developers.cloudflare.com/containers/pricing) (5 \$/m) | No          | No                     |             |
 | [DigitalOcean Platform][do-ref]                                       | [Pay-as-you-Go][do-ref] (5 \$/m)                                               | $200 credit | Yes                    |             |
@@ -255,6 +254,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [LightSail](https://aws.amazon.com/lightsail)     | [See plans](https://aws.amazon.com/lightsail/pricing) (3.5 \$/m)              | 3-Month            | No                    | Unlimited cloud? |
 | [UpCloud][upcloud-ref] ✅                         | Starter (€ 3/m)                                                               | -                  | $25 credit            |                  |
 | [Waicore][waicore-ref]                            | Germany EP1 (€ 3/m)                                                           | No                 | No                    |                  |
+| [The Vibe Hosting](https://thevibehosting.com)    | [Pay-as-you-Go](https://thevibehosting.com/pricing) (3.6 \$/m per GB RAM)     | No                 | 512 MB 24/7, 1GB disk |                  |
 | [netcup](https://www.netcup.com)                  | [VPS 250 G11s](https://www.netcup.com/en/server/vps) (€ 3.35/m)               | No                 | No                    |                  |
 | [Scaleway](https://www.scaleway.com)              | [Stardust1-s](https://www.scaleway.com/en/pricing) (€ 3.35/m)                 | No                 | No                    |                  |
 | [Arct Cloud](https://www.arct.cloud/pricing)      | [Pricing](https://www.arct.cloud/pricing) (3.89 \$/m)                         | No                 | No                    |                  |
