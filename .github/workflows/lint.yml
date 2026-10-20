@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v7
-      - uses: rvben/rumdl@v0.2.79
+      - uses: rvben/rumdl@v0.3.0
         with:
           config: .rumdl.toml
           command: fmt-check
