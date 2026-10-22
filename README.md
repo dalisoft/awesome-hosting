@@ -188,6 +188,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [MyVibe](https://myvibe.so)                                      | -                                                        | No          | Yes       |                   | Static | No     |
 | [Rollout](https://rollout.run)                                   | -                                                        | No          | Yes       |                   | Static | No     |
 | [Sevalla Static Sites](https://sevalla.com/static-site-hosting)  | -                                                        | No          | Yes       |                   | Static | No     |
+| [deed.page](https://deed.page)                                   | [Hobby](https://deed.page/pricing) (3 \$/m)              | No          | Yes       |                   | Static | No     |
 | [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | $200 credit | Yes       |                   | Static | No     |
 | [harvis.dev](https://harvis.dev)                                 | [Usage-based](https://harvis.dev/pricing) (5 \$/m)       | No          | Yes       |                   | Static | No     |
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No          | No        |                   | Static | No     |
