@@ -195,6 +195,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No          | No        |                   | Static | No     |
 | [Qoddi](https://qoddi.com)                                       | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No          | 3 apps    |                   | Static | No     |
 | [Stacktree](https://stacktr.ee)                                  | [Pro](https://stacktr.ee/pricing) (8 \$/m)               | No          | Yes       |                   | Static | No     |
+| [Benchlight](https://benchlight.dev)                             | [Own address](https://benchlight.dev/pricing) (9 \$/m)   | 14 days     | Yes       |                   | Static | No     |
 | [Netlify](https://www.netlify.com)                               | [Personal](https://www.netlify.com/pricing) (9 \$/m)     | No          | Yes       | Yes               | Static | Yes    |
 | [Layero](https://layero.ru)                                      | [Pro](https://layero.ru/pricing) (12.69 \$/m)            | No          | Yes       |                   | Static | No     |
 | [Sherpa](https://www.sherpa.sh)                                  | [Hobby](https://www.sherpa.sh/pricing) (13.99 \$/m)      | No          | Yes       |                   | Static | Yes    |
