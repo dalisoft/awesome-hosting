@@ -352,6 +352,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Salad](https://salad.com)                                  | [Pricing](https://salad.com/pricing) (0.2 \$/h)                        | No          |      |             |
 | [TensorDock](https://tensordock.com)                        | [Pricing](https://tensordock.com/cloud-gpus) (0.2 \$/h)                | No          |      |             |
 | [Novita](https://novita.ai)                                 | [Pricing](https://novita.ai/gpu-instance/pricing) (0.21 \$/h)          | $20 credit  |      |             |
+| [CloudGPU](https://cloudgpu.app)                            | [Pricing](https://cloudgpu.app/pricing) (0.21 \$/h)                    | No          |      |             |
 | [RunPod][runpod-ref]                                        | [Pricing][runpod-ref] (0.22 \$/h)                                      | $5 credit   |      |             |
 | [Akash](https://akash.network)                              | [Pricing](https://akash.network/pricing/gpus) (0.26 \$/h)              |             |      |             |
 | [gpu.nz](https://gpu.nz/en)                                 | [Pricing](https://gpu.nz/en/pricing) (0.31 \$/h)                       | No          |      |             |
@@ -391,7 +392,6 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/products/dedicated-endpoints) (2.9 \$/h) | $5 credit   |      |             |
 | [GMICloud](https://www.gmicloud.ai)                         | [Pricing](https://www.gmicloud.ai/pricing)                             |             |      |             |
 | [Cerebrium](https://cerebrium.ai)                           | [Pricing](https://cerebrium.ai/pricing)                                |             |      |             |
-| [CloudGPU](https://cloudgpu.app)                            | [Pricing](https://cloudgpu.app/pricing)                                | No          |      |             |
 | [Fal AI](https://fal.ai)                                    | [Pricing](https://fal.ai/pricing)                                      |             |      |             |
 
 ---
