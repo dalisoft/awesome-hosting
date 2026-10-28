@@ -391,6 +391,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Friendli](https://friendli.ai)                             | [Pricing](https://friendli.ai/products/dedicated-endpoints) (2.9 \$/h) | $5 credit   |      |             |
 | [GMICloud](https://www.gmicloud.ai)                         | [Pricing](https://www.gmicloud.ai/pricing)                             |             |      |             |
 | [Cerebrium](https://cerebrium.ai)                           | [Pricing](https://cerebrium.ai/pricing)                                |             |      |             |
+| [CloudGPU](https://cloudgpu.app)                            | [Pricing](https://cloudgpu.app/pricing)                                | No          |      |             |
 | [Fal AI](https://fal.ai)                                    | [Pricing](https://fal.ai/pricing)                                      |             |      |             |
 
 ---
