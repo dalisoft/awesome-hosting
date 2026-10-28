@@ -177,7 +177,7 @@ And commits keep per-entry for PR for easier track, debug, fix and diff.
 Detailed information with metadata, for example
 
 | Name                                | Minimal plan        | Trial | Free | Open Source |
-| ----------------------------------- | ------------------- | ----- | ---- | ----------- |
+|-------------------------------------|---------------------|-------|------|-------------|
 | [Megahost](https://megahost.kz/vps) | SSD-mini (6.5 \$/m) | No    | No   |             |
 
 ### PR commits
