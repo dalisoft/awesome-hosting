@@ -1,0 +1,27 @@
+name: PR Spam Guard
+# Source: https://github.com/Zijian-Ni/awesome-ai-agents-2026
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  pr_spam_audit:
+    name: PR Spam Audit
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.user.login != 'dalisoft' && github.event.pull_request.user.login != 'dependabot[bot]'
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Audit submitter
+        uses: actions/github-script@v9.0.0
+        with:
+          script: |
+            const { default: prSpamGuard } = await import('${{ github.workspace }}/.github/scripts/pr-spam-guard.js')
+
+            await prSpamGuard({github, context, core})
