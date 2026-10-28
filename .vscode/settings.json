@@ -13,5 +13,7 @@
   },
   "editor.wordWrap": "off",
   "editor.wordWrapColumn": 80,
-  "editor.rulers": [80, 120]
+  "editor.rulers": [80, 120],
+  "scm.diffDecorationsIgnoreTrimWhitespace": "inherit",
+  "diffEditor.ignoreTrimWhitespace": true
 }

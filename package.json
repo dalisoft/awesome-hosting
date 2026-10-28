@@ -1,0 +1,14 @@
+{
+  "name": "os-awesome-coding-markdown",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "bun check"
+  },
+  "devDependencies": {
+    "@actions/github-script": "github:actions/github-script",
+    "@types/bun": "latest",
+    "rumdl": "^0.3.0",
+    "typescript": "^7.0.2"
+  }
+}
