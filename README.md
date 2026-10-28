@@ -21,7 +21,7 @@ thank you Alibaba Qwen team**_
 > There amount are not real money, it is credits within sponsor platform.
 
 | Name                                          | Status   | Tier     |
-| --------------------------------------------- | -------- | -------- |
+|-----------------------------------------------|----------|----------|
 | [Qwen Ambassador](https://qwen.ai/ambassador) | Active   | Platinum |
 | [KiloCode](https://kilo.ai)                   | One-time | Silver   |
 | [Prisma](https://www.prisma.io)               | One-time | Silver   |
@@ -63,7 +63,7 @@ thank you Alibaba Qwen team**_
 List of all Web services platform <sup>[1](#status)</sup>
 
 | Name                                                                 | Minimal plan                                                     | Trial       | Free                      | Open Source | Type | Lambda |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- | ------------------------- | ----------- | ---- | ------ |
+|----------------------------------------------------------------------|------------------------------------------------------------------|-------------|---------------------------|-------------|------|--------|
 | [Cloudflare Workers](https://workers.cloudflare.com/product/workers) | [Pay-as-you-Go](https://workers.cloudflare.com/pricing) (5 \$/m) | No          | Yes                       |             | All  | Yes    |
 | [Alibaba Cloud][alibaba-cloud-ref]                                   | [Pay-as-you-Go][alibaba-cloud-ref]                               | $50 credit  | 70M tokens, $200 credit   |             | All  | Yes    |
 | [Amazon Web Services](https://aws.amazon.com)                        | [See plans](https://aws.amazon.com/pricing)                      | $200 credit | 30+ services              |             | All  | Yes    |
@@ -82,7 +82,7 @@ List of all Web services platform <sup>[1](#status)</sup>
 List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 
 | Name                                                                     | Minimal plan                                                  | Trial       | Free              | Open Source | Type    | Lambda |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------- | ----------- | ----------------- | ----------- | ------- | ------ |
+|--------------------------------------------------------------------------|---------------------------------------------------------------|-------------|-------------------|-------------|---------|--------|
 | [Cloudflare Workers](https://workers.cloudflare.com/product/workers)     | [Pro](https://workers.cloudflare.com/plans) (5 \$/m)          | No          | Yes               |             | Lambda  | Yes    |
 | [DigitalOcean Platform][do-ref]                                          | [Pay-as-you-Go][do-ref] (5 \$/m)                              | $200 credit | Yes               |             | Static  | No     |
 | [ApexWeave](https://apexweave.com)                                       | [Plans](https://apexweave.com/compare) (5 \$/m)               | Yes         | Yes               |             | Dynamic | No     |
@@ -123,7 +123,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 List of all Container-as-a-Service platform (likely Docker and Podman containers) <sup>[1](#status)</sup>
 
 | Name                                                                  | Minimal plan                                                                   | Trial       | Free                   | Open Source |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | ---------------------- | ----------- |
+|-----------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------|------------------------|-------------|
 | [Google Run](https://cloud.google.com/run)                            | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)           | No          | 2M invocations / month |             |
 | [Northflank](https://northflank.com)                                  | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)                     | No          | Developer Sandbox      |             |
 | [Hostim.dev](https://hostim.dev)                                      | [sa-1-1](https://hostim.dev/pricing/) (€ 2.5/m)                                | 5-Day       | No                     |             |
@@ -142,7 +142,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
 
 | Name                                                                 | Minimal plan                                                                                         | Trial       | Free                   | Open Source |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------- | ---------------------- | ----------- |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------|------------------------|-------------|
 | [DigitalOcean Functions][do-ref]                                     | [Pay-as-you-Go][do-ref]                                                                              | $200 credit | Yes                    |             |
 | [Azure Functions](https://azure.microsoft.com/products/functions)    | [Pay-as-you-Go](https://azure.microsoft.com/en-us/pricing/details/functions/#pricing) (0.2 \$/m req) | No          | 1M invocations / month |             |
 | [AWS Lambda](https://aws.amazon.com/lambda)                          | [Pay-as-you-Go](https://aws.amazon.com/lambda/pricing) (0.2 \$/m req)                                | No          | 100K request / day     |             |
@@ -161,7 +161,7 @@ List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
 List of all Node.js hosting platform <sup>[1](#status)</sup>
 
 | Name                                                | Minimal plan                                                         | Trial  | Free                     | Open Source | Type | Lambda |
-| --------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------------------------ | ----------- | ---- | ------ |
+|-----------------------------------------------------|----------------------------------------------------------------------|--------|--------------------------|-------------|------|--------|
 | [FadeHost](https://fadehost.com/app-hosting)        | [Starter](https://fadehost.com/plans-and-limits) (2 \$/m)            | No     | Yes (1 app, 256 MB)      |             | All  | No     |
 | [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No     | Developer Sandbox        |             | All  | No     |
 | [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No     | Yes (1 app)              |             | All  | Yes    |
@@ -183,7 +183,7 @@ List of all Node.js hosting platform <sup>[1](#status)</sup>
 List of all static site hosting platform <sup>[1](#status)</sup>
 
 | Name                                                             | Minimal plan                                             | Trial       | Free      | Open Source       | Type   | Lambda |
-| ---------------------------------------------------------------- | -------------------------------------------------------- | ----------- | --------- | ----------------- | ------ | ------ |
+|------------------------------------------------------------------|----------------------------------------------------------|-------------|-----------|-------------------|--------|--------|
 | [FreeKit](https://freekit.dev)                                   | -                                                        | No          | Yes       |                   | Static | No     |
 | [Github Pages](https://pages.github.com)                         | -                                                        | No          | Yes       |                   | Static | No     |
 | [MyVibe](https://myvibe.so)                                      | -                                                        | No          | Yes       |                   | Static | No     |
@@ -216,7 +216,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 List of Wordpress hosting <sup>[1](#status)</sup>
 
 | Name                                 | Minimal Plan                                          | Trial   | Free | Open Source |
-| ------------------------------------ | ----------------------------------------------------- | ------- | ---- | ----------- |
+|--------------------------------------|-------------------------------------------------------|---------|------|-------------|
 | [EasyWP](https://www.easywp.com)     | [Starter](https://www.easywp.com/pricing) (9.88 \$/m) | 1-Month |      |             |
 | [MoodLensAI](https://moodlensai.com) | [Builder](https://moodlensai.com/pricing) (10 \$/m)   | 1-Day   |      |             |
 | [Flywheel](https://getflywheel.com)  | [Tiny](https://getflywheel.com/pricing) (15 \$/m)     | No      |      |             |
@@ -231,7 +231,7 @@ List of Wordpress hosting <sup>[1](#status)</sup>
 List of all Virtual Private Server <sup>[1](#status)</sup>
 
 | Name                                              | Minimal plan                                                                  | Trial              | Free                  | Open Source      |
-| ------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------ | --------------------- | ---------------- |
+|---------------------------------------------------|-------------------------------------------------------------------------------|--------------------|-----------------------|------------------|
 | [MrVM](https://mrvm.net)                          | [LXC-256](https://mrvm.net/lxc) (€ 0.5/m)                                     | No                 | No                    |                  |
 | [Raven Host](https://ravenhost.space/vps-hosting) | [Starter](https://ravenhost.space/vps-hosting) (3.99 \$/m)                    | No                 | No                    |                  |
 | [OVHCloud](https://www.ovhcloud.com)              | [Starter](https://www.ovhcloud.com/en/vps) (0.97 \$/m)                        | No                 |                       |                  |
@@ -299,7 +299,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 List of all managed databases <sup>[1](#status)</sup>
 
 | Name                                                            | Type                   | Minimal plan                                                                                     | Trial       | Free             | Open Source |
-| --------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ | ----------- | ---------------- | ----------- |
+|-----------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------|-------------|------------------|-------------|
 | [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€ 3/m)                                                      | No          | 10Mb Storage     |             |
 | [Ownkube](https://ownkube.io)                                   | PostgreSQL             | [DB 0.5](https://ownkube.io/pricing) (4 \$/m)                                                    | No          | No               |             |
 | [alwaysdata](https://www.alwaysdata.com/en)                     | Any                    | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                                             | No          | Yes              |             |
@@ -341,7 +341,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 > Minimal plan and/or price is referred for single (1x) GPU per hour and GPU should be RTX 3090 or similar performance
 
 | Name                                                        | Minimal plan                                                           | Trial       | Free | Open Source |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ---- | ----------- |
+|-------------------------------------------------------------|------------------------------------------------------------------------|-------------|------|-------------|
 | [Featherless](https://featherless.ai)                       | [Lite](https://featherless.ai/#pricing) (10 \$/m)                      |             |      |             |
 | [clore][clore-ref]                                          | [Pricing][clore-ref] (1.2 \$/day)                                      | No          |      |             |
 | [Lightning](https://lightning.ai)                           | [Pricing](https://lightning.ai/pricing) (50 \$/m)                      | No          | Yes  |             |
@@ -411,7 +411,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 > Please check your country and company legal terms before using these proxy services
 
 | Name                                         | Minimal plan                                  | Trial | Usage       |
-| -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
+|----------------------------------------------|-----------------------------------------------|-------|-------------|
 | [Cavoti][proxy-cavoti-ref]                   | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
 | [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
 | [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
@@ -429,7 +429,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 > for gpt-oss-120b
 
 | Name                                          | Minimal plan                                                                  | Trial       | Free |
-| --------------------------------------------- | ----------------------------------------------------------------------------- | ----------- | ---- |
+|-----------------------------------------------|-------------------------------------------------------------------------------|-------------|------|
 | [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.037/0.17 \$/1M token)             | -           |      |
 | [Novita](https://novita.ai)                   | [Pricing](https://novita.ai/pricing) (0.05/0.25 \$/1M token)                  | -           |      |
 | [Isoquant](https://isoquant.ai)               | [Pricing](https://isoquant.ai) (0.07/0.20 \$/1M token)                        | -           | -    |
@@ -461,7 +461,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 #### Gateways
 
 | Name                                                         | Minimal plan                                    | Trial     | Free |
-| ------------------------------------------------------------ | ----------------------------------------------- | --------- | ---- |
+|--------------------------------------------------------------|-------------------------------------------------|-----------|------|
 | [Cloudflare](https://www.cloudflare.com/products/ai-gateway) | -                                               | -         | -    |
 | [NagaAI][naga-ai-ref]                                        | [Pricing](https://naga.ac/pricing)              | -         |      |
 | [OpenRouter](https://openrouter.ai)                          | [Pricing](https://openrouter.ai/pricing)        | -         |      |
@@ -480,7 +480,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 This method known as: Auto-switch, Auto Router
 
 | Name                                                                | Fee          | Trial | Tied to                     |
-| ------------------------------------------------------------------- | ------------ | ----- | --------------------------- |
+|---------------------------------------------------------------------|--------------|-------|-----------------------------|
 | [BTL Runtime](https://runtime.badtheorylabs.com)                    | 4%           | $5    | -                           |
 | [Factory Router](https://factory.ai/news/factory-router)            | 0%           | -     | [Droid](https://factory.ai) |
 | [FireRouter](https://app.fireworks.ai/fire-router)                  | -            | $1    | -                           |
@@ -498,7 +498,7 @@ How it works: it asks Advisor (smart) model for hard question or planning
 while executes with Build (cheap) model.
 
 | Name                                                         | Fee          | Trial | Tied to                                   |
-| ------------------------------------------------------------ | ------------ | ----- | ----------------------------------------- |
+|--------------------------------------------------------------|--------------|-------|-------------------------------------------|
 | [Anthropic Advisor](https://code.claude.com/docs/en/advisor) | Model fee    | -     | [Claude API](https://platform.claude.com) |
 | [Devin Fusion](https://cognition.com/blog/devin-fusion)      | 0%           | -     | [Devin CLI](https://devin.ai/cli)         |
 | [OpenRouter Fusion](https://openrouter.ai/openrouter/fusion) | Platform Fee | -     | -                                         |
@@ -509,7 +509,7 @@ while executes with Build (cheap) model.
 ### Aggregators
 
 | Name                                                 | Type | Providers |
-| ---------------------------------------------------- | ---- | --------- |
+|------------------------------------------------------|------|-----------|
 | [Cheap VPS Finder](https://cheapvpsfinder.com)       | VPS  | 4+        |
 | [Cheap VPS List](https://cheapvpslist.com)           | VPS  | 4+        |
 | [Cloud GPUs](https://cloud-gpus.com)                 | GPU  | ~5        |
