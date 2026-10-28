@@ -1,0 +1,25 @@
+name: LGTM auto-approve
+
+# approves maintainer PRs using only the workflow token (no configured
+# secrets, no pull_request_target); dependabot approvals are handled by
+# automerge.yml, and fork PRs are never auto-approved
+on: pull_request
+
+permissions:
+  pull-requests: write
+
+jobs:
+  lgtm:
+    timeout-minutes: 5
+    if: >-
+      github.actor == 'dalisoft' &&
+      github.event.pull_request.head.repo.fork == false
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          gh pr review "$PR_NUMBER" --repo "$GH_REPO" --comment -b "LGTM!" || true
+          gh pr review "$PR_NUMBER" --repo "$GH_REPO" --approve
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.number }}
