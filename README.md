@@ -276,6 +276,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Contabo](https://contabo.com/en/vps)             | [See pricing](https://contabo.com/en/pricing) (€ 4.40/m)                      | No                 | No                    |                  |
 | [Serverspace](https://serverspace.io)             | [vStack](https://serverspace.io/pricing) (€ 4.63/m)                           | No                 | No                    |                  |
 | [aeza][aeza-ref]                                  | [Shared ALBs-1](https://aeza.net/virtual-servers) (€ 4.94/m)                  |                    |                       |                  |
+| [VMHeaven](https://vmheaven.io)                   | [Standard KVM 1](https://vmheaven.io/standard-kvm) (€ 4.99/m)                 | No                 | No                    |                  |
 | [alwaysdata](https://www.alwaysdata.com/en)       | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                          | No                 | Yes                   |                  |
 | [Evolution Host](https://evolution-host.com)      | [Starter](https://evolution-host.com/vps) (€ 5/m)                             | No                 | No                    |                  |
 | [AlfaHost](https://alfahost.io)                   | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                              | No                 | No                    |                  |
