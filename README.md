@@ -472,6 +472,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [SayGM](https://saygm.com)                                   | [Pricing](https://saygm.com/models)             | $1 credit | -    |
 | [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing](https://surplusintelligence.ai)       | -         | -    |
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
+| [UberLLM](https://uberllm.dev)                               | [Pricing](https://uberllm.dev/docs/pricing)     | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing](https://usepod.ai)                    | -         | -    |
 | [Venice](https://venice.ai)                                  | [Pricing](https://venice.ai)                    | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
