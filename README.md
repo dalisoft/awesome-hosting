@@ -526,6 +526,7 @@ while executes with Build (cheap) model.
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
 | [serverlist.dev](https://serverlist.dev)             | All  | 44        |
+| [StackRates](https://stackrates.ai)                  | VPS  | 60        |
 | [vpsticker](https://vpsticker.com)                   | VPS  | 15        |
 
 ---
