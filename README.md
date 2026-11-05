@@ -284,6 +284,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Cloudzy](https://cloudzy.com)                    | [Basic](https://cloudzy.com/pricing) (7.48 \$/m)                              | 14-day             | No                    |                  |
 | [Hostworld](https://hostworld.uk)                 | [See pricing](https://hostworld.uk/ssd-vps) (9.58 \$/m)                       | No                 | No                    |                  |
 | [rdp.monster][rdp-monster-ref]                    | [Basic](https://rdp.monster) (€ 9/m)                                          | No                 | No                    |                  |
+| [NoctHost](https://nocthost.com)                  | [Micro](https://nocthost.com/pricing) (10 \$/m)                               | No                 | No                    |                  |
 | [CloudSigma](https://cloudsigma.com)              | [Small-2](https://cloudsigma.com/pricing) (12 \$/m)                           | 7-day              | No                    |                  |
 | [Hostinger](https://hostinger.com)                | [KVM 1](https://hostinger.com/vps-hosting) (14 \$/m)                          | No                 | No                    |                  |
 | [DotMoose](https://dotmoose.com/vps)              | [VPS 2](https://dotmoose.com/vps) (14.44 \$/m)                                | No                 | No                    |                  |
