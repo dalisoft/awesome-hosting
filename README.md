@@ -491,6 +491,7 @@ This method known as: Auto-switch, Auto Router
 | [NadirClaw](https://github.com/NadirRouter/NadirClaw)               | -            | -     | -                           |
 | [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                           |
 | [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
+| [Standard Compute](https://docs.standardcompute.com/models)         | Fixed rate   | $0.25 | -                           |
 | [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
 
 #### Fusion Model Routers
