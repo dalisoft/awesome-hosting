@@ -511,24 +511,25 @@ while executes with Build (cheap) model.
 
 ### Aggregators
 
-| Name                                                 | Type | Providers |
-|------------------------------------------------------|------|-----------|
-| [Cheap VPS Finder](https://cheapvpsfinder.com)       | VPS  | 4+        |
-| [Cheap VPS List](https://cheapvpslist.com)           | VPS  | 4+        |
-| [Cloud GPUs](https://cloud-gpus.com)                 | GPU  | ~5        |
-| [Cloudorado](https://www.cloudorado.com) ⚠️          | VPS  | -         |
-| [CompareVPS](https://www.comparevps.com)             | VPS  | 4+        |
-| [FindHost](https://www.findhost.app)                 | All  | 218       |
-| [GetDeploying](https://getdeploying.com)             | All  | 10+       |
-| [GPUs](https://gpus.io)                              | GPU  | ~5        |
-| [GPUVista](https://gpuvista.com)                     | GPU  | 12+       |
-| [GrabGPU](https://grabgpu.com)                       | GPU  | 22        |
-| [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
-| [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
-| [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
-| [serverlist.dev](https://serverlist.dev)             | All  | 44        |
-| [StackRates](https://stackrates.ai)                  | VPS  | 60        |
-| [vpsticker](https://vpsticker.com)                   | VPS  | 15        |
+| Name                                                         | Type | Providers |
+|--------------------------------------------------------------|------|-----------|
+| [Cheap VPS Finder](https://cheapvpsfinder.com)               | VPS  | 4+        |
+| [Cheap VPS List](https://cheapvpslist.com)                   | VPS  | 4+        |
+| [Cloud GPUs](https://cloud-gpus.com)                         | GPU  | ~5        |
+| [Cloudorado](https://www.cloudorado.com) ⚠️                  | VPS  | -         |
+| [CompareVPS](https://www.comparevps.com)                     | VPS  | 4+        |
+| [FindHost](https://www.findhost.app)                         | All  | 218       |
+| [GetDeploying](https://getdeploying.com)                     | All  | 10+       |
+| [GPUs](https://gpus.io)                                      | GPU  | ~5        |
+| [GPUVista](https://gpuvista.com)                             | GPU  | 12+       |
+| [GrabGPU](https://grabgpu.com)                               | GPU  | 22        |
+| [HostingHub](https://hostinghub.ru/top/vds/desheviy)         | VPS  | 10+       |
+| [Hundredth Run](https://hundredthrun-compute-desk.pages.dev) | GPU  | 25        |
+| [LowENDBox](https://lowendbox.com)                           | VPS  | -         |
+| [Serverhunter](https://www.serverhunter.com)                 | VPS  | 900+      |
+| [serverlist.dev](https://serverlist.dev)                     | All  | 44        |
+| [StackRates](https://stackrates.ai)                          | VPS  | 60        |
+| [vpsticker](https://vpsticker.com)                           | VPS  | 15        |
 
 ---
 
