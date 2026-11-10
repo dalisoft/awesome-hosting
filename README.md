@@ -302,7 +302,7 @@ List of all managed databases <sup>[1](#status)</sup>
 
 | Name                                                            | Type                   | Minimal plan                                                                                     | Trial        | Free             | Open Source |
 |-----------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------|--------------|------------------|-------------|
-| [Zenifra](https://www.zenifra.com/en)                           | PostgreSQL      | [DB-Starter](https://www.zenifra.com/en/pricing) (R$ 11.90/m)                                    | Yes           | 1GB Storage      |             |
+| [Zenifra](https://www.zenifra.com/en)                           | PostgreSQL      | [DB-Starter](https://www.zenifra.com/en/pricing) (R$ 11.90/m)                                           | Yes          | 1GB Storage      |             |
 | [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€ 3/m)                                                      | No           | 10Mb Storage     |             |
 | [Ownkube](https://ownkube.io)                                   | PostgreSQL             | [DB 0.5](https://ownkube.io/pricing) (4 \$/m)                                                    | No           | No               |             |
 | [alwaysdata](https://www.alwaysdata.com/en)                     | Any                    | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                                             | No           | Yes              |             |
