@@ -525,6 +525,7 @@ while executes with Build (cheap) model.
 | [GrabGPU](https://grabgpu.com)                       | GPU  | 22        |
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
+| [ServerBudget](https://serverbudget.com)             | VPS  | 3         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
 | [serverlist.dev](https://serverlist.dev)             | All  | 44        |
 | [StackRates](https://stackrates.ai)                  | VPS  | 60        |
