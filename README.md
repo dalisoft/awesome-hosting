@@ -206,6 +206,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [Surge](https://surge.sh)                                        | [Surge Professional](https://surge.sh/pricing) (30 \$/m) | No          | Yes       |                   | Static | No     |
 | [AWS Amplify](https://aws.amazon.com/amplify)                    | [Pay-as-you-Go](https://aws.amazon.com/amplify/pricing)  | No          | Yes (5Gb) |                   | Static | ?      |
 | [Firebase Hosting](https://firebase.google.com/products/hosting) | [Pay-as-you-Go](https://firebase.google.com/pricing)     | No          | Yes       |                   | Static | No     |
+| [Reliant](https://reliantlabs.io)                                | [Pay-as-you-Go](https://reliantlabs.io/pricing)          | No          | 1 site    |                   | Static | No     |
 
 ---
 
