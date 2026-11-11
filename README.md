@@ -472,6 +472,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [NagaAI][naga-ai-ref]                                        | [Pricing](https://naga.ac/pricing)              | -         |      |
 | [OpenRouter](https://openrouter.ai)                          | [Pricing](https://openrouter.ai/pricing)        | -         |      |
 | [OrcaRouter](https://orcarouter.ai)                          | [Pricing](https://orcarouter.ai/pricing)        | $5 credit |      |
+| [Outer Labs](https://outerlabs.ai)                           | [Pricing](https://outerlabs.ai/pricing)         | $5 credit | -    |
 | [Requesty][requesty-ai-ref]                                  | [Pricing](https://www.requesty.ai/pricing)      | $6 credit |      |
 | [SayGM](https://saygm.com)                                   | [Pricing](https://saygm.com/models)             | $1 credit | -    |
 | [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing](https://surplusintelligence.ai)       | -         | -    |
