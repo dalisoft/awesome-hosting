@@ -478,6 +478,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
 | [UberLLM](https://uberllm.dev)                               | [Pricing](https://uberllm.dev/docs/pricing)     | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing](https://usepod.ai)                    | -         | -    |
+| [Vectoree](https://vectoree.ai)                              | [Pricing](https://vectoree.ai/#pricing)         | $5 credit | -    |
 | [Venice](https://venice.ai)                                  | [Pricing](https://venice.ai)                    | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
