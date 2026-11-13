@@ -86,6 +86,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [Sevalla](https://sevalla.com)                                           | [Pricing](https://sevalla.com/pricing) (5 \$/m)               | $20 credit  | No                |             | Dynamic | No     |
 | [Shiper](https://shiper.app)                                             | [Builder](https://shiper.app/#pricing) (5 \$/m)               | $1          | Yes               |             | Dynamic | -      |
 | [Light Cloud](https://light-cloud.com)                                   | [Lite](https://light-cloud.com/pricing) (5 \$/m)              | No          | Yes               |             | Dynamic | No     |
+| [Ownkube](https://ownkube.io)                                            | [Personal](https://ownkube.io/pricing) (5 \$/m)               | $5 credit   | No                |             | Dynamic | No     |
 | [fortrabbit](https://www.fortrabbit.com)                                 | [Small website](https://www.fortrabbit.com/pricing) (€ 4.5/m) | 1-Week      | No                |             | Dynamic | No     |
 | [Render](https://render.com)                                             | [Starter](https://render.com/pricing) (7 \$/m)                | No          | Yes               |             | Dynamic | No     |
 | [Netlify Functions](https://www.netlify.com/platform/core/functions)     | [Personal](https://www.netlify.com/pricing) (9 \$/m)          | No          | Yes               | Yes         |         |        |
