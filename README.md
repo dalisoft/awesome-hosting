@@ -524,6 +524,7 @@ while executes with Build (cheap) model.
 | [CompareVPS](https://www.comparevps.com)             | VPS  | 4+        |
 | [FindHost](https://www.findhost.app)                 | All  | 218       |
 | [GetDeploying](https://getdeploying.com)             | All  | 10+       |
+| [GPU Cloud Prices](https://gpu-cloud-prices.pages.dev) | GPU  | 7+        |
 | [GPUs](https://gpus.io)                              | GPU  | ~5        |
 | [GPUVista](https://gpuvista.com)                     | GPU  | 12+       |
 | [GrabGPU](https://grabgpu.com)                       | GPU  | 22        |
