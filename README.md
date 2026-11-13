@@ -128,6 +128,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | [podway](https://podway.io)                                           | [Mini](https://podway.io/apps) (4 \$/m)                                        | No          | 1 app                  |             |
 | [Cloudflare Containers](https://developers.cloudflare.com/containers) | [Pay-as-you-Go](https://developers.cloudflare.com/containers/pricing) (5 \$/m) | No          | No                     |             |
 | [DigitalOcean Platform][do-ref]                                       | [Pay-as-you-Go][do-ref] (5 \$/m)                                               | $200 credit | Yes                    |             |
+| [Ownkube](https://ownkube.io)                                         | [Personal](https://ownkube.io/pricing) (5 \$/m)                                | $5 credit   | No                     |             |
 | [Rivet](https://rivet.dev)                                            | [Hobby](https://rivet.dev/pricing) (5 \$/m)                                    | No          | Yes                    |             |
 | [DeployBase](https://deploybase.io)                                   | [Starter](https://deploybase.io/pricing) (6 \$/m)                              | No          | No                     |             |
 | [Pethost](https://pethost.dev)                                        | [Starter](https://pethost.dev/#pricing) (€ 9.99/m)                             | No          | No                     |             |
