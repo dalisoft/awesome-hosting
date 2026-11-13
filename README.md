@@ -158,21 +158,21 @@ List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
 
 List of all Node.js hosting platform <sup>[1](#status)</sup>
 
-| Name                                                | Minimal plan                                                         | Trial  | Free                     | Open Source | Type | Lambda |
-|-----------------------------------------------------|----------------------------------------------------------------------|--------|--------------------------|-------------|------|--------|
-| [FadeHost](https://fadehost.com/app-hosting)        | [Starter](https://fadehost.com/plans-and-limits) (2 \$/m)            | No     | Yes (1 app, 256 MB)      |             | All  | No     |
-| [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No     | Developer Sandbox        |             | All  | No     |
-| [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No     | Yes (1 app)              |             | All  | Yes    |
-| [Ownkube](https://ownkube.io)                       | [Personal](https://ownkube.io/pricing) (5 \$/m)                      | No     | No                       |             | All  | No     |
-| [Railway](https://railway.com)                      | [Hobby](https://railway.com/pricing) (5 \$/m)                        | No     | No                       |             | All  | Yes    |
-| [Qoddi](https://qoddi.com)                          | [XS](https://qoddi.com/pricing) (6 \$/m)                             | No     | Static-only              |             | All  | No     |
-| [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No     | No                       |             | All  | No     |
-| [Glitch](https://glitch.com) 🛑                     | [Pro](https://glitch.com/pricing) (8 \$/m)                           | No     | Open-source ideas        |             | All  | ?      |
-| [GearHost](https://www.gearhost.com)                | [Hobby](https://www.gearhost.com/pricing) (10 \$/m)                  | No     | Yes (1 App + 1 Database) |             | All  | No     |
-| [Prisma Compute](https://www.prisma.io/compute)     | [Starter](https://www.prisma.io/pricing) (10 \$/m)                   | No     | Yes (1M req / month)     |             | All  | No     |
-| [StormKit](https://www.stormkit.io)                 | [Starter](https://www.stormkit.io/#pricing) (20 \$/m)                | No     | Yes (1 App)              |             | All  | No     |
-| [upsun](https://upsun.com)                          | [Professional](https://upsun.com/fixed-pricing)                      | ?      | No                       |             | All  | No     |
-| [OpenShift](https://www.openshift.com)              | [Pay-as-you-Go](https://www.openshift.com/products/pricing)          | 30-day | No                       |             | All  | No     |
+| Name                                                | Minimal plan                                                         | Trial     | Free                     | Open Source | Type | Lambda |
+|-----------------------------------------------------|----------------------------------------------------------------------|-----------|--------------------------|-------------|------|--------|
+| [FadeHost](https://fadehost.com/app-hosting)        | [Starter](https://fadehost.com/plans-and-limits) (2 \$/m)            | No        | Yes (1 app, 256 MB)      |             | All  | No     |
+| [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No        | Developer Sandbox        |             | All  | No     |
+| [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No        | Yes (1 app)              |             | All  | Yes    |
+| [Ownkube](https://ownkube.io)                       | [Personal](https://ownkube.io/pricing) (5 \$/m)                      | $5 credit | No                       |             | All  | No     |
+| [Railway](https://railway.com)                      | [Hobby](https://railway.com/pricing) (5 \$/m)                        | No        | No                       |             | All  | Yes    |
+| [Qoddi](https://qoddi.com)                          | [XS](https://qoddi.com/pricing) (6 \$/m)                             | No        | Static-only              |             | All  | No     |
+| [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No        | No                       |             | All  | No     |
+| [Glitch](https://glitch.com) 🛑                     | [Pro](https://glitch.com/pricing) (8 \$/m)                           | No        | Open-source ideas        |             | All  | ?      |
+| [GearHost](https://www.gearhost.com)                | [Hobby](https://www.gearhost.com/pricing) (10 \$/m)                  | No        | Yes (1 App + 1 Database) |             | All  | No     |
+| [Prisma Compute](https://www.prisma.io/compute)     | [Starter](https://www.prisma.io/pricing) (10 \$/m)                   | No        | Yes (1M req / month)     |             | All  | No     |
+| [StormKit](https://www.stormkit.io)                 | [Starter](https://www.stormkit.io/#pricing) (20 \$/m)                | No        | Yes (1 App)              |             | All  | No     |
+| [upsun](https://upsun.com)                          | [Professional](https://upsun.com/fixed-pricing)                      | ?         | No                       |             | All  | No     |
+| [OpenShift](https://www.openshift.com)              | [Pay-as-you-Go](https://www.openshift.com/products/pricing)          | 30-day    | No                       |             | All  | No     |
 
 ---
 
