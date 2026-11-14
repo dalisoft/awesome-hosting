@@ -231,6 +231,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | Name                                              | Minimal plan                                                                  | Trial              | Free                  | Open Source      |
 |---------------------------------------------------|-------------------------------------------------------------------------------|--------------------|-----------------------|------------------|
 | [MrVM](https://mrvm.net)                          | [LXC-256](https://mrvm.net/lxc) (€ 0.5/m)                                     | No                 | No                    |                  |
+| [natbox.io](https://natbox.io/)                   | [Nano](https://natbox.io/) (1 \$/m)                                           | 1 month            | No                    |                  |
 | [Raven Host](https://ravenhost.space/vps-hosting) | [Starter](https://ravenhost.space/vps-hosting) (3.99 \$/m)                    | No                 | No                    |                  |
 | [OVHCloud](https://www.ovhcloud.com)              | [Starter](https://www.ovhcloud.com/en/vps) (0.97 \$/m)                        | No                 |                       |                  |
 | [4VPS][4vps-ref]                                  | [See pricing][4vps-ref] (1.5 \$/m)                                            | No                 | No                    |                  |
