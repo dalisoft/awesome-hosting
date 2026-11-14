@@ -158,6 +158,7 @@ List of all Node.js hosting platform <sup>[1](#status)</sup>
 
 | Name                                                | Minimal plan                                                         | Trial  | Free                     | Open Source | Type | Lambda |
 |-----------------------------------------------------|----------------------------------------------------------------------|--------|--------------------------|-------------|------|--------|
+| [ESN Hosting](https://esnoffical.com)               | [Nano](https://panel.esnoffical.com/plans) (0.5 \$/m)                | No     | No                       |             | All  | No     |
 | [FadeHost](https://fadehost.com/app-hosting)        | [Starter](https://fadehost.com/plans-and-limits) (2 \$/m)            | No     | Yes (1 app, 256 MB)      |             | All  | No     |
 | [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No     | Developer Sandbox        |             | All  | No     |
 | [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No     | Yes (1 app)              |             | All  | Yes    |
@@ -189,6 +190,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [deed.page](https://deed.page)                                   | [Hobby](https://deed.page/pricing) (3 \$/m)              | No          | Yes       |                   | Static | No     |
 | [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | $200 credit | Yes       |                   | Static | No     |
 | [harvis.dev](https://harvis.dev)                                 | [Usage-based](https://harvis.dev/pricing) (5 \$/m)       | No          | Yes       |                   | Static | No     |
+| [Reliant](https://reliantlabs.io)                                | [Pay-as-you-Go](https://reliantlabs.io/pricing) (5 \$/m) | No          | 1 site    |                   | Static | No     |
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No          | No        |                   | Static | No     |
 | [Qoddi](https://qoddi.com)                                       | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No          | 3 apps    |                   | Static | No     |
 | [Stacktree](https://stacktr.ee)                                  | [Pro](https://stacktr.ee/pricing) (8 \$/m)               | No          | Yes       |                   | Static | No     |
@@ -292,6 +294,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [DarkVPS](https://darkvps.pro)                    | [See plans](https://darkvps.pro/#pricing) (€ 15/m)                            | No                 | No                    |                  |
 | [Hosting](https://hosting.com)                    | [VPS XS](https://hosting.com/hosting/vps-hosting/unmanaged/linux) (20 \$/m)   | No                 | No                    |                  |
 | [ScalaHosting](https://www.scalahosting.com)      | [Build #1](https://www.scalahosting.com/linux-vps-hosting.html) (24.95 \$/m)  | No                 | No                    |                  |
+| [Buddy Sandboxes](https://buddy.works/sandboxes)  | [Pro](https://buddy.works/pricing) (29 \$/m)                                  | 14-day             | $1 credit / month     |                  |
 | [fly.io](https://fly.io)                          | [Launch](https://fly.io/plans) (29 \$/m)                                      | No                 | Yes (3 shared-cpu VM) |                  |
 
 ---
@@ -479,6 +482,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
 | [UberLLM](https://uberllm.dev)                               | [Pricing](https://uberllm.dev/docs/pricing)     | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing](https://usepod.ai)                    | -         | -    |
+| [Vectoree](https://vectoree.ai)                              | [Pricing](https://vectoree.ai/#pricing)         | $5 credit | -    |
 | [Venice](https://venice.ai)                                  | [Pricing](https://venice.ai)                    | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
@@ -496,6 +500,7 @@ This method known as: Auto-switch, Auto Router
 | [NadirClaw](https://github.com/NadirRouter/NadirClaw)               | -            | -     | -                           |
 | [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                           |
 | [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
+| [Standard Compute](https://docs.standardcompute.com/models)         | Fixed rate   | $0.25 | -                           |
 | [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
 
 #### Fusion Model Routers
@@ -530,6 +535,7 @@ while executes with Build (cheap) model.
 | [GrabGPU](https://grabgpu.com)                       | GPU  | 22        |
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
+| [ServerBudget](https://serverbudget.com)             | VPS  | 3         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
 | [serverlist.dev](https://serverlist.dev)             | All  | 44        |
 | [StackRates](https://stackrates.ai)                  | VPS  | 60        |
@@ -546,6 +552,7 @@ while executes with Build (cheap) model.
 - <https://free-for.dev/#/?id=web-hosting>
 - <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
 - <https://gist.github.com/bmaupin/d2d243218863320b01b0c1e1ca0cf5f3>
+- <https://github.com/AlonDrilich/tld-renewal-prices>
 - <https://github.com/anaibol/awesome-serverless#hosting-and-code-execution-in-the-cloud>
 - <https://github.com/Simpix/researched-prices>
 - <https://hostdealradar.com>
