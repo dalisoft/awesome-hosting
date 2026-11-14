@@ -87,6 +87,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [Shiper](https://shiper.app)                                             | [Builder](https://shiper.app/#pricing) (5 \$/m)               | $1          | Yes               |             | Dynamic | -      |
 | [Light Cloud](https://light-cloud.com)                                   | [Lite](https://light-cloud.com/pricing) (5 \$/m)              | No          | Yes               |             | Dynamic | No     |
 | [Ownkube](https://ownkube.io)                                            | [Personal](https://ownkube.io/pricing) (5 \$/m)               | $5 credit   | No                |             | Dynamic | No     |
+| [Zenavo](https://zenavo.app)                                             | [Dev](https://zenavo.app/pricing) (5 \$/m)                    | No          | Yes               |             | Dynamic | No     |
 | [fortrabbit](https://www.fortrabbit.com)                                 | [Small website](https://www.fortrabbit.com/pricing) (€ 4.5/m) | 1-Week      | No                |             | Dynamic | No     |
 | [Render](https://render.com)                                             | [Starter](https://render.com/pricing) (7 \$/m)                | No          | Yes               |             | Dynamic | No     |
 | [Netlify Functions](https://www.netlify.com/platform/core/functions)     | [Personal](https://www.netlify.com/pricing) (9 \$/m)          | No          | Yes               | Yes         |         |        |
@@ -158,21 +159,22 @@ List of all Lambda(Serverless)-as-a-Service platform <sup>[1](#status)</sup>
 
 List of all Node.js hosting platform <sup>[1](#status)</sup>
 
-| Name                                                | Minimal plan                                                         | Trial     | Free                     | Open Source | Type | Lambda |
-|-----------------------------------------------------|----------------------------------------------------------------------|-----------|--------------------------|-------------|------|--------|
-| [FadeHost](https://fadehost.com/app-hosting)        | [Starter](https://fadehost.com/plans-and-limits) (2 \$/m)            | No        | Yes (1 app, 256 MB)      |             | All  | No     |
-| [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No        | Developer Sandbox        |             | All  | No     |
-| [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No        | Yes (1 app)              |             | All  | Yes    |
-| [Ownkube](https://ownkube.io)                       | [Personal](https://ownkube.io/pricing) (5 \$/m)                      | $5 credit | No                       |             | All  | No     |
-| [Railway](https://railway.com)                      | [Hobby](https://railway.com/pricing) (5 \$/m)                        | No        | No                       |             | All  | Yes    |
-| [Qoddi](https://qoddi.com)                          | [XS](https://qoddi.com/pricing) (6 \$/m)                             | No        | Static-only              |             | All  | No     |
-| [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No        | No                       |             | All  | No     |
-| [Glitch](https://glitch.com) 🛑                     | [Pro](https://glitch.com/pricing) (8 \$/m)                           | No        | Open-source ideas        |             | All  | ?      |
-| [GearHost](https://www.gearhost.com)                | [Hobby](https://www.gearhost.com/pricing) (10 \$/m)                  | No        | Yes (1 App + 1 Database) |             | All  | No     |
-| [Prisma Compute](https://www.prisma.io/compute)     | [Starter](https://www.prisma.io/pricing) (10 \$/m)                   | No        | Yes (1M req / month)     |             | All  | No     |
-| [StormKit](https://www.stormkit.io)                 | [Starter](https://www.stormkit.io/#pricing) (20 \$/m)                | No        | Yes (1 App)              |             | All  | No     |
-| [upsun](https://upsun.com)                          | [Professional](https://upsun.com/fixed-pricing)                      | ?         | No                       |             | All  | No     |
-| [OpenShift](https://www.openshift.com)              | [Pay-as-you-Go](https://www.openshift.com/products/pricing)          | 30-day    | No                       |             | All  | No     |
+| Name                                                | Minimal plan                                                         | Trial  | Free                     | Open Source | Type | Lambda |
+|-----------------------------------------------------|----------------------------------------------------------------------|--------|--------------------------|-------------|------|--------|
+| [ESN Hosting](https://esnoffical.com)               | [Nano](https://panel.esnoffical.com/plans) (0.5 \$/m)                | No     | No                       |             | All  | No     |
+| [FadeHost](https://fadehost.com/app-hosting)        | [Starter](https://fadehost.com/plans-and-limits) (2 \$/m)            | No     | Yes (1 app, 256 MB)      |             | All  | No     |
+| [Northflank](https://northflank.com)                | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)           | No     | Developer Sandbox        |             | All  | No     |
+| [Cyclic](https://www.cyclic.sh) 🛑                  | [Usage Based](https://cyclic.sh/pricing) (3 \$/m)                    | No     | Yes (1 app)              |             | All  | Yes    |
+| [Ownkube](https://ownkube.io)                       | [Personal](https://ownkube.io/pricing) (5 \$/m)                      | No     | No                       |             | All  | No     |
+| [Railway](https://railway.com)                      | [Hobby](https://railway.com/pricing) (5 \$/m)                        | No     | No                       |             | All  | Yes    |
+| [Qoddi](https://qoddi.com)                          | [XS](https://qoddi.com/pricing) (6 \$/m)                             | No     | Static-only              |             | All  | No     |
+| [HostPresto](https://hostpresto.com/nodejs-hosting) | [Node.js starter](https://hostpresto.com/nodejs-hosting) (6.85 \$/m) | No     | No                       |             | All  | No     |
+| [Glitch](https://glitch.com) 🛑                     | [Pro](https://glitch.com/pricing) (8 \$/m)                           | No     | Open-source ideas        |             | All  | ?      |
+| [GearHost](https://www.gearhost.com)                | [Hobby](https://www.gearhost.com/pricing) (10 \$/m)                  | No     | Yes (1 App + 1 Database) |             | All  | No     |
+| [Prisma Compute](https://www.prisma.io/compute)     | [Starter](https://www.prisma.io/pricing) (10 \$/m)                   | No     | Yes (1M req / month)     |             | All  | No     |
+| [StormKit](https://www.stormkit.io)                 | [Starter](https://www.stormkit.io/#pricing) (20 \$/m)                | No     | Yes (1 App)              |             | All  | No     |
+| [upsun](https://upsun.com)                          | [Professional](https://upsun.com/fixed-pricing)                      | ?      | No                       |             | All  | No     |
+| [OpenShift](https://www.openshift.com)              | [Pay-as-you-Go](https://www.openshift.com/products/pricing)          | 30-day | No                       |             | All  | No     |
 
 ---
 
@@ -191,6 +193,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [deed.page](https://deed.page)                                   | [Hobby](https://deed.page/pricing) (3 \$/m)              | No          | Yes       |                   | Static | No     |
 | [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | $200 credit | Yes       |                   | Static | No     |
 | [harvis.dev](https://harvis.dev)                                 | [Usage-based](https://harvis.dev/pricing) (5 \$/m)       | No          | Yes       |                   | Static | No     |
+| [Reliant](https://reliantlabs.io)                                | [Pay-as-you-Go](https://reliantlabs.io/pricing) (5 \$/m) | No          | 1 site    |                   | Static | No     |
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No          | No        |                   | Static | No     |
 | [Qoddi](https://qoddi.com)                                       | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No          | 3 apps    |                   | Static | No     |
 | [Stacktree](https://stacktr.ee)                                  | [Pro](https://stacktr.ee/pricing) (8 \$/m)               | No          | Yes       |                   | Static | No     |
@@ -294,6 +297,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [DarkVPS](https://darkvps.pro)                    | [See plans](https://darkvps.pro/#pricing) (€ 15/m)                            | No                 | No                    |                  |
 | [Hosting](https://hosting.com)                    | [VPS XS](https://hosting.com/hosting/vps-hosting/unmanaged/linux) (20 \$/m)   | No                 | No                    |                  |
 | [ScalaHosting](https://www.scalahosting.com)      | [Build #1](https://www.scalahosting.com/linux-vps-hosting.html) (24.95 \$/m)  | No                 | No                    |                  |
+| [Buddy Sandboxes](https://buddy.works/sandboxes)  | [Pro](https://buddy.works/pricing) (29 \$/m)                                  | 14-day             | $1 credit / month     |                  |
 | [fly.io](https://fly.io)                          | [Launch](https://fly.io/plans) (29 \$/m)                                      | No                 | Yes (3 shared-cpu VM) |                  |
 
 ---
@@ -381,6 +385,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Cloud4U](https://cloud4u.com)                              | [Pricing](https://cloud4u.com/cloud-hosting/gpu) (0.69 \$/h)           | No          |      |             |
 | [CoreWeave](https://coreweave.com)                          | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/h)         | No          |      |             |
 | [Thunder Compute](https://thundercompute.com)               | [Pricing](https://thundercompute.com/pricing) (0.78 \$/h)              | No          |      |             |
+| [GPUwerk](https://gpuwerk.com)                              | [Pricing](https://gpuwerk.com/pricing) (0.79 \$/h)                     | No          |      |             |
 | [Northflank](https://northflank.com)                        | [L4](https://northflank.com/pricing) (0.8 \$/h)                        | No          |      |             |
 | [TitanGPU](https://titangpu.com)                            | [Pricing](https://titangpu.com/#pricing) (€ 0.69/h)                    | No          |      |             |
 | [LeaderGPU](https://leadergpu.com)                          | [Pricing](https://leadergpu.com/#chose-best) (€ 523.38/m)              | No          |      |             |
@@ -474,12 +479,14 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [NagaAI][naga-ai-ref]                                        | [Pricing](https://naga.ac/pricing)              | -         |      |
 | [OpenRouter](https://openrouter.ai)                          | [Pricing](https://openrouter.ai/pricing)        | -         |      |
 | [OrcaRouter](https://orcarouter.ai)                          | [Pricing](https://orcarouter.ai/pricing)        | $5 credit |      |
+| [Outer Labs](https://outerlabs.ai)                           | [Pricing](https://outerlabs.ai/pricing)         | $5 credit | -    |
 | [Requesty][requesty-ai-ref]                                  | [Pricing](https://www.requesty.ai/pricing)      | $6 credit |      |
 | [SayGM](https://saygm.com)                                   | [Pricing](https://saygm.com/models)             | $1 credit | -    |
 | [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing](https://surplusintelligence.ai)       | -         | -    |
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
 | [UberLLM](https://uberllm.dev)                               | [Pricing](https://uberllm.dev/docs/pricing)     | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing](https://usepod.ai)                    | -         | -    |
+| [Vectoree](https://vectoree.ai)                              | [Pricing](https://vectoree.ai/#pricing)         | $5 credit | -    |
 | [Venice](https://venice.ai)                                  | [Pricing](https://venice.ai)                    | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
 | [Zyloo](https://zyloo.io)                                    | [Pricing](https://zyloo.io/models)              | -         |      |
@@ -497,6 +504,7 @@ This method known as: Auto-switch, Auto Router
 | [NadirClaw](https://github.com/NadirRouter/NadirClaw)               | -            | -     | -                           |
 | [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                           |
 | [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
+| [Standard Compute](https://docs.standardcompute.com/models)         | Fixed rate   | $0.25 | -                           |
 | [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
 
 #### Fusion Model Routers
@@ -531,6 +539,7 @@ while executes with Build (cheap) model.
 | [GrabGPU](https://grabgpu.com)                       | GPU  | 22        |
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
+| [ServerBudget](https://serverbudget.com)             | VPS  | 3         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
 | [serverlist.dev](https://serverlist.dev)             | All  | 44        |
 | [StackRates](https://stackrates.ai)                  | VPS  | 60        |
@@ -547,6 +556,7 @@ while executes with Build (cheap) model.
 - <https://free-for.dev/#/?id=web-hosting>
 - <https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c>
 - <https://gist.github.com/bmaupin/d2d243218863320b01b0c1e1ca0cf5f3>
+- <https://github.com/AlonDrilich/tld-renewal-prices>
 - <https://github.com/anaibol/awesome-serverless#hosting-and-code-execution-in-the-cloud>
 - <https://github.com/Simpix/researched-prices>
 - <https://hostdealradar.com>
