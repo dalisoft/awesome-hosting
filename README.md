@@ -120,6 +120,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | Name                                                                  | Minimal plan                                                                   | Trial       | Free                   | Open Source |
 |-----------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------|------------------------|-------------|
 | [Google Run](https://cloud.google.com/run)                            | [Pay-as-you-Go](https://cloud.google.com/run/pricing) (0.4 \$/m req)           | No          | 2M invocations / month |             |
+| [Zenifra](https://www.zenifra.com/en)                                 | [Static](https://www.zenifra.com/en/pricing) (R$ 5.90/m)                       | No          | 1 app 24/7, 512 MB RAM |             |
 | [Northflank](https://northflank.com)                                  | [Pay-as-you-Go](https://northflank.com/pricing) (2.7 \$/m)                     | No          | Developer Sandbox      |             |
 | [Hostim.dev](https://hostim.dev)                                      | [sa-1-1](https://hostim.dev/pricing/) (€ 2.5/m)                                | 5-Day       | No                     |             |
 | [The Vibe Hosting](https://thevibehosting.com)                        | [Pay-as-you-Go](https://thevibehosting.com/pricing) (3.6 \$/m per GB RAM)      | No          | 512 MB 24/7, 1 GB disk |             |
@@ -302,6 +303,8 @@ List of all managed databases <sup>[1](#status)</sup>
 
 | Name                                                            | Type                   | Minimal plan                                                                                     | Trial        | Free             | Open Source |
 |-----------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------|--------------|------------------|-------------|
+| [Zenifra](https://www.zenifra.com/en)                           | PostgreSQL             | [DB-Starter](https://www.zenifra.com/en/pricing) (R$ 11.90/m)                                    | Yes          | 1GB Storage      |             |
+| [Bot-Hosting.net](https://bot-hosting.net/database-hosting)     | Any                    | [Starter](https://bot-hosting.net/pricing) (2.29 \$/m)                                           | No           | 512Mb Storage    |             |
 | [Filess](https://filess.io)                                     | Any                    | [Basic](https://filess.io/#pricing) (€ 3/m)                                                      | No           | 10Mb Storage     |             |
 | [Ownkube](https://ownkube.io)                                   | PostgreSQL             | [DB 0.5](https://ownkube.io/pricing) (4 \$/m)                                                    | No           | No               |             |
 | [alwaysdata](https://www.alwaysdata.com/en)                     | Any                    | [Plus](https://www.alwaysdata.com/en/offers) (€ 5/m)                                             | No           | Yes              |             |
@@ -474,6 +477,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | [SayGM](https://saygm.com)                                   | [Pricing](https://saygm.com/models)             | $1 credit | -    |
 | [Surplus Intelligence](https://surplusintelligence.ai)       | [Pricing](https://surplusintelligence.ai)       | -         | -    |
 | [TokenRouter](https://www.tokenrouter.com)                   | [Pricing](https://www.tokenrouter.com/models)   | -         | -    |
+| [UberLLM](https://uberllm.dev)                               | [Pricing](https://uberllm.dev/docs/pricing)     | -         | -    |
 | [UsePod.ai](https://usepod.ai)                               | [Pricing](https://usepod.ai)                    | -         | -    |
 | [Venice](https://venice.ai)                                  | [Pricing](https://venice.ai)                    | -         | -    |
 | [Vercel](https://vercel.com/ai-gateway)                      | [Pricing](https://vercel.com/ai-gateway/models) | -         | -    |
