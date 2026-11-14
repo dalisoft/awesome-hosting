@@ -390,6 +390,7 @@ List of all GPU renting/hosting providers <sup>[1](#status)</sup>
 | [Lyceum](https://lyceum.technology)                         | [Pricing](https://lyceum.technology) (1.05 \$/m)                       |             |      |             |
 | [crusoe](https://crusoe.ai)                                 | [Pricing](https://crusoe.ai/cloud) (1.1 \$/h)                          | No          |      |             |
 | [Lepton](https://www.lepton.ai)                             | [Pricing](https://www.lepton.ai/pricing) (1.21 \$/h)                   | No          |      |             |
+| [QIT](https://qit.energy)                                     | [Pricing](https://qit.energy/pricing) (1.25 \$/h)                      | $1.56 credit|      |             |
 | [Render Network](https://rendernetwork.com)                 | [Pricing](https://rendernetwork.com/pricing) (€ 1/m)                   |             |      |             |
 | [ShaktiCloud](https://shakticloud.ai)                       | [Spark](https://shakticloud.ai/pricing.html) (1.52 \$/h)               | No          |      |             |
 | [Nebius](https://nebius.com)                                | [Pricing](https://nebius.com/prices) (2 \$/h)                          | No          |      |             |
