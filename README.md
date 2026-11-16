@@ -536,6 +536,7 @@ while executes with Build (cheap) model.
 | [GPUs](https://gpus.io)                              | GPU  | ~5        |
 | [GPUVista](https://gpuvista.com)                     | GPU  | 12+       |
 | [GrabGPU](https://grabgpu.com)                       | GPU  | 22        |
+| [HostBilgim](https://hostbilgim.com/en)              | All  | 1380+     |
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
 | [ServerBudget](https://serverbudget.com)             | VPS  | 3         |
