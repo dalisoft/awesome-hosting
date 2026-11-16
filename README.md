@@ -127,6 +127,7 @@ List of all Container-as-a-Service platform (likely Docker and Podman containers
 | [The Vibe Hosting](https://thevibehosting.com)                        | [Pay-as-you-Go](https://thevibehosting.com/pricing) (3.6 \$/m per GB RAM)      | No          | 512 MB 24/7, 1 GB disk |             |
 | [podway](https://podway.io)                                           | [Mini](https://podway.io/apps) (4 \$/m)                                        | No          | 1 app                  |             |
 | [Cloudflare Containers](https://developers.cloudflare.com/containers) | [Pay-as-you-Go](https://developers.cloudflare.com/containers/pricing) (5 \$/m) | No          | No                     |             |
+| [Dockhold](https://dockhold.eu/?ref=forum-github)                     | Compute (5 \$/m)                                                               | -           | Always-on public apps  |             |
 | [DigitalOcean Platform][do-ref]                                       | [Pay-as-you-Go][do-ref] (5 \$/m)                                               | $200 credit | Yes                    |             |
 | [Ownkube](https://ownkube.io)                                         | [Personal](https://ownkube.io/pricing) (5 \$/m)                                | $5 credit   | No                     |             |
 | [Rivet](https://rivet.dev)                                            | [Hobby](https://rivet.dev/pricing) (5 \$/m)                                    | No          | Yes                    |             |
