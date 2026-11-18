@@ -280,6 +280,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [AlfaHost](https://alfahost.io)                   | [Pricing](https://alfahost.io/?tab=vps) (6 \$/m)                              | No                 | No                    |                  |
 | [CloudTTK](https://cloud.ttk.ru)                  | [VMWare](https://cloud.ttk.ru/infrastructure/#uc-tab2) (6 \$/m)               | No                 | No                    |                  |
 | [GreenCloud](https://greencloudvps.com)           | [SSDKVM-1](https://greencloudvps.com/budget-kvm-vps.php) (6 \$/m)             | No                 | No                    |                  |
+| [MonoVM](https://monovm.com/) | [Linux 512 MB](https://monovm.com/vps-server/) (6 \$/m) | | | |
 | [FFxF](https://ffxf.net)                          | [Nano](https://ffxf.net/pricing) (6.05 \$/m)                                  | $3.56 credit       | No                    |                  |
 | [Hyonix](https://hyonix.com)                      | HS-1 (6.5 \$/m)                                                               | No                 | No                    |                  |
 | [Megahost](https://megahost.kz/vps)               | [SSD-mini](https://megahost.kz/vps) (6.5 \$/m)                                | No                 | No                    |                  |
