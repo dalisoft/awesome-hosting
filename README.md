@@ -476,6 +476,7 @@ See [AI Coding Subscriptions](https://github.com/dalisoft/awesome-ai-coding?tab=
 | Name                                                         | Minimal plan                                    | Trial     | Free |
 |--------------------------------------------------------------|-------------------------------------------------|-----------|------|
 | [Cloudflare](https://www.cloudflare.com/products/ai-gateway) | -                                               | -         | -    |
+| [HiAPI](https://hiapi.ai)                                    | [Pricing](https://hiapi.ai/en/pricing)          | $0.10     | -    |
 | [NagaAI][naga-ai-ref]                                        | [Pricing](https://naga.ac/pricing)              | -         |      |
 | [OpenRouter](https://openrouter.ai)                          | [Pricing](https://openrouter.ai/pricing)        | -         |      |
 | [OrcaRouter](https://orcarouter.ai)                          | [Pricing](https://orcarouter.ai/pricing)        | $5 credit |      |
