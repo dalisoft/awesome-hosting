@@ -196,6 +196,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [harvis.dev](https://harvis.dev)                                 | [Usage-based](https://harvis.dev/pricing) (5 \$/m)       | No          | Yes       |                   | Static | No     |
 | [Reliant](https://reliantlabs.io)                                | [Pay-as-you-Go](https://reliantlabs.io/pricing) (5 \$/m) | No          | 1 site    |                   | Static | No     |
 | [tiiny.host](https://tiiny.host)                                 | [Tiny](https://tiiny.host) (5 \$/m)                      | No          | No        |                   | Static | No     |
+| [droply](https://droply.so)                                      | [Starter](https://droply.so/pricing) (6 \$/m)            | 7 days      | 1 project |                   | Static | No     |
 | [Qoddi](https://qoddi.com)                                       | [XS](https://qoddi.com/pricing) (6 \$/m)                 | No          | 3 apps    |                   | Static | No     |
 | [Stacktree](https://stacktr.ee)                                  | [Pro](https://stacktr.ee/pricing) (8 \$/m)               | No          | Yes       |                   | Static | No     |
 | [Benchlight](https://benchlight.dev)                             | [Own address](https://benchlight.dev/pricing) (9 \$/m)   | 14 days     | Yes       |                   | Static | No     |
