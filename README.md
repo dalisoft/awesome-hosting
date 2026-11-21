@@ -89,6 +89,7 @@ List of all Backend-as-a-Service platform <sup>[1](#status)</sup>
 | [Zenavo](https://zenavo.app)                                             | [Dev](https://zenavo.app/pricing) (5 \$/m)                    | No          | Yes               |             | Dynamic | No     |
 | [fortrabbit](https://www.fortrabbit.com)                                 | [Small website](https://www.fortrabbit.com/pricing) (€ 4.5/m) | 1-Week      | No                |             | Dynamic | No     |
 | [Render](https://render.com)                                             | [Starter](https://render.com/pricing) (7 \$/m)                | No          | Yes               |             | Dynamic | No     |
+| [blitz.cloud](https://blitz.cloud)                                       | [Pro](https://blitz.cloud/pricing) (€ 7/m)                    | No          | Yes               |             | Dynamic | No     |
 | [Netlify Functions](https://www.netlify.com/platform/core/functions)     | [Personal](https://www.netlify.com/pricing) (9 \$/m)          | No          | Yes               | Yes         |         |        |
 | [Zerops](https://zerops.io)                                              | [Pricing](https://zerops.io/pricing) (10 \$/m)                | No          | No                |             | Dynamic | No     |
 | [Leapcell](https://leapcell.io)                                          | [Plus](https://leapcell.io/pricing) (12.9 \$/m)               | No          | Yes               |             | Dynamic | -      |
