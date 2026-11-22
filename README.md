@@ -544,6 +544,7 @@ while executes with Build (cheap) model.
 | [HostingHub](https://hostinghub.ru/top/vds/desheviy) | VPS  | 10+       |
 | [Lantern Works](https://thelanternworks.com)         | GPU  | 25        |
 | [LowENDBox](https://lowendbox.com)                   | VPS  | -         |
+| [NodeRings](https://noderings.com)                   | VPS  | -         |
 | [ServerBudget](https://serverbudget.com)             | VPS  | 3         |
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
 | [serverlist.dev](https://serverlist.dev)             | All  | 44        |
