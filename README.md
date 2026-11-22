@@ -192,6 +192,7 @@ List of all static site hosting platform <sup>[1](#status)</sup>
 | [Rollout](https://rollout.run)                                   | -                                                        | No          | Yes       |                   | Static | No     |
 | [Sevalla Static Sites](https://sevalla.com/static-site-hosting)  | -                                                        | No          | Yes       |                   | Static | No     |
 | [deed.page](https://deed.page)                                   | [Hobby](https://deed.page/pricing) (3 \$/m)              | No          | Yes       |                   | Static | No     |
+| [Pagehaus](https://pagehaus.app)                                 | [Personal](https://pagehaus.app/pricing) (4 \$/m)        | No          | Yes       |                   | Static | No     |
 | [DigitalOcean Platform][do-ref]                                  | [Pay-as-you-Go][do-ref] (5 \$/m)                         | $200 credit | Yes       |                   | Static | No     |
 | [harvis.dev](https://harvis.dev)                                 | [Usage-based](https://harvis.dev/pricing) (5 \$/m)       | No          | Yes       |                   | Static | No     |
 | [Reliant](https://reliantlabs.io)                                | [Pay-as-you-Go](https://reliantlabs.io/pricing) (5 \$/m) | No          | 1 site    |                   | Static | No     |
