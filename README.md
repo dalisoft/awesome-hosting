@@ -247,6 +247,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [RackNerd][racknerd-ref]                          | [See pricing](https://www.racknerd.com/kvm-vps) (1.92 \$/m)                   | No                 | No                    |                  |
 | [BuyVM](https://buyvm.net)                        | [Slice 512](https://buyvm.net/kvm-dedicated-server-slices) (2 \$/m)           | No                 | No                    |                  |
 | [IONOS](https://ionos.com)                        | [See plans](https://ionos.com/hosting/vps) (2 \$/m)                           | No                 | No                    |                  |
+| [Apidly Cloud](https://apidly.com)                          | [Pricing](https://apidly.com/pricing) (0.41 \$/h)                      | No          |      |             |
 | [VDSina][vdsina-ref]                              | Standard (2.1 \$/m)                                                           | No                 | No                    |                  |
 | [VScale](https://www.vscale.io)                   | [See pricing](https://vscale.io/cloud/instances/order) (~2.15 \$/m)           | No                 |                       |                  |
 | [beget](https://beget.com)                        | [Pricing](https://beget.com/en/vps) (€ 2.09/m)                                |                    |                       |                  |
