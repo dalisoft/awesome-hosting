@@ -538,6 +538,7 @@ while executes with Build (cheap) model.
 | [Cloudorado](https://www.cloudorado.com) ⚠️          | VPS  | -         |
 | [CompareVPS](https://www.comparevps.com)             | VPS  | 4+        |
 | [FindHost](https://www.findhost.app)                 | All  | 218       |
+| [Free LLM API Hub](https://freellmapihub.com)        | LLM  | 60+       |
 | [GetDeploying](https://getdeploying.com)             | All  | 10+       |
 | [GPUs](https://gpus.io)                              | GPU  | ~5        |
 | [GPUVista](https://gpuvista.com)                     | GPU  | 12+       |
