@@ -552,6 +552,7 @@ while executes with Build (cheap) model.
 | [Serverhunter](https://www.serverhunter.com)         | VPS  | 900+      |
 | [serverlist.dev](https://serverlist.dev)             | All  | 44        |
 | [StackRates](https://stackrates.ai)                  | VPS  | 60        |
+| [VPSRanker](https://vpsranker.com)                   | VPS  | 41        |
 | [vpsticker](https://vpsticker.com)                   | VPS  | 15        |
 
 ---
