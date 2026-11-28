@@ -291,6 +291,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Megahost](https://megahost.kz/vps)               | [SSD-mini](https://megahost.kz/vps) (6.5 \$/m)                                | No                 | No                    |                  |
 | [Adaptable](https://adaptable.io)                 | Hobby (7 \$/m)                                                                | No                 | Public-repos only     |                  |
 | [FasterHost](https://www.fasterhost.in)           | [Starter](https://www.fasterhost.in/vps-hosting.php) (7.07 \$/m)              | No                 | No                    |                  |
+| [Bigdomainhost](https://bigdomainhost.in)         | [Starter](https://bigdomainhost.in/vps-hosting.html) (7.25 \$/m)              | No                 | No                    |                  |
 | [Cloudzy](https://cloudzy.com)                    | [Basic](https://cloudzy.com/pricing) (7.48 \$/m)                              | 14-day             | No                    |                  |
 | [Hostworld](https://hostworld.uk)                 | [See pricing](https://hostworld.uk/ssd-vps) (9.58 \$/m)                       | No                 | No                    |                  |
 | [rdp.monster][rdp-monster-ref]                    | [Basic](https://rdp.monster) (€ 9/m)                                          | No                 | No                    |                  |
