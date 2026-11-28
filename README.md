@@ -272,7 +272,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [RuVPS](https://ruvps.net)                        | [VPS-1](https://ruvps.net/en/vps) (4.5 \$/m)                                  | No                 | No                    |                  |
 | [Hetzner](https://www.hetzner.com) ⛔️             | [See plans](https://www.hetzner.com/cloud) (€ 4/m)                            | No                 | No                    |                  |
 | [DataCheap](https://en.datacheap.ru)              | [LINUX](https://en.datacheap.ru/services/arenda-vps-vds-serverov) (4.91 \$/m) | No                 | No                    |                  |
-| [Simafri](https://www.simafri.com/en/)            | [VPS Pro 1](https://www.simafri.com/en/vps/) (4.99 \$/m)                      | No                 | No                    |                  |
+| [Simafri](https://www.simafri.com/en)             | [VPS Pro 1](https://www.simafri.com/en/vps) (5 \$/m)                          | No                 | No                    |                  |
 | [Akamai Cloud][linode-ref] ✅                     | [Nanode 1GB][linode-ref] (5 \$/m)                                             | $100 credit        | No                    |                  |
 | [Rackgenius](https://rackgenius.com)              | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)                      | No                 | No                    |                  |
 | [SSD Nodes](https://www.ssdnodes.com) ⛔️          | [KVM / Small](https://www.ssdnodes.com/pricing) (5 \$/m)                      | 14-day refund only | No                    |                  |
